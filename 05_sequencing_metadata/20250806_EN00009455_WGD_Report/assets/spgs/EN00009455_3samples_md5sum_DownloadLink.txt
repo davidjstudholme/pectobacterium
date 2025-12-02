@@ -1,0 +1,7 @@
+File	Size	md5sum	Download_link
+P2_1.fastq.gz	756,734,226	a6d2689d70786446b19467c86bb4cd2c	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/P2_1.fastq.gz
+P2_2.fastq.gz	777,084,741	9fb402958c2754d49f48b44a79d5c0ac	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/P2_2.fastq.gz
+PRT5_1.fastq.gz	508,809,084	d415c963dbac81e7380d510b7ca11576	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/PRT5_1.fastq.gz
+PRT5_2.fastq.gz	530,338,836	e329fda28dbb7e1f2c52f0bab26bdd5c	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/PRT5_2.fastq.gz
+41_1.fastq.gz	575,454,440	0d80a34b6717bc69424ac973f65bea67	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/41_1.fastq.gz
+41_2.fastq.gz	599,618,416	c16596a9f3698c0d43aa956f850db29b	https://data.macrogen-europe.com/~macroeu/NovaSeq01/20250806/EN00009455/41_2.fastq.gz

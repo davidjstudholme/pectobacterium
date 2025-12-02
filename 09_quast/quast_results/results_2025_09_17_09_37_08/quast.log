@@ -1,0 +1,72 @@
+/data/djs217/miniconda3/envs/quast_env/bin/quast.py 41.unicycler.assembly.fasta P2.unicycler.assembly.fasta PRT5.unicycler.assembly.fasta
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-5.15.0-153-generic-x86_64-with-glibc2.35 (linux_64)
+  Python version: 3.12.7
+  CPUs number: 32
+
+Started: 2025-09-17 09:37:08
+
+Logging to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/quast.log
+NOTICE: Maximum number of threads is set to 8 (use --threads option to set it manually)
+
+CWD: /data/djs217/PROJECTS/44_Pectobacterium/04_quast
+Main parameters: 
+  MODE: default, threads: 8, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  41.unicycler.assembly.fasta ==> 41.unicycler.assembly
+  2  P2.unicycler.assembly.fasta ==> P2.unicycler.assembly
+  3  PRT5.unicycler.assembly.fasta ==> PRT5.unicycler.assembly
+
+2025-09-17 09:37:19
+Running Basic statistics processor...
+  Contig files: 
+    1  41.unicycler.assembly
+    2  P2.unicycler.assembly
+    3  PRT5.unicycler.assembly
+  Calculating N50 and L50...
+    1  41.unicycler.assembly, N50 = 454142, L50 = 4, auN = 524161.6, Total length = 5959158, GC % = 60.13, # N's per 100 kbp =  0.00
+    2  P2.unicycler.assembly, N50 = 42572, L50 = 106, auN = 64294.4, Total length = 17951293, GC % = 44.02, # N's per 100 kbp =  0.00
+    3  PRT5.unicycler.assembly, N50 = 447827, L50 = 4, auN = 464120.6, Total length = 4633415, GC % = 52.06, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/GC_content_plot.pdf
+  Drawing 41.unicycler.assembly GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/41.unicycler.assembly_GC_content_plot.pdf
+  Drawing P2.unicycler.assembly GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/P2.unicycler.assembly_GC_content_plot.pdf
+  Drawing PRT5.unicycler.assembly GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/basic_stats/PRT5.unicycler.assembly_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-09-17 09:37:24
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-09-17 09:37:25
+RESULTS:
+  Text versions of total report are saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/report.html
+  PDF version (tables and plots) is saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/report.pdf
+  Icarus (contig browser) is saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/icarus.html
+  Log is saved to /data/djs217/PROJECTS/44_Pectobacterium/04_quast/quast_results/results_2025_09_17_09_37_08/quast.log
+
+Finished: 2025-09-17 09:37:25
+Elapsed time: 0:00:16.878517
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
