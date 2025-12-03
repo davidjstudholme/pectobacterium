@@ -1,0 +1,692 @@
+AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner	Link
+GCF_000011605.1	ASM1160v1	Pectobacterium atrosepticum SCRI1043 (enterobacteria)	29471	SAMEA1705920	5064019				EBI	
+GCF_000023605.1	ASM2360v1	Pectobacterium carotovorum subsp. carotovorum PC1 (enterobacteria)	554	SAMN02598478	4862913		PC1		NCBI	31289
+GCF_000024645.1	ASM2464v1	Pectobacterium parmentieri WPP163 (enterobacteria)	1905730	SAMN02598479	5063892		WPP163		NCBI	31293
+GCF_000173135.1	ASM17313v1	Pectobacterium brasiliense PBR1692 (enterobacteria)	180957	SAMN02472014	74741		PBR1692		NCBI	31121
+GCF_000173155.1	ASM17315v1	Pectobacterium carotovorum subsp. carotovorum WPP14 (enterobacteria)	554	SAMN02472006	37002		WPP14		NCBI	31123
+GCF_000260925.1	ASM26092v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN02604188	5164411		SCC3193		NCBI	122637
+GCF_000291725.1	PecWas1.0	Pectobacterium wasabiae CFBP 3304 (enterobacteria)	55208	SAMN02471791	259694	532	CFBP 3304		NCBI	159625
+GCF_000294535.1	ASM29453v1	Pectobacterium carotovorum subsp. carotovorum PCC21 (enterobacteria)	554	SAMN02603169	4842771		PCC21		NCBI	171960
+GCF_000389755.1	Pa6276v1.0	Pectobacterium atrosepticum CFBP 6276 (enterobacteria)	29471	SAMN02469608	1522583	1015	CFBP 6276		NCBI	188399
+GCF_000632375.1	Pectobacterium wasabiae CFIA1002	Pectobacterium parmentieri CFIA1002 (enterobacteria)	1905730	SAMN02630743	345203	175	CFIA1002		Canadian Food Inspection Agency	
+GCF_000696465.1	ASM69646v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN02797737	5004926	95	JG10-08		Agricultural University of Hebei	247436
+GCF_000738105.1	ASM73810v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN02947973	104313	21	CFIA1009		Canadian Food Inspection Agency	
+GCF_000738115.1	ASM73811v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN02947962	254473	27	CFIA1001		Canadian Food Inspection Agency	
+GCF_000738125.1	ASM73812v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN02947974	93179	37	CFIA1033		Canadian Food Inspection Agency	
+GCF_000740965.1	ASM74096v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN02983234	4991806	268	21A		Belarus State University	
+GCF_000749845.1	ASM74984v1	Pectobacterium betavasculorum (enterobacteria)	55207	SAMN02999474	472932	40	NCPPB 2795		Food and Environment Research Agency	
+GCF_000749855.1	ASM74985v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN02999421	547054	49	NCPPB 312		Food and Environment Research Agency	
+GCF_000749865.1	ASM74986v1	Pectobacterium wasabiae (enterobacteria)	55208	SAMN02999477	355840	50	NCPPB 3701		Food and Environment Research Agency	
+GCF_000749905.1	ASM74990v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN02999423	395607	107	NCPPB 549		Food and Environment Research Agency	
+GCF_000749915.1	ASM74991v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN02999475	170558	60	NCPPB 3395		Food and Environment Research Agency	
+GCF_000749925.1	ASM74992v1	Pectobacterium betavasculorum (enterobacteria)	55207	SAMN02999424	301654	30	NCPPB 2793		Food and Environment Research Agency	
+GCF_000749965.1	ASM74996v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN02999476	564685	60	NCPPB 3404		Food and Environment Research Agency	
+GCF_000754685.1	ASM75468v1	Pectobacterium wasabiae (enterobacteria)	55208	SAMN03010635	465249	40	NCPPB 3702		Food and Environment Research Agency	
+GCF_000754695.1	ASM75469v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03010639	514700	60	LMG 21371		Food and Environment Research Agency	
+GCF_000754705.1	ASM75470v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03010640	1055512	47	LMG 21372		Food and Environment Research Agency	
+GCF_000754715.1	ASM75471v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN03010638	238674	40	NCPPB 3841		Food and Environment Research Agency	
+GCF_000754765.1	ASM75476v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN03010636	278770	50	NCPPB 3839		Food and Environment Research Agency	
+GCF_000757625.1	PecWasRNS_1.0	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN02729843	448690	350	RNS 08-42-1A		CNRS - UPR2355	
+GCF_000769535.1	ASM76953v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN03098274	4933575	137	BC S7		Beijing Agro-Biotechnology Research Center	
+GCF_000803215.1	ASM80321v1	Pectobacterium fontis (enterobacteria)	2558042	SAMN03154070	126203	53.3	M022		University of Malaya	
+GCF_000803315.1	ASM80331v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN02849387	4068673	2746	KKH3		National Academy of Agricultural Science	252053
+GCF_000808115.1	ASM80811v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03220250	230573	100	Y49		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808145.1	ASM80814v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252595	816391	100	Y62		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808195.1	ASM80819v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252598	400834	100	Y64		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808215.1	ASM80821v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03252600	307303	100	Y57		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808235.1	ASM80823v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252605	385890	100	Y21		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808245.1	ASM80824v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252606	262727	100	Y29		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808255.1	ASM80825v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252603	263813	100	Y46		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808295.1	ASM80829v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252607	815405	100	Y31		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808315.1	ASM80831v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252608	678245	100	Y3		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808335.1	ASM80833v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252609	239237	100	Y65		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808355.1	ASM80835v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252622	241166	100	B6		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808375.1	ASM80837v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252599	234442	100	S2		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808385.1	ASM80838v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252594	429995	100	Y52		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808415.1	ASM80841v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN03252604	245154	100	Y1		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808435.1	ASM80843v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03252616	272417	100	Y16		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808455.1	ASM80845v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03252617	375495	100	Y60		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808475.1	ASM80847v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03252618	839338	100	Y39		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808495.1	ASM80849v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03252619	605830	100	B2		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_000808515.1	ASM80851v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03252620	1446736	100	B5		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_001038675.1	ASM103867v1	Pectobacterium brasiliense ICMP 19477 (enterobacteria)	180957	SAMN03780057	1120187	50	ICMP 19477		The New Zealand Institute of Plant & Food Research, Bioprotection	72121
+GCF_001038685.1	ASM103868v1	Pectobacterium atrosepticum ICMP 1526 (enterobacteria)	29471	SAMN03780058	797800	40	ICMP 1526		Plant and Food Research, Canterbury Agriculture and Science Center, Bio-Protection	72123
+GCF_001039055.1	ASM103905v1	Pectobacterium carotovorum subsp. carotovorum ICMP 5702 (enterobacteria)	554	SAMN03782483	448171	200	ICMP 5702		Lincoln University	183435
+GCF_001039065.1	ASM103906v1	Pectobacterium peruviense (enterobacteria)	2066479	SAMN03782482	307291	200	UGC32		Lincoln University	183436
+GCF_001238575.1	ASM123857v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03835252	1001875	117	BD255		University of South Africa	
+GCF_001429565.2	ASM142956v2	Pectobacterium brasiliense (enterobacteria)	180957	SAMN04127569	404385	386	PcbHPI01		University of Pretoria	
+GCF_001742145.1	ASM174214v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN02729843	5030841	150	RNS 08-42-1A		CNRS - UPR2355	
+GCF_001742185.1	ASM174218v1	Pectobacterium wasabiae CFBP 3304 (enterobacteria)	55208	SAMN04915576	5043228	150	CFBP 3304		Institute for integrative biology of the cell	
+GCF_001932635.1	ASM193263v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN03104805	4920350	335	BC1		Institute of Crop Sciences, Chinese Academy of Agricultural Science	263220
+GCF_001984525.1	ASM198452v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN06049671	143499	40	ICMP 9972		Plant & Food Research	
+GCF_001984535.1	ASM198453v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN06049670	81179	40	ICMP 19971		Scion	
+GCF_002068115.1	ASM206811v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN06605957	4966299	90.89	SX309		Chinese Academy of Agricultural Sciences	
+GCF_002250215.2	ASM225021v2	Pectobacterium brasiliense (enterobacteria)	180957	SAMN06684311	106099	58	BF20		Biotechnology Institute of UNAM	
+GCF_002250255.2	ASM225025v2	Pectobacterium brasiliense (enterobacteria)	180957	SAMN06684312	115742	56	BF45		Biotechnology Institute of UNAM	
+GCF_002288545.1	ASM228854v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN05853907	5008416		NIBIO1392		NIBIO	
+GCF_002307355.1	ASM230735v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN05853691	4826824		NIBIO1006		NIBIO	
+GCF_002764035.1	ASM276403v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN07961732	4924809	210	BZA12		Shenyang Agricultural University	416681
+GCF_002804265.1	ASM280426v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN08041542	4965575	458	36A		Belarusian State University	419060
+GCF_002847345.1	ASM284734v1	Pectobacterium peruviense (enterobacteria)	2066479	SAMN04526254	199701	53	IFB5232		University of Gdansk	313959
+GCF_002847355.1	ASM284735v1	Pectobacterium peruviense (enterobacteria)	2066479	SAMN04526230	224651	35	IFB5229		University of Gdansk	313958
+GCF_002869945.1	ASM286994v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN08159913	158729	64.18	F164		Institute of Bioorganic Chemistry	400696
+GCF_002904005.1	ASM290400v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205152	222532	124	Q3		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904025.1	ASM290402v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205229	168533	126.93	Q40		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904045.1	ASM290404v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205240	242905	117.251	Q32		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904055.1	ASM290405v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205241	224535	96	Q47		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904085.1	ASM290408v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205303	264533	116	Q106		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904105.1	ASM290410v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205304	207921	114	Q115		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904125.1	ASM290412v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205363	283031	119.99	S6-2		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904145.1	ASM290414v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205364	239444	112.616	T4		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904185.1	ASM290418v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205365	232251	133	Q142		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904195.1	ASM290419v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06205368	232238	117	Q166		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904225.1	ASM290422v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06209135	251357	130.203	S6		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002904255.1	ASM290425v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN06209134	254985	94	T5		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_002920025.1	ASM292002v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN07572936	238550	66	PB72		Institute of Bioorganic Chemistry	400696
+GCF_002920045.2	ASM292004v2	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN07572933	4847736	20	PB20		Institute of Bioorganic Chemistry	400696
+GCF_002921205.1	ASM292120v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN07811812	456866	58	F018		Phytoengineering R&D Centre, LLC	
+GCF_002921235.2	ASM292123v2	Pectobacterium versatile (enterobacteria)	2488639	SAMN07815818	4839711	50	F131		Phytoengineering R&D Centre, LLC	
+GCF_002921275.1	ASM292127v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN07816133	145253	53	F135		Phytoengineering R&D Centre, LLC	415106
+GCF_002921285.1	ASM292128v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN07816141	999290	44	PB69		Phytoengineering R&D Centre, LLC	415106
+GCF_002921295.1	ASM292129v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN07816145	457866	44	PB70		Phytoengineering R&D Centre, LLC	415106
+GCF_002930535.1	ASM293053v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN08141583	477849	119.41	F157		Institute of Bioorganic Chemistry	400696
+GCF_002930555.1	ASM293055v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN08141585	174410	54.34	F152		Institute of Bioorganic Chemistry	400696
+GCF_002983505.1	ASM298350v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN06285190	856905	277	Ecc71		Tennessee State University	369272
+GCF_003028395.1	ASM302839v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN08626519	116258	72	SS95		University of Agriculture Faisalabad	
+GCF_003031305.1	ASM303130v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN03144687	4975878	300	3-2		Belarus State University	
+GCF_003096475.1	ASM309647v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN08769269	5023534	159	WS2152		DOE Joint Genome Institute	https://gold.jgi.doe.gov/projects?id=Gp0252077 439740
+GCF_003121725.1	ASM312172v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN08979055	90297	36	SS26		University of Agriculture Faisalabad	
+GCF_003121735.1	ASM312173v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN08979056	243038	56	SS28		University of Agriculture Faisalabad	
+GCF_003121765.1	ASM312176v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN08979058	211427	60	SS96		University of Agriculture Faisalabad	
+GCF_003121785.1	ASM312178v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08979057	176176	64	SS90		University of Agriculture Faisalabad	
+GCF_003186045.1	ASM318604v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN09280259	220041	67	ATCC 39048		University of Cambridge	473645
+GCF_003312345.1	ASM331234v1	Pectobacterium peruviense (enterobacteria)	2066479	SAMN08798619	111906	331	A97-S13-F16		Sorbonne University	
+GCF_003312355.2	ASM331235v2	Pectobacterium peruviense (enterobacteria)	2066479	SAMN08798632	4946471	86	A350-S18-N16		Sorbonne University	445781
+GCF_003382565.3	ASM338256v3	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259578	4464425	101	A212-S19-A16		Sorbonne University	473080
+GCF_003382585.2	ASM338258v2	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259576	103487	167	A105-S21-F16		Sorbonne University	473080
+GCF_003382595.2	ASM338259v2	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259575	72817	180	A104-S21-F16		Sorbonne University	473080
+GCF_003382625.3	ASM338262v3	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259574	4371146	175	A101-S19-F16		Sorbonne University	473080
+GCF_003382645.2	ASM338264v2	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259573	85652	102	A35-S23-M15		Sorbonne University	473080
+GCF_003382655.2	ASM338265v2	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN09259577	60872	60	A127-S21-F16		Sorbonne University	473080
+GCF_003402555.1	Sfl_assembly01	Pectobacterium versatile (enterobacteria)	2488639	SAMD00119560	144435	60	RMIT1		Biomedicine Discovery Institute, Monash University	474847
+GCF_003571485.1	ASM357148v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN06621608	3680778	40	SCC1		University of Helsinki	379819
+GCF_003594975.1	ASM359497v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN10059736	139665	467.56	S4.16.03.1C		Institute for integrative biology of the cell	490624
+GCF_003594995.1	ASM359499v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10059732	89731	143.11	S4.16.03.3F		Institute for integrative biology of the cell	490624
+GCF_003595035.1	ASM359503v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10059739	155865	41.2	S4.16.03.2B		Institute for integrative biology of the cell	490624
+GCF_003595055.1	ASM359505v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN10059737	99392	420.18	S1.15.11.2D		Institute for integrative biology of the cell	490624
+GCF_003595065.1	ASM359506v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10059734	82620	246.55	S4.16.03.3I		Institute for integrative biology of the cell	490624
+GCF_003595115.1	ASM359511v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN10059738	146844	410.19	S1.16.01.3K		Institute for integrative biology of the cell	490624
+GCF_003595125.1	ASM359512v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN10059735	255206	55.87	S1-A16		Institute for integrative biology of the cell	490624
+GCF_003595135.1	ASM359513v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10059733	90195	237.85	S4.16.03.3K		Institute for integrative biology of the cell	490624
+GCF_003628015.1	ASM362801v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494010	4422084	493	IFB5626		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628025.1	ASM362802v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494005	1593647	548	IFB5597		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628575.1	ASM362857v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08493999	5022017	100	IFB5408		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628595.1	ASM362859v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494003	4885249	145	IFB5485		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628615.1	ASM362861v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494009	4610123	545	IFB5623		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628635.1	ASM362863v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494001	5010533	152	IFB5432		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628655.1	ASM362865v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494002	5082177	126	IFB5441		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628675.1	ASM362867v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494004	5038122	118	IFB5486		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628695.1	ASM362869v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494006	4877201	407	IFB5604		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628715.1	ASM362871v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494007	3823946	496	IFB5605		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003628735.1	ASM362873v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494008	4959302	475	IFB5619		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_003800545.1	ASM380054v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN10450690	1156993	200	HAI2-SCRI1043		Lincoln University / Plant and food research, Bio-protection Center	185466
+GCF_003932035.1	ASM393203v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10505120	4997114	220	14A		Belarusian State University	
+GCF_003990505.1	ASM399050v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10496971	207595	149	F16		Institute of Bioorganic Chemistry	421661
+GCF_003990515.2	ASM399051v2	Pectobacterium brasiliense (enterobacteria)	180957	SAMN10496967	5052362	113	F126		Institute of Bioorganic Chemistry	400696
+GCF_003990525.1	ASM399052v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10496976	195318	67	F109		Institute of Bioorganic Chemistry	421661
+GCF_003992745.1	ASM399274v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN08494000	5125304	75	IFB5427		University of Gdansk, Intercollegiate Faculty of Biotechnology UG&MUG	433470
+GCF_004137785.1	ASM413778v1	Pectobacterium zantedeschiae (enterobacteria)	2034769	SAMN08985456	595025	200	PC2		University of Gdansk	
+GCF_004137795.1	ASM413779v1	Pectobacterium zantedeschiae (enterobacteria)	2034769	SAMN07621197	919187	50	9M		University of Gdansk	402003
+GCF_004137815.1	ASM413781v1	Pectobacterium zantedeschiae (enterobacteria)	2034769	SAMN07956336	626464	54	2M		University of Gdansk	416435
+GCF_004296665.1	ASM429666v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417479	235475	130	CFBP1552		Sorbonne University	505408
+GCF_004296675.1	ASM429667v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417475	81699	89	A75-S21-O15		Sorbonne University	505408
+GCF_004296685.1	ASM429668v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417481	74062	98	CFBP6051		Sorbonne University	505408
+GCF_004296715.1	ASM429671v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417472	162341	83	A67-S18-O15		Sorbonne University	505408
+GCF_004296725.1	ASM429672v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417473	151919	122	A69-S13-O15		Sorbonne University	505408
+GCF_004296765.1	ASM429676v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN10417480	220502	132	CFBP5663		Sorbonne University	505408
+GCF_005497185.1	ASM549718v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN10345551	152229	105	DPMP315		University of Gdansk	501783
+GCF_005771575.1	ASM577157v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN11658211	339669	50	LMG 2410		University of Glasgow	
+GCF_007833835.1	ASM783383v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10397597	4909724	107	67		South and Central University for Nationalities	
+GCF_009873295.1	ASM987329v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN13779957	4851982	298	1692		Cornell University	599934
+GCF_009931195.1	ASM993119v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10475134	4853176	190	BP201601.1		Rural Development Administration	506867
+GCF_009931215.1	ASM993121v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10475143	4872902	240	JR1.1		Rural Development Administration	506868
+GCF_009931295.1	ASM993129v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN10698425	4997932	176	JK2.1		Rural Development Administration	513207
+GCF_009931535.1	ASM993153v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN13381035	5208618	295	HC		Highland Agriculture Research Institute	
+GCA_009931555.1	ASM993155v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN13381169	4724337	321	HNP201719		Highland Agriculture Research Institute	
+GCF_009931575.1	ASM993157v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN13381318	4994870	223	PZ1		Highland Agriculture Research Institute	
+GCF_011378945.1	ASM1137894v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN13642295	199229	100	WBC1		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_011378965.1	ASM1137896v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN13642308	179622	100	WBC6		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_011378985.1	ASM1137898v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN13642327	203871	100	WBC9		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_011379045.1	ASM1137904v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN13648504	203753	100	WBC11		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_012427845.1	ASM1242784v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN11162174	4793778	155	SS95		Institute for integrative biology of the cell	527839
+GCF_013449375.1	ASM1344937v1	Pectobacterium sp. CFBP8739 (enterobacteria)	2748908	SAMN15375419	212029	149	CFBP8739		Sorbonne University	639025
+GCF_013449385.1	ASM1344938v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN15374874	189429	177	CFBP1402		Sorbonne University	639025
+GCF_013449395.1	ASM1344939v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN15374892	280253	189	CFBP7347		Sorbonne University	639025
+GCF_013449405.1	ASM1344940v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15375019	51811	180	CFBP1118		Sorbonne University	639025
+GCF_013449415.1	ASM1344941v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN15374769	211014	216	CFBP8734		Sorbonne University	639025
+GCF_013449475.1	ASM1344947v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15366395	122817	126	CFBP5381		Sorbonne University	639025
+GCF_013449485.1	ASM1344948v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15366239	221995	179	CFBP3230		Sorbonne University	639025
+GCF_013449495.1	ASM1344949v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN15374888	202394	156	CFBP6074		Sorbonne University	639025
+GCF_013449535.1	ASM1344953v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15366440	178378	143	CFBP7357		Sorbonne University	639025
+GCF_013449605.1	ASM1344960v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15375402	96144	124	CFBP6698		Sorbonne University	639025
+GCF_013449655.1	ASM1344965v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15375390	149999	150	CFBP5669		Sorbonne University	639025
+GCF_013449675.1	ASM1344967v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15375090	209392	154	CFBP5378		Sorbonne University	639025
+GCF_013449685.1	ASM1344968v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15366227	89685	118	CFBP8736		Sorbonne University	639025
+GCF_013449715.1	ASM1344971v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15366232	192433	178	CFBP8737		Sorbonne University	639025
+GCF_013450045.1	ASM1345004v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN15374999	114589	203	CFBP8735		Sorbonne University	639025
+GCF_013488025.1	ASM1348802v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN14475103	4892225	394	WPP14		Cornell University	615876
+GCF_013913555.1	ASM1391355v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615591	411098	100	MY2		Beijing Academy of Agriculture and Forestry Sciences	
+GCF_013913585.1	ASM1391358v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615624	411109	100	MY11		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_013913595.1	ASM1391359v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615615	411098	100	MY10		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_013913605.1	ASM1391360v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615604	256342	100	MY7		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_013913645.1	ASM1391364v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615646	250947	100	MY18		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_014042225.1	ASM1404222v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615931	1128725	100	KC20		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_014050115.1	ASM1405011v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN15615929	411109	100	MY19		Beijing Academy of Agriculture and Forestry Sciences	647981
+GCF_014164815.1	ASM1416481v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN15719027	363912	268	BL-4		Hebei Academy of Agricultural and Forestry Sciences	650563
+GCF_014604455.1	ASM1460445v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN03945250	65310	200	Ecc15		Oswego State University of New York	
+GCF_014946775.2	ASM1494677v2	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178566	4469125	78	A477-S1-J17		Sorbonne University	662694
+GCF_014946805.1	ASM1494680v1	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16133066	106218	165	A113-S21-F16		Sorbonne University	662694
+GCF_014946825.2	ASM1494682v2	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178564	4321692	84	A398-S21-F17		Sorbonne University	662694
+GCF_014946835.1	ASM1494683v1	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178567	173300	233	A535-S3-A17		Sorbonne University	662694
+GCF_014946845.1	ASM1494684v1	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178565	162433	208	A411-S4-F17		Sorbonne University	662694
+GCF_014946865.1	ASM1494686v1	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178569	152155	156	FL60-S17		Sorbonne University	662694
+GCF_014946905.1	ASM1494690v1	Pectobacterium quasiaquaticum (enterobacteria)	2774015	SAMN16178568	162046	205	FL63-S17		Sorbonne University	662694
+GCF_015277635.1	ASM1527763v1	Pectobacterium carotovorum subsp. carotovorum PCCS1 (enterobacteria)	554	SAMN16577141	4899898	100	PCCS1		Nanjing Agricultural University	
+GCF_015689195.1	ASM1568919v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN16830343	4995896	1.75	L6		Hainan University	679357
+GCF_015709085.1	ASM1570908v1	Pectobacterium carotovorum subsp. carotovorum PCCS1 (enterobacteria)	554	SAMN16260792	296964	30	PCCS1		Nanjing Agricultural University, Department of Plant Phytopathy, College of Plant Protection	85137
+GCF_016107025.1	ASM1610702v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799119	121899	46.44	NY1712A		Cornell University	573064
+GCF_016107035.1	ASM1610703v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799120	138631	48.2682	NY1722A		Cornell University	573064
+GCF_016107065.1	ASM1610706v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799118	85069	28.3615	NY1588A		Cornell University	573064
+GCF_016107085.1	ASM1610708v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799117	102885	34.4096	NY1587A		Cornell University	573064
+GCF_016107095.1	ASM1610709v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799116	91555	47.0973	NY1585A		Cornell University	573064
+GCF_016107125.1	ASM1610712v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799114	80533	37.8739	NY1548A		Cornell University	573064
+GCF_016107135.1	ASM1610713v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799115	143121	60.8567	NY1584A		Cornell University	573064
+GCF_016107165.1	ASM1610716v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799113	91555	51.3306	NY1540A		Cornell University	573064
+GCF_016107185.1	ASM1610718v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799111	143026	65.8492	NY1532B		Cornell University	573064
+GCF_016107195.1	ASM1610719v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN12799112	91555	64.2431	NY1533B		Cornell University	573064
+GCF_016126895.1	ASM1612689v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN17066455	4990747	300	WC19161		Inner Mongolia University	684695
+GCF_016415585.1	ASM1641558v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN17135160	4743928	450	2A		Institute of Microbiology, National Academy of Sciences of Belarus	687134
+GCA_016495705.1	ASM1649570v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN14609724	4974461	355	MYP201603		Highland Agriculture Research Institute	
+GCA_016642095.1	ASM1664209v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN13256011	294187	284.87	15		Seoul National University	
+GCF_016742895.1	ASM1674289v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN14157684	102500	59	NY1786A		Cornell University	607978
+GCF_016742905.1	ASM1674290v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN14157529	71840	44	NY1720A		Cornell University	607978
+GCF_016742935.1	ASM1674293v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN14158925	120005	61	NY1767A		Cornell University	607978
+GCF_016864935.1	ASM1686493v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN16287580	5047152	819	QK-5		Fujian Academy of Agricultural Sciences	666279
+GCF_016864975.1	ASM1686497v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN16287596	4700945	708	ZLMLSHJ5		Fujian Academy of Agricultural Sciences	666279
+GCF_016864995.1	ASM1686499v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN16287598	4868777	723	XP-13		Fujian Academy of Agricultural Sciences	666279
+GCF_016944235.1	ASM1694423v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660276	5049889	49	IPO:4134 NAK:395		Wageningen Plant Research	649220
+GCF_016944255.1	ASM1694425v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660313	4832085	39	IPO:4132 NAK:239		Wageningen Plant Research	649220
+GCF_016944275.1	ASM1694427v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660298	5127417	42	IPO:4071 NAK:240		Wageningen Plant Research	649220
+GCF_016944295.1	ASM1694429v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660296	5059267	45	IPO:4065 NAK:223		Wageningen Plant Research	649220
+GCF_016944315.1	ASM1694431v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660315	4832397	36	IPO:4062 NAK:237		Wageningen Plant Research	649220
+GCF_016944435.1	ASM1694443v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660312	5063001	50	IPO:4060 NAK:251		Wageningen Plant Research	649220
+GCF_016944555.1	ASM1694455v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660314	5137126	54	IPO:4057 NAK:249		Wageningen Plant Research	649220
+GCF_016944595.1	ASM1694459v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660291	5072816	42	IPO:3710 NAK:380		Wageningen Plant Research	649220
+GCF_016944615.1	ASM1694461v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660289	5057861	165	IPO:3649 NAK:375		Wageningen Plant Research	649220
+GCF_016949035.1	ASM1694903v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15660319	452210	1569	NAK:94 PCC:163		Wageningen Plant Research	649220
+GCF_016949055.1	ASM1694905v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660287	187558	2413	NAK:468		Wageningen Plant Research	649220
+GCF_016949075.1	ASM1694907v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15660318	117976	1525	IPO:0139 NAK:93 PCC:139		Wageningen Plant Research	649220
+GCF_016949085.1	ASM1694908v1	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN15660286	133724	320	NAK:467		Wageningen Plant Research	649220
+GCF_016949095.1	ASM1694909v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660288	130338	264	NAK:470		Wageningen Plant Research	649220
+GCF_016949135.1	ASM1694913v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660283	180665	507	NAK:434		Wageningen Plant Research	649220
+GCF_016949145.1	ASM1694914v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660281	174295	459	NAK:432		Wageningen Plant Research	649220
+GCF_016949155.1	ASM1694915v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660285	547568	1470	NAK:466		Wageningen Plant Research	649220
+GCF_016949195.1	ASM1694919v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660284	160363	825	NAK:435		Wageningen Plant Research	649220
+GCF_016949215.1	ASM1694921v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660282	112918	1661	NAK:433		Wageningen Plant Research	649220
+GCF_016949235.1	ASM1694923v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660279	264202	223	NAK:430		Wageningen Plant Research	649220
+GCF_016949255.1	ASM1694925v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660277	483192	174	IPO:4131 NAK:399 JGAR:16 180717-4		Wageningen Plant Research	649220
+GCF_016949275.1	ASM1694927v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660280	264202	132	NAK:431		Wageningen Plant Research	649220
+GCF_016949295.1	ASM1694929v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660273	230520	722	NAK:396		Wageningen Plant Research	649220
+GCF_016949315.1	ASM1694931v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660274	276156	1067	NAK:397		Wageningen Plant Research	649220
+GCF_016949335.1	ASM1694933v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660275	264202	167	IPO:4135 NAK:383		Wageningen Plant Research	649220
+GCF_016949345.1	ASM1694934v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660272	261415	1242	NAK:385		Wageningen Plant Research	649220
+GCF_016949355.1	ASM1694935v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660271	264204	496	NAK:384		Wageningen Plant Research	649220
+GCF_016949375.1	ASM1694937v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660321	264207	1072	IPO:3711 NAK:381		Wageningen Plant Research	649220
+GCF_016949435.1	ASM1694943v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660294	267039	948	IPO:3709 NAK:379 112-1c		Wageningen Plant Research	649220
+GCF_016949515.1	ASM1694951v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660278	853099	343	IPO:4056 NAK:264 GBBC:1756		Wageningen Plant Research	649220
+GCF_016949525.1	ASM1694952v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660290	266940	231	IPO:3650 NAK:376		Wageningen Plant Research	649220
+GCF_016949545.1	ASM1694954v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660293	276076	1159	IPO:3708 NAK:378 99a		Wageningen Plant Research	649220
+GCF_016949595.1	ASM1694959v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660292	264206	1420	IPO:3707 NAK:377 77a		Wageningen Plant Research	649220
+GCF_016949655.1	ASM1694965v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660311	276150	402	IPO:4066 NAK:259		Wageningen Plant Research	649220
+GCF_016949695.1	ASM1694969v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN15660309	401781	218	IPO:4059 NAK:253		Wageningen Plant Research	649220
+GCF_016949705.1	ASM1694970v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660310	330925	359	NAK:254		Wageningen Plant Research	649220
+GCF_016949735.1	ASM1694973v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660308	179732	671	NAK:252		Wageningen Plant Research	649220
+GCF_016949775.1	ASM1694977v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660303	997379	608	NAK:250		Wageningen Plant Research	649220
+GCF_016949795.1	ASM1694979v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660307	322717	176	IPO:4073 NAK:248		Wageningen Plant Research	649220
+GCF_016949835.1	ASM1694983v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660300	264018	922	NAK:243		Wageningen Plant Research	649220
+GCF_016949855.1	ASM1694985v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660301	318588	260	NAK:245		Wageningen Plant Research	649220
+GCF_016949875.1	ASM1694987v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660302	266940	159	NAK:247		Wageningen Plant Research	649220
+GCF_016949885.1	ASM1694988v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660299	276072	237	NAK:241		Wageningen Plant Research	649220
+GCF_016949915.1	ASM1694991v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660305	239210	602	IPO:4058 NAK:235		Wageningen Plant Research	649220
+GCF_016949935.1	ASM1694993v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN15660331	285618	455	NAK:226		Wageningen Plant Research	649220
+GCF_016949955.1	ASM1694995v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN15660332	568291	1214	NAK:227		Wageningen Plant Research	649220
+GCF_016949975.1	ASM1694997v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660316	4436369	47	IPO:4068 NAK:256		Wageningen Plant Research	649220
+GCF_016949995.1	ASM1694999v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660295	253438	1668	IPO:4055 NAK:152 GBBC:1819		Wageningen Plant Research	649220
+GCF_016950015.1	ASM1695001v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660304	2619903	49	IPO:4067 NAK:257		Wageningen Plant Research	649220
+GCF_016950075.1	ASM1695007v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660317	4094136	135	IPO:3844 NAK:382 JGAR:12		Wageningen Plant Research	649220
+GCF_016950085.1	ASM1695008v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660306	1556647	126	IPO:4064 NAK:242		Wageningen Plant Research	649220
+GCF_016950115.1	ASM1695011v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660297	1507612	38	IPO:4054 NAK:231		Wageningen Plant Research	649220
+GCF_016950125.1	ASM1695012v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660322	266940	114	IPO:3843 JGAR:11		Wageningen Plant Research	649220
+GCF_016950155.1	ASM1695015v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN15660270	4739887	21	IPO:3715 SV1490b		Wageningen Plant Research	649220
+GCF_016950175.1	ASM1695017v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660326	208749	77	IPO:3630		Wageningen Plant Research	649220
+GCF_016950185.1	ASM1695018v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660327	39925	14	IPO:3644		Wageningen Plant Research	649220
+GCF_016950195.1	ASM1695019v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660325	284346	51	IPO:3628		Wageningen Plant Research	649220
+GCF_016950225.1	ASM1695022v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660323	227585	24	IPO:3643		Wageningen Plant Research	649220
+GCF_016950255.1	ASM1695025v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660329	3291298	40	IPO:3540 CFBP:6617 ATCC:BAA-417 IBSBF:1692		Wageningen Plant Research	649220
+GCF_016950275.1	ASM1695027v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN15660320	267299	261	IPO:1955		Wageningen Plant Research	649220
+GCF_016950285.1	ASM1695028v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660324	595412	1706	IPO:0821 SCRI:133		Wageningen Plant Research	649220
+GCF_016950315.1	ASM1695031v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660328	79855	16	IPO:0590		Wageningen Plant Research	649220
+GCF_016988595.1	ASM1698859v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN15660330	215040	36	IPO:3649 NAK:55		Wageningen Plant Research	649220
+GCF_017255075.1	ASM1725507v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN18024966	357113	260	BL-2		Hebei Academy of Agricultural and Forestry Sciences	650563
+GCA_017426805.1	Pca	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN10810916	5949	10	IBSBF 3260		Federal University of Rio Grande do Sul	
+GCF_018094665.1	ASM1809466v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913092	47249	53	NY1788A		Cornell University	575845
+GCF_018094685.1	ASM1809468v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913090	87373	54	NY1765A		Cornell University	575845
+GCF_018094705.1	ASM1809470v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913091	66537	45	NY1766A		Cornell University	575845
+GCF_018094745.1	ASM1809474v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913089	73104	49	NY1762B		Cornell University	575845
+GCF_018095725.1	ASM1809572v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913085	75159	54	NY1705A		Cornell University	575845
+GCF_018095745.1	ASM1809574v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913086	63712	48	NY1715C		Cornell University	575845
+GCF_018095755.1	ASM1809575v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913088	64027	48	NY1754A		Cornell University	575845
+GCF_018095765.1	ASM1809576v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN12913087	85073	60	NY1753B		Cornell University	575845
+GCF_018141505.1	ASM1814150v2	Pectobacterium versatile (enterobacteria)	2488639	SAMN16418415	4873271	80	ECC15		Instituto Gulbenkian de Ciencia	668699
+GCF_018219365.1	ASM1821936v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN16131363	5303871	10	DSM 30169		Hebei University of Science and Technology	663365
+GCF_018344415.1	ASM1834441v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN16339683	192539	80	P9A19a		Federation Nationale des Producteurs de Plants de Pomme de Terre (FN3PT)- Inov3PT	666887
+GCF_018634035.1	ASM1863403v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN14833146	4959719	230	Green1		University of Gdansk, Intercollegiate Faculty of Biotechnology	
+GCF_018728555.1	ASM1872855v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN16339787	77004	100	RNS08-28		Federation Nationale des Producteurs de Plants de Pomme de Terre (FN3PT)- Inov3PT	666887
+GCF_019056595.1	ASM1905659v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN08956844	4923399	100	CFBP1526		Institute for integrative biology of the cell	451010
+GCF_019426305.1	ASM1942630v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN16451444	59089	600	A3		UNAM FES IZTACALA	669375
+GCF_019426325.1	ASM1942632v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN16451445	46958	600	A1		UNAM FES IZTACALA	669375
+GCF_020047135.1	ASM2004713v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN19778477	5005507	200	QK413-1		Fujian Academy of Agricultural Sciences	739277
+GCF_020166435.1	ASM2016643v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21156479	221615	100	KC01		Beijing Academy of Agriculture and Forestry Sciences	759112
+GCF_020166455.1	ASM2016645v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21157272	204025	100	KC03		Beijing Academy of Agriculture and Forestry Sciences	759187
+GCF_020166465.1	ASM2016646v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21157269	209432	100	KC02		Beijing Academy of Agriculture and Forestry Sciences	759179
+GCF_020181375.1	ASM2018137v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN21542835	4857800	659	LJ2		South China Agricultural University	765112
+GCF_020181655.1	ASM2018165v1	Pectobacterium colocasium (enterobacteria)	2878098	SAMN21542832	4912018	643	LJ1		South China Agricultural University	765110
+GCF_020295425.1	ASM2029542v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916064	418405	30	SR11		Iowa State University	767613
+GCF_020295505.1	ASM2029550v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916062	199289	50	SR8		Iowa State University	767613
+GCF_020295515.1	ASM2029551v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21916058	187897	42	SR4		Iowa State University	767613
+GCF_020295565.1	ASM2029556v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21916057	187900	42	SR3		Iowa State University	767613
+GCF_020295605.1	ASM2029560v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916059	538423	38	SR5		Iowa State University	767613
+GCF_020295645.1	ASM2029564v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21916056	187897	28	SR2		Iowa State University	767613
+GCF_020296625.1	ASM2029662v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916060	408271	46	SR6		Iowa State University	767613
+GCF_020297385.1	ASM2029738v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916061	209828	43	SR7		Iowa State University	767613
+GCF_020406595.1	ASM2040659v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN22029076	75356	58	A367-S5-N16		Sorbonne University	768349
+GCF_020406615.1	ASM2040661v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN22029081	125407	66	A546-S4-A17		Sorbonne University	768349
+GCF_020406635.1	ASM2040663v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN22029073	122280	130	A280-S2-N16		Sorbonne University	768349
+GCF_020406655.2	ASM2040665v2	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN22029070	4932367	80	A597-S4-A17		Sorbonne University	768349
+GCF_020406695.1	ASM2040669v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN22029079	306002	49	A668-S6-A17		Sorbonne University	768349
+GCF_020406735.1	ASM2040673v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN22029082	107907	90	A165-S18-M16		Sorbonne University	768349
+GCF_020406755.1	ASM2040675v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN22029077	153534	61	A447-S21-J17		Sorbonne University	768349
+GCF_020406785.1	ASM2040678v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN22029080	79070	102	A095-S3-F16		Sorbonne University	768349
+GCF_020406835.1	ASM2040683v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN22029078	153358	46	A641-S6-A17			
+GCF_020406855.1	ASM2040685v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN22029075	227242	70	A694-S13-N17		Sorbonne University	768349
+GCF_020406875.1	ASM2040687v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN22029074	156798	178	A284-S2-N16		Sorbonne University	768349
+GCF_020406955.1	ASM2040695v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN22029071	161142	74	A079-S20-O15		Sorbonne University	
+GCF_020423065.1	ASM2042306v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21916065	5084672	53	SR12			767613
+GCF_020423085.1	ASM2042308v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN21916055	5086495	44	SR1		Iowa State University	767613
+GCF_020423105.1	ASM2042310v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN21916063	4885560	29	SR10			767613
+GCF_020520265.1	ASM2052026v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN22029072	4896959	140	A077-S18-O15		Sorbonne University	768349
+GCF_020683105.1	ASM2068310v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN22502874	4766353	500	TS20HJ1			
+GCF_020865565.1	ASM2086556v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN22635659	5040579	186	A73-S18-O15		Sorbonne University	775887
+GCF_020971565.1	ASM2097156v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN23227730	4699601	750	FN20211			781071
+GCF_021049225.1	ASM2104922v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN23405758	4899639	330	25.1			
+GCF_021375765.1	ASM2137576v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN16453359	201586	900	IPO3715		Wageningen University & Research	666887
+GCF_021432585.1	ASM2143258v1	Pectobacterium sp. IFB5596 (enterobacteria)	1839803	SAMN04880565	221269	38	IFB5596		University of Gdansk	
+GCF_021907015.1	ASM2190701v2	Pectobacterium sp. PL152 (enterobacteria)	2859229	SAMN20203926	5022655	146	PL152			746350
+GCF_022172285.1	ASM2217228v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN25132833	824806	100	BD163		University of South Africa	
+GCF_022220705.1	ASM2222070v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN25692536	5034872	70	130		Institute of Microbiology, National Academy of Sciences of Belarus	803971
+GCF_022392325.1	ASM2239232v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN12924488	4920059	550	RC5297			576076
+GCF_022392805.1	ASM2239280v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN12995209	4755387	400	ZM1		University of Otago	
+GCF_022477975.1	ASM2247797v1	Pectobacterium sp. PL64 (enterobacteria)	2738983	SAMN15002818	5067215	33.058	PL64		University of Hawaii at Manoa	634626
+GCF_022507225.1	ASM2250722v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN16621844	161142	74	A79-S20-O15		Sorbonne University	668037
+GCF_022507245.1	ASM2250724v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN16621847	75356	58	A367-S5-N16			
+GCF_022507255.1	ASM2250725v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN16621848	107907	90	A165-S18-M16		Sorbonne University	
+GCF_022507285.1	ASM2250728v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN16621845	169606	74	A62-S5-O15		Sorbonne University	668037
+GCF_022507295.1	ASM2250729v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN16621846	227242	70	A694-S13-N17		Sorbonne University	668037
+GCF_022507325.1	ASM2250732v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN16621843	218485	80	A597-S4-A17		Sorbonne University	
+GCF_022507345.1	ASM2250734v1	Pectobacterium aquaticum (enterobacteria)	2204145	SAMN16621842	86332	201	A76-S21-O15			668037
+GCF_023272715.1	ASM2327271v1	Pectobacterium sp. 21LCBS03 (enterobacteria)	2935858	SAMN27607565	4927525	493	21LCBS03		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_023507725.1	ASM2350772v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN10887377	735766	250	SCRI1043 DHAI2		The New Zealand Institute for Plant and Food Research Ltd.	
+GCF_023507805.1	ASM2350780v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN10887376	808338	250	SCRI1043 DHAI2Dcas		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023507825.1	ASM2350782v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887373	498756	250	Ec-179		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023507845.1	ASM2350784v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887374	501171	250	Ec-180			521418
+GCF_023507885.1	ASM2350788v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887372	329200	250	Ec-177		The New Zealand Institute for Plant and Food Research Ltd.	
+GCF_023507905.1	ASM2350790v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10887371	321324	250	Ec-173		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023507925.1	ASM2350792v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887370	329200	250	Ec-168		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023507945.1	ASM2350794v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887369	265131	250	Ec-155		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023507955.1	ASM2350795v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10887367	493850	250	Ec-143			
+GCF_023507985.1	ASM2350798v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN10887368	291926	250	Ec-153			521418
+GCF_023508005.1	ASM2350800v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10887366	493850	250	Ec-140		The New Zealand Institute for Plant and Food Research Ltd.	
+GCF_023508025.1	ASM2350802v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN10887365	878725	250	Ec-137			521418
+GCF_023508045.1	ASM2350804v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887363	295160	250	Ec-093		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023508055.1	ASM2350805v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN10887364	282642	250	Ec-110		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023508065.1	ASM2350806v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN10887362	500095	250	Ec-010		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023508105.1	ASM2350810v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887360	436290	250	Ec-008			521418
+GCF_023508125.1	ASM2350812v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN10887361	370138	250	Ec-009		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023508145.1	ASM2350814v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887358	545294	250	Ec-006		The New Zealand Institute for Plant and Food Research Ltd.	
+GCF_023508155.1	ASM2350815v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN10887359	276121	250	Ec-007		The New Zealand Institute for Plant and Food Research Ltd.	
+GCA_023508205.1	ASM2350820v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN10887357	357322	250	ICMP 11525		The New Zealand Institute for Plant and Food Research Ltd.	521418
+GCF_023914135.1	ASM2391413v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN29182939	516528	258.97	22TC1		Yunnan Academy of Tobacco Agricultural Sciences	839150
+GCA_024342785.1	ASM2434278v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443660	176508	437	MAFF 106568		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024342805.1	ASM2434280v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443661	274073	320	MAFF 106664		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	
+GCA_024342865.1	ASM2434286v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443662	731102	361	MAFF 301296		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCF_024342945.1	ASM2434294v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443663	1284813	325	MAFF 301619		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCF_024343035.1	ASM2434303v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443664	526083	359	MAFF 301645		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	
+GCA_024343095.1	ASM2434309v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443665	834471	368	MAFF 301653		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024343135.1	ASM2434313v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443666	339456	360	MAFF 301877			
+GCF_024343235.1	ASM2434323v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443667	2498934	348	MAFF 301889			
+GCA_024343295.1	ASM2434329v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443668	245954	335	MAFF 301899		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024343335.1	ASM2434333v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443669	1160692	354	MAFF 301937		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024343355.1	ASM2434335v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443675	112301	588	MAFF 301879		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	
+GCA_024343445.1	ASM2434344v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00495185	230498	128	NBRC3380		Bacteriology Microbiology, Osaka Institute of Public Health	
+GCA_024343475.1	ASM2434347v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00495186	252526	84	NBRC3830		Bacteriology Microbiology, Osaka Institute of Public Health	
+GCF_024343495.1	ASM2434349v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00495187	350122	74	NBRC12380			
+GCF_024343595.1	ASM2434359v1	Pectobacterium araliae (enterobacteria)	3073862	SAMD00443670	148640	337	MAFF 302107		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024343625.1	ASM2434362v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443671	287251	317	MAFF 311524		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCA_024343655.1	ASM2434365v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443672	322364	354	MAFF 331060		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	
+GCA_024343685.1	ASM2434368v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443673	161759	347	MAFF 730217		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCF_024343715.1	ASM2434371v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00443674	360083	624	MAFF 301875		Graduate School of Engineering, Department of Material and Environmental Chemistry, Utsunomiya University	847795
+GCF_024498675.1	ASM2449867v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698389	5019088	100	AK049		Qujing Normal University	794971
+GCF_024498695.1	ASM2449869v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698387	4889381	100	QJ316		Qujing Normal University	794971
+GCF_024498715.1	ASM2449871v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698388	5019255	100	AK042			
+GCF_024498735.1	ASM2449873v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698386	4865541	100	QJ315		Qujing Normal University	794971
+GCF_024498755.1	ASM2449875v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698385	4889381	100	QJ313		Qujing Normal University	794971
+GCF_024498775.1	ASM2449877v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698384	4907098	100	QJ311			794971
+GCF_024498795.1	ASM2449879v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698383	4889381	100	QJ036			794971
+GCF_024498815.1	ASM2449881v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698382	4889365	100	QJ034			794971
+GCF_024498835.1	ASM2449883v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698381	5044175	100	QJ011			
+GCF_024498855.1	ASM2449885v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698380	5057072	100	QJ003		Qujing Normal University	794971
+GCF_024498875.1	ASM2449887v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN24698379	4975218	100	QJ002			794971
+GCF_024506455.1	ASM2450645v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN29993934	493670	100	21TX0081		Texas A & M University	862766
+GCF_024722495.1	ASM2472249v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN30306657	4727386	1000	YT22221		Hebei Agricultural University	869425
+GCF_024758625.1	ASM2475862v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN24292686	4863665	800	BY21311			791528
+GCF_025402815.1	ASM2540281v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN30880959	4984813	200	QJ021		Qujing Normal University	880979
+GCF_025466255.1	ASM2546625v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN08005644	522146	86	IFB5252		University of Gdansk	
+GCF_025466265.1	ASM2546626v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN08005651	1279937	69	IFB5223		University of Gdansk	417765
+GCF_025466295.1	ASM2546629v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN08005638	629443	171	IFB5222			417758
+GCF_025466305.1	ASM2546630v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN08005827	144868	66	IFB5220			417771
+GCF_025643735.1	ASM2564373v1	Pectobacterium sp. F1-1 (enterobacteria)	2949614	SAMN28689349	4816345	311	F1-1		Academia Sinica	842864
+GCF_025809395.1	ASM2580939v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN10147005	5003614	50	HG-49			
+GCF_025946765.1	ASM2594676v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN31396871	4115593	276	CFCC10813		Zhejiang University	892873
+GCF_026723725.1	ASM2672372v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN31919293	4919671	194	21PCA_AGRO2		eGnome	906323
+GCF_026800125.1	ASM2680012v1	Pectobacterium jejuense (enterobacteria)	2974022	SAMN30435626	408756	80.73	13-115		Kyungpook National University	871967
+GCF_028335745.1	ASM2833574v1	Pectobacterium sp. A5351 (enterobacteria)	2914983	SAMN32156144	4401383	226	A5351			910984
+GCF_028613535.1	ASM2861353v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN33099527	420882	52.68	KNUB-07-21		Kyungpook National University	931791
+GCF_028736315.1	ASM2873631v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN33215706	4926593	463	ZJ-4-2			932587
+GCF_029023745.1	ASM2902374v2	Pectobacterium colocasium (enterobacteria)	2878098	SAMN32819779	5024691	83.5	PL155		University of Hawaii at Manoa	926002
+GCF_029027905.1	ASM2902790v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN28647776	4935467	29.5	GX-Pa1			842104
+GCF_029075705.1	ASM2907570v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN33561335	5036878	487	CM22132		Hebei Agricultural University	940320
+GCF_029075715.1	ASM2907571v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN33561324	2840219	485	CM22112			
+GCF_029524165.1	ASM2952416v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN32950830	397594	232	ZRIMU1022		Inner Mongolia Potato Engineering & Technology Research Center	929069
+GCF_029524195.1	ASM2952419v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN33013812	492739	296	ZRIMU1523		Inner Mongolia Potato Engineering & Technology Research Center	930591
+GCF_029524255.1	ASM2952425v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN32950828	357129	223	ZRIMU1030		Inner Mongolia Potato Engineering & Technology Research Center	929064
+GCF_030236315.1	ASM3023631v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN32881775	753856	234	ZRIMU1213		Inner Mongolia Potato Engineering & Technology Research Center	926680
+GCF_030236355.1	ASM3023635v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN32950829	493226	187	NX18131		Inner Mongolia Potato Engineering & Technology Research Center	
+GCF_030268585.1	ASM3026858v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00537052	350380	164	NBRC 12380		Biological Resource Center, NITE (NBRC)	
+GCA_030268765.1	ASM3026876v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00538064	491488	167	NBRC 14082		Biological Resource Center, NITE (NBRC)	971798
+GCA_030269105.1	ASM3026910v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00536698	224772	171	NBRC 3380		Biological Resource Center, NITE (NBRC)	971798
+GCA_030269145.1	ASM3026914v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00536818	478840	159	NBRC 3830		Biological Resource Center, NITE (NBRC)	971798
+GCF_030269405.1	ASM3026940v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMD00540489	247817	233	NBRC 103133			971798
+GCF_030370015.1	ASM3037001v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN35778208	2857779	4	PCC1			984749
+GCF_030413675.1	ASM3041367v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN36189170	4930000	200	YKX		Qujing Normal University	
+GCF_032905925.1	ASM3290592v1	Pectobacterium sp. HCp5_1 (enterobacteria)	3062446	SAMN36470203	111306	139	HCp5_1		National Institute of Agricultural Science	995413
+GCF_033898505.1	ASM3389850v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38073655	2685691	416.73	21-37-TAE-PE14		Chungcheongnam-do Agricultural Research and Extension Services	1034786
+GCF_034104955.1	ASM3410495v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468384	386756	100	NJAU132		Nanjing Agricultural University	
+GCF_034104985.1	ASM3410498v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN38468645	333109	100	NJAU137		Nanjing Agricultural University	
+GCF_034105005.1	ASM3410500v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468385	301930	100	NJAU134		Nanjing Agricultural University	
+GCF_034105065.1	ASM3410506v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468646	115768	100	NJAU140		Nanjing Agricultural University	
+GCF_034105085.1	ASM3410508v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468382	159164	100	NJAU130		Nanjing Agricultural University	
+GCF_034105155.1	ASM3410515v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN38468649	609553	100	NJAU160		Nanjing Agricultural University	
+GCF_034105175.1	ASM3410517v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN38440052	606379	100	NJAU110		Nanjing Agricultural University	
+GCF_034105205.1	ASM3410520v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468647	407878	100	NJAU21		Nanjing Agricultural University	
+GCF_034105625.1	ASM3410562v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38468383	209815	100	NJAU131			
+GCF_034196465.1	ASM3419646v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN38446810	170395	100	NJAU170		Nanjing Agricultural University	
+GCF_034723995.1	ASM3472399v1	Pectobacterium carotovorum subsp. carotovorum (enterobacteria)	554	SAMN38439542	373489	100	NJAU120		Nanjing Agricultural University	
+GCF_035066825.1	ASM3506682v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38025001	370631	40.9971	BP9384			1033154
+GCF_035066835.1	ASM3506683v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38024998	466746	35.0216	BP9302		Pennsylvania State University	1033154
+GCF_035066845.1	ASM3506684v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38025000	586954	47.4223	BP9310			1033154
+GCF_035066875.1	ASM3506687v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38025002	405389	39.4402	BP9389		Pennsylvania State University	1033154
+GCF_035066895.1	ASM3506689v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024999	546947	39.784				1033154
+GCF_035066925.1	ASM3506692v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024993	640429	42.341	BP9174			
+GCF_035066935.1	ASM3506693v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38024995	370631	36.3469	BP9234		Pennsylvania State University	
+GCF_035066945.1	ASM3506694v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024994	574090	38.4616	BP9195		Pennsylvania State University	1033154
+GCF_035066985.1	ASM3506698v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024996	574621	40.3649	BP9250			1033154
+GCF_035066995.1	ASM3506699v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024997	526841	39.9761	BP9294		Pennsylvania State University	1033154
+GCF_035067025.1	ASM3506702v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024992	375921	37.2798	BP9166		Pennsylvania State University	1033154
+GCF_035067045.1	ASM3506704v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024990	312566	40.4366	BP9149		Pennsylvania State University	1033154
+GCF_035067065.1	ASM3506706v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024991	1326572	37.0683	BP9164		Pennsylvania State University	1033154
+GCF_035067085.1	ASM3506708v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024989	469391	40.2783	BP9130		Pennsylvania State University	
+GCF_035067125.1	ASM3506712v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN38024988	289503	43.8679	BP9129		Pennsylvania State University	1033154
+GCF_035067145.1	ASM3506714v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024987	494108	41.9628	BP9128		Pennsylvania State University	1033154
+GCF_035067165.1	ASM3506716v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024986	372348	40.7715	BP9109		Pennsylvania State University	1033154
+GCF_035067185.1	ASM3506718v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN38024983	574621	43.3277			Pennsylvania State University	1033154
+GCF_035067195.1	ASM3506719v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38024984	412097	49.0947	BP9083		Pennsylvania State University	1033154
+GCF_035067215.1	ASM3506721v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38024985	466746	45.5117	BP9089		Pennsylvania State University	
+GCF_035067245.1	ASM3506724v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN38024981	370630	29.2726	BP9038		Pennsylvania State University	
+GCF_035067265.1	ASM3506726v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024982	493951	33.1376	BP9052		Pennsylvania State University	
+GCF_035067285.1	ASM3506728v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024979	405389	46.9478	BP9019		Pennsylvania State University	1033154
+GCF_035067295.1	ASM3506729v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN38024980	463118	68.6129	BP9026		Pennsylvania State University	1033154
+GCF_035067325.1	ASM3506732v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN38024978	333819	47.656	BP9017		Pennsylvania State University	1033154
+GCF_035067345.1	ASM3506734v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024977	312721	43.8257	BP9004		Pennsylvania State University	1033154
+GCF_035067365.1	ASM3506736v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN38024976	493951	35.5056	BP9002		Pennsylvania State University	1033154
+GCF_036632965.1	ASM3663296v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN36085520	306378	100			Nanjing Agricultural University	
+GCF_036885025.1	ASM3688502v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN35126650	4116748	100	DPMP6		University of Gdansk	973544
+GCF_036885195.1	ASM3688519v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN37223220	4116584	100	CFBP3628		University of Gdansk	1011538
+GCF_036903525.1	ASM3690352v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN35126400	124134	100	DPMP7		University of Gdansk	973261
+GCF_036903565.1	ASM3690356v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN35126417	219116	100	DPMP14		University of Gdansk	973266
+GCF_036961575.1	ASM3696157v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN39944948	74601	15	21A18		The University of Maine	1076542
+GCF_037003165.1	ASM3700316v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN38468648	256811	100	NJAU150		Nanjing Agricultural University	
+GCF_037076165.1	Pecto_Reisolate-IDBA.contigs	Pectobacterium brasiliense (enterobacteria)	180957	SAMN39063643	121675	20	1Aia d			1055876
+GCF_037076175.1	ASM3707617v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN39063594	133856	20	1Aia		Centro de Investigaciones y Transferencias, Universidad Nacional de Villa Maria (CIT-CONICET)	1055870
+GCF_037076465.1	ASM3707646v1	Pectobacterium araliae (enterobacteria)	3073862	SAMD00641580	4663678	53	MAFF 302110		Graduate School of Regional Development and Creativity, Utsunomiya University	1049203
+GCF_037135375.1	ASM3713537v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269265	553443	318	UW021-9		Cornell University	
+GCF_037135395.1	ASM3713539v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269260	553443	253	UW021-4			1084067
+GCF_037135415.1	ASM3713541v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269264	553443	279	UW021-8			1084067
+GCF_037135435.1	ASM3713543v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269252	179322	81	UMSS2			
+GCF_037135455.1	ASM3713545v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269262	553443	354	UW021-6		Cornell University	
+GCF_037135475.1	ASM3713547v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269263	474047	325	UW021-7		Cornell University	
+GCF_037135495.1	ASM3713549v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269237	111181	42	NY1563A		Cornell University	
+GCF_037135515.1	ASM3713551v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269261	241024	517	UW021-5		Cornell University	1084067
+GCF_037135535.1	ASM3713553v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269259	370095	325	UW021-3			
+GCF_037135555.1	ASM3713555v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269258	553443	312	UW021-19		Cornell University	1084067
+GCF_037135595.1	ASM3713559v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269257	495549	95	UW021-12		Cornell University	1084067
+GCF_037135615.1	ASM3713561v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269238	131326	41	NY1586A			
+GCF_037135655.1	ASM3713565v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269256	474047	275	UW021-11		Cornell University	1084067
+GCF_037135675.1	ASM3713567v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269255	380157	300	UW021-1		Cornell University	
+GCF_037135695.1	ASM3713569v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269254	340691	87	UMSS5		Cornell University	
+GCF_037135715.1	ASM3713571v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269245	476728	228	NY1898		Cornell University	1084067
+GCF_037135735.1	ASM3713573v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269240	404271	218	NY1887		Cornell University	1084067
+GCF_037135755.1	ASM3713575v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269243	243178	211	NY1893		Cornell University	1084067
+GCF_037135775.1	ASM3713577v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269253	80021	58	UMSS4		Cornell University	
+GCF_037135795.1	ASM3713579v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269250	230368	221	NY2010		Cornell University	1084067
+GCF_037135815.1	ASM3713581v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269246	251056	184	NY1901			1084067
+GCF_037135835.1	ASM3713583v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269242	375079	258	NY1889		Cornell University	1084067
+GCF_037135855.1	ASM3713585v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269249	2807979	372	NY2009		Cornell University	1084067
+GCF_037135875.1	ASM3713587v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269248	503446	206	NY2007		Cornell University	
+GCF_037135895.1	ASM3713589v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269247	800661	225	NY1902		Cornell University	1084067
+GCF_037135905.1	ASM3713590v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269241	206917	208	NY1888		Cornell University	1084067
+GCF_037135935.1	ASM3713593v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN40269239	54907	39	NY1749A		Cornell University	1084067
+GCF_037135955.1	ASM3713595v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN40269236	69551	58	NY1539A		Cornell University	1084067
+GCF_037135995.1	ASM3713599v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269235	118293	66	NY1464A		Cornell University	1084067
+GCF_037136015.1	ASM3713601v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269234	105503	47	NY1453A			1084067
+GCF_037136035.1	ASM3713603v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269231	114658	31	JB94B		Cornell University	1084067
+GCF_037136055.1	ASM3713605v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269232	214110	252	JB96A		Cornell University	
+GCF_037136065.1	ASM3713606v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN40269224	458740	63	JB107B		Cornell University	
+GCF_037136095.1	ASM3713609v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269226	95798	47	JB133A		Cornell University	
+GCF_037136115.1	ASM3713611v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269230	15775	11	JB88B			
+GCF_037136135.1	ASM3713613v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269233	68694	68	ME175		Cornell University	
+GCF_037136155.1	ASM3713615v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269225	209082	19	JB113A		Cornell University	1084067
+GCF_037136175.1	ASM3713617v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269228	496458	276	JB53C		Cornell University	
+GCF_037136195.1	ASM3713619v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269229	42493	13	JB56A		Cornell University	1084067
+GCF_037136215.1	ASM3713621v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269227	136990	17	JB145A		Cornell University	1084067
+GCF_037136235.1	ASM3713623v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269222	179611	280	1950-8			1084067
+GCF_037136255.1	ASM3713625v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269205	325934	276	1950-26			1084067
+GCF_037136275.1	ASM3713627v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269223	165921	198	1950-9		Cornell University	1084067
+GCF_037136315.1	ASM3713631v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269211	708009	248	1950-34		Cornell University	1084067
+GCF_037136335.1	ASM3713633v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269208	523333	286	1950-3		Cornell University	
+GCF_037136375.1	ASM3713637v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269198	378392	226	1950-19		Cornell University	1084067
+GCF_037136395.1	ASM3713639v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269212	707709	285	1950-35			1084067
+GCF_037136415.1	ASM3713641v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN40269192	240168	339	1950-12		Cornell University	1084067
+GCF_037136475.1	ASM3713647v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269210	334564	143	1950-33		Cornell University	1084067
+GCF_037136495.1	ASM3713649v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269218	422465	310	1950-40		Cornell University	1084067
+GCF_037136515.1	ASM3713651v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269216	477037	367	1950-39		Cornell University	
+GCF_037136555.1	ASM3713655v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269214	343089	266	1950-37		Cornell University	
+GCF_037136575.1	ASM3713657v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269215	343089	327	1950-38		Cornell University	1084067
+GCF_037136595.1	ASM3713659v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269207	480520	398	1950-29			1084067
+GCF_037136615.1	ASM3713661v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269213	254472	253	1950-36		Cornell University	
+GCF_037136635.1	ASM3713663v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269206	325935	396	1950-28			1084067
+GCF_037136655.1	ASM3713665v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269190	523333	336	1950-1			1084067
+GCF_037136675.1	ASM3713667v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN40269191	481597	327	1950-11		Cornell University	1084067
+GCF_037136755.1	ASM3713675v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269199	495701	314	1950-2			1084067
+GCF_037136775.1	ASM3713677v1	Pectobacterium atrosepticum (enterobacteria)	29471	SAMN40269200	530038	331	1950-20			1084067
+GCF_037136795.1	ASM3713679v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269201	365131	379	1950-21			1084067
+GCF_037136835.1	ASM3713683v1	Pectobacterium sp. 1950-15 (enterobacteria)	3128982	SAMN40269195	233385	456	1950-15			
+GCF_037136855.1	ASM3713685v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269189	171437	70	18B43		Cornell University	1084067
+GCF_037136885.1	ASM3713688v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269193	494246	391	1950-13			
+GCF_037136935.1	ASM3713693v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN40269185	67572	116	15A54		Cornell University	1084067
+GCF_037136955.1	ASM3713695v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40269188	81817	76	18B42		Cornell University	1084067
+GCF_037955535.1	ASM3795553v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN39980644	1081577	20	BSROG1CAUL_A		The University of the West Indies	1077724
+GCF_038069705.1	ASM3806970v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN40269209	309551	291	1950-32			1084067
+GCF_038149685.1	ASM3814968v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN40763090	538015	108	Saturn		Institute of Bioorganic Chemistry RAS	1096767
+GCF_038442245.1	ASM3844224v1	Pectobacterium betavasculorum (enterobacteria)	55207	SAMN30917590	377629	56	CFBP1520		University of Gdansk	881924
+GCF_038562765.1	ASM3856276v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN40918343	188251	20	SM2		UNIVERSIDAD AUTONOMA DE QUERETARO	1062060
+GCF_040191255.1	ASM4019125v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN41568014	357547	94	SRB2		University of KwaZulu-Natal	
+GCF_040224195.1	ASM4022419v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774371	383243	400	PD 8610		NIVIP	1122109
+GCF_040224275.1	ASM4022427v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774370	251314	400	PD 8609		NIVIP	
+GCF_040224295.1	ASM4022429v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN41774368	652160	400	PD 8607			
+GCF_040224315.1	ASM4022431v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774366	584141	400	PD 8605			1122109
+GCF_040224335.1	ASM4022433v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN41774376	153431	400	LMG 30828		NIVIP	
+GCF_040224355.1	ASM4022435v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN41774367	294142	400	PD 8606			1122109
+GCF_040224375.1	ASM4022437v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN41774375	435018	400	LMG 29774		NIVIP	
+GCF_040224395.1	ASM4022439v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774373	408293	400	LMG 2417			
+GCF_040224415.1	ASM4022441v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN41774374	266195	400	LMG 17936		NIVIP	1122109
+GCF_040224435.1	ASM4022443v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN41774369	186879	400	PD 8608		NIVIP	1122109
+GCF_040224455.1	ASM4022445v1	Pectobacterium zantedeschiae (enterobacteria)	2034769	SAMN41774389	610321	400	PD 7096			
+GCF_040224475.1	ASM4022447v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774393	514000	400	PD 7236			
+GCF_040224495.1	ASM4022449v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMN41774379	293605	400	PD 5801			1122109
+GCF_040224515.1	ASM4022451v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774394	360145	400	PD 7271		NIVIP	1122109
+GCF_040224535.1	ASM4022453v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774388	253987	400	PD 7081			1122109
+GCF_040224555.1	ASM4022455v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN41774381	196745	400	PD 6860			1122109
+GCF_040224575.1	ASM4022457v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN41774377	312974	400	PD 5156		NIVIP	1122109
+GCF_040224595.1	ASM4022459v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774391	461590	400	PD 7232		NIVIP	1122109
+GCF_040224615.1	ASM4022461v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774380	3217110	400	PD 6523		NIVIP	1122109
+GCF_040225055.1	ASM4022505v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN41774365	3027371	400	PD 8604			1122109
+GCF_040225075.1	ASM4022507v1	Pectobacterium jejuense (enterobacteria)	2974022	SAMN41774395	241839	400	PD 7434			1122109
+GCF_040225115.1	ASM4022511v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN41774397	407488	400	PD 7836			1122109
+GCF_040225135.1	ASM4022513v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN41774364	2606974	400	DSM 105255		NIVIP	1122109
+GCF_040225155.1	ASM4022515v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN41774396	752639	400	PD 7537		NIVIP	1122109
+GCF_040225175.1	ASM4022517v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774390	1553721	400	PD 7231		NIVIP	
+GCF_040225195.1	ASM4022519v1	Pectobacterium odoriferum (enterobacteria)	78398	SAMN41774383	137516	400	PD 6958		NIVIP	
+GCF_040225205.1	ASM4022520v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN41774398	364026	400	PD 7900		NIVIP	1122109
+GCF_040225235.1	ASM4022523v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN41774385	508232	400	PD 6994			1122109
+GCF_040225255.1	ASM4022525v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774382	153853	400	PD 6952			1122109
+GCF_040225265.1	ASM4022526v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774387	217367	400	PD 7079		NIVIP	1122109
+GCF_040225295.1	ASM4022529v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774372	191818	400	PD 8611			1122109
+GCF_040225315.1	ASM4022531v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN41774392	893947	400	PD 7233			1122109
+GCF_040225335.1	ASM4022533v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774386	298261	400	PD 6997		NIVIP	1122109
+GCF_040225375.1	ASM4022537v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN41774378	532026	400	PD 5190		NIVIP	
+GCF_040256805.1	ASM4025680v1	Pectobacterium colocasium (enterobacteria)	2878098	SAMN38754036	4759205	521.38	MT27-1		Guangdong Academy of Agricultural Science, P. R. China	1050810
+GCF_040259325.1	ASM4025932v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN31278450	4806190	595	B2-6			
+GCF_040259335.1	ASM4025933v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN31278767	4976432	930	T25-1		Guangdong Academy of Agricultural Science, P. R. China	890452
+GCF_040285185.1	ASM4028518v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41774384	319703	400	PD 6993		NIVIP	
+GCF_040361805.1	ASM4036180v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMD00549562	315537	302	NK5			
+GCF_040363025.1	ASM4036302v1	Pectobacterium parmentieri (enterobacteria)	1905730	SAMD00549561	418487	289	NK14			
+GCF_041228105.1	NCPPB929v1_ONT	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN41994899	5281458	400	NCPPB 929		University of Exeter	1127186
+GCF_042134655.1	ASM4213465v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN43456395	4864057	50	Pc3		China Agricultural University	1155309
+GCF_042432185.1	ASM4243218v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN43281662	4157327	17.65	ICMP 11136		The Institute of Microbiology of the Chinese Academy of Sciences	595761
+GCF_042691685.1	ASM4269168v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN39980534	4856666	4	BSRLOP2CAB		The University of the West Indies	1077724
+GCF_043964375.1	ASM4396437v1	Pectobacterium zantedeschiae (enterobacteria)	2034769	SAMN37809576	4944901	306.47	CFBP 1357		University of Hawaii	
+GCF_043964385.1	ASM4396438v1	Pectobacterium polonicum (enterobacteria)	2485124	SAMN37809490	5082745	233.65	LMG 31077			1027906
+GCF_044751665.1	ASM4475166v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN44500076	157358	269	22QBSP01-2		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751685.1	ASM4475168v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN44500075	364253	226	BSHS1-5		Yunnan Academy of Tobacco Agricultural Sciences	
+GCF_044751705.1	ASM4475170v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN44500074	309980	134	22DLYP03-2		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751725.1	ASM4475172v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN44500072	172770	273	22KMSM16		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751745.1	ASM4475174v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500070	370949	233	SJHS3-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751765.1	ASM4475176v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500065	274490	270	22LXZD03-04			827268
+GCF_044751785.1	ASM4475178v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN44500073	175665	277	22LCSJ05-1			
+GCF_044751805.1	ASM4475180v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500066	290582	267	22ZTDG03-4		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751825.1	ASM4475182v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500068	508428	243	DL6-4		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751845.1	ASM4475184v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500064	259824	263	22LJYL01-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751865.1	ASM4475186v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500069	508416	212	DL10-2-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751885.1	ASM4475188v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500067	202304	251	BSHS4			827268
+GCF_044751905.1	ASM4475190v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500063	350834	219	22LCQN02-3		Yunnan Academy of Tobacco Agricultural Sciences	
+GCF_044751925.1	ASM4475192v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500062	591455	268	22LCQN02-2		Yunnan Academy of Tobacco Agricultural Sciences	
+GCF_044751945.1	ASM4475194v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500059	394999	259	22LCQN01-3		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044751965.1	ASM4475196v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500055	290041	213	21LCBS02			827268
+GCF_044751985.1	ASM4475198v1	Pectobacterium jejuense (enterobacteria)	2974022	SAMN44500054	354506	263	22LXZD03-05		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752005.1	ASM4475200v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500061	400114	260	22LCQN02-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752025.1	ASM4475202v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500058	251556	265	22LCQN01-1			827268
+GCF_044752045.1	ASM4475204v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500057	433761	260	22KMSM01			827268
+GCF_044752065.1	ASM4475206v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500051	366766	268	22ZTDG03-5		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752085.1	ASM4475208v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500056	129269	263	22DLYP08		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752105.1	ASM4475210v1	Pectobacterium jejuense (enterobacteria)	2974022	SAMN44500052	386511	265	22LXZD03-01		Yunnan Academy of Tobacco Agricultural Sciences	
+GCF_044752125.1	ASM4475212v1	Pectobacterium jejuense (enterobacteria)	2974022	SAMN44500053	386511	265	22LXZD03-03		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752145.1	ASM4475214v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500050	393553	273	22ZTDG03-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752165.1	ASM4475216v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500047	270214	270	22LCQN01-2		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752185.1	ASM4475218v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500048	449757	263	22LCQN01-4		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752205.1	ASM4475220v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500046	1457609	267	22KMXD04		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752225.1	ASM4475222v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN44500042	332024	256	22ZTDG03-2		Yunnan Academy of Tobacco Agricultural Sciences	
+GCF_044752245.1	ASM4475224v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500049	474194	261	22LJNL06-5-2		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752265.1	ASM4475226v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN44500043	321682	251	22ZTDG03-3		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752285.1	ASM4475228v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN44500078	615654	255	22LJNL06-6-3		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752305.1	ASM4475230v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN44500077	412735	277	22LJNL06-3-2		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752325.1	ASM4475232v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44500045	560125	272	22KMSM05		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752345.1	ASM4475234v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN44500044	457711	201	22QBSP01-1		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752465.1	ASM4475246v1	Pectobacterium sp. CHL-2024 (enterobacteria)	3377079	SAMN44500060	761189	263	22LCQN01-5		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_044752485.1	ASM4475248v1	Pectobacterium parvum (enterobacteria)	2778550	SAMN44500071	150972	273	22KMSM06			827268
+GCF_044752505.1	ASM4475250v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN44500079	477530	248	22LJYL12		Yunnan Academy of Tobacco Agricultural Sciences	827268
+GCF_045037855.1	ASM4503785v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN44656284	5136672	100	M22b		Brigham Young University	1183984
+GCF_045037945.1	ASM4503794v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN44656279	4883122	101	M10		Brigham Young University	1183984
+GCF_045037985.1	ASM4503798v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44656278	4801510	102	M8b		Brigham Young University	
+GCF_045038005.1	ASM4503800v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44656277	4801508	96	M8a		Brigham Young University	1183984
+GCF_045038015.1	ASM4503801v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44656274	4801510	103	M3		Brigham Young University	1183984
+GCF_045038025.1	ASM4503802v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44656275	4794904	46	M4a		Brigham Young University	1183984
+GCF_045277235.1	ASM4527723v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN44747016	4954534	578	PCC27		Kyung Hee University	
+GCF_045278865.1	ASM4527886v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN37447018	4953627	270	ZRIMU1701SM		Inner Mongolia University	1018677
+GCF_045278875.1	ASM4527887v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN37448866	4764461	172	ZRIMU1702DQ		Inner Mongolia University	1018699
+GCF_046159765.1	ASM4615976v1	Pectobacterium sp. B2J-2 (enterobacteria)	3385372	SAMN45393973	123509	99.6478	B2J-2		Hainan University	1196184
+GCF_046237015.1	ASM4623701v1	Pectobacterium sp. B1J-3 (enterobacteria)	3385371	SAMN45373544	211515	99.3933	B1J-3		Hainan University	1196156
+GCF_046618845.1	ASM4661884v1	Pectobacterium cacticida (enterobacteria)	69221	SAMN04527005	104684	100	IFB5353		University of Gdansk	
+GCF_046622685.1	ASM4662268v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841175	267018	836	NAK719		Wageningen University & Research	1140644
+GCF_046622705.1	ASM4662270v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841176	223220	1249	NAK727		Wageningen University & Research	1140644
+GCF_046622725.1	ASM4662272v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841174	433402	849	NAK716		Wageningen University & Research	
+GCF_046622745.1	ASM4662274v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841173	224410	910	NAK709		Wageningen University & Research	1140644
+GCF_046622765.1	ASM4662276v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841172	266942	784	NAK701		Wageningen University & Research	
+GCF_046622805.1	ASM4662280v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841170	267033	809	NAK698			1140644
+GCF_046622825.1	ASM4662282v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841169	480228	750	NAK683			
+GCF_046622845.1	ASM4662284v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841168	276106	526	NAK682			1140644
+GCF_046622865.1	ASM4662286v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841167	491166	815	NAK679		Wageningen University & Research	1140644
+GCF_046622885.1	ASM4662288v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841171	211430	816	NAK700		Wageningen University & Research	1140644
+GCF_046622905.1	ASM4662290v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841165	480228	888	NAK650		Wageningen University & Research	
+GCF_046622925.1	ASM4662292v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841166	480307	828	NAK673		Wageningen University & Research	1140644
+GCF_046622945.1	ASM4662294v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841164	339936	785	NAK644		Wageningen University & Research	1140644
+GCF_046622965.1	ASM4662296v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841163	339855	828	NAK641			
+GCF_046622985.1	ASM4662298v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841162	471878	1014	NAK638			1140644
+GCF_046623005.1	ASM4662300v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841161	480228	1023	NAK617		Wageningen University & Research	1140644
+GCF_046623025.1	ASM4662302v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841160	480496	682	NAK616			
+GCF_046623045.1	ASM4662304v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841157	471894	927	JGAR-120719-4		Wageningen University & Research	1140644
+GCF_046623065.1	ASM4662306v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841159	267012	1279	NAK246			1140644
+GCF_046623085.1	ASM4662308v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841156	480378	912	JGAR-100719-1		Wageningen University & Research	1140644
+GCF_046623105.1	ASM4662310v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841155	339964	975	JGAR-080719-2		Wageningen University & Research	1140644
+GCF_046623125.1	ASM4662312v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841158	264275	1258	NAK238			1140644
+GCF_046623145.1	ASM4662314v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN42841154	480269	795	JGAR-030718-1		Wageningen University & Research	
+GCF_047306745.1	ASM4730674v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN40299307	209797	12	21A09		The University of Maine	1085267
+GCF_048593165.1	ASM4859316v1	Pectobacterium colocasium (enterobacteria)	2878098	SAMN47212673	4450785	15	CSR2		The University of the West Indies	1231477
+GCF_048593175.1	ASM4859317v1	Pectobacterium colocasium (enterobacteria)	2878098	SAMN47251506	4473524	15	CSR3		University of the West Indies	1231477
+GCA_049729065.1	ASM4972906v1	Pectobacterium aroidearum (enterobacteria)	1201031	SAMN47853470	4962696	0.9929			Kunming University	1248211
+GCF_049949135.1	ASM4994913v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN48066572	4781916	235	BY2		Shandong Agriculture and Engineering University	
+GCF_050997255.1	ASM5099725v1	Pectobacterium versatile (enterobacteria)	2488639	SAMN48268175	316920	568	LFLOG-78			1257438
+GCF_050997315.1	ASM5099731v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN48267897	2727898	501	L25F-74		Instituto Politecnico Nacional	1257438
+GCF_050997335.1	ASM5099733v1	Pectobacterium polaris (enterobacteria)	2042057	SAMN48268381	631382	31	L25F-105			1257438
+GCF_050997375.1	ASM5099737v1	Pectobacterium punjabense (enterobacteria)	2108399	SAMN48268176	3394501	511	L25F-83		Instituto Politecnico Nacional	1257438
+GCF_050997435.1	ASM5099743v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN48268401	3397938	393	LVEG-224			1257438
+GCF_051174755.1	ASM5117475v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN48861762	4831335	50	WZZ2024		China Agricultural University	1271328
+GCF_051468635.1	ASM5146863v1	Pectobacterium sp. LFLA-215 (enterobacteria)	3419008	SAMN48267889	4522016	663	LFLA-215			
+GCF_051707265.1	ASM5170726v1	Pectobacterium sp. S5 (enterobacteria)	3058367	SAMN36027743	631382	30	S5			988818
+GCF_051707285.1	ASM5170728v1	Pectobacterium sp. S6 (enterobacteria)	3058368	SAMN36027744	511581	36	S6		CIIDIR-IPN, Unidad Sinaloa	
+GCA_051904865.1	ASM5190486v1	Pectobacterium carotovorum (enterobacteria)	554	SAMN49752928	5310334	142	KACC 16999		Korea Polar Research Institute	
+GCF_052601195.1	ASM5260119v1	Pectobacterium actinidiae (enterobacteria)	1507808	SAMN50685991	552988	10	S2FC			1308167
+GCF_052656135.1	ASM5265613v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN51229358	129531	100.5	DM1		CIBNOR	1321934
+GCF_052921545.1	ASM5292154v1	Pectobacterium brasiliense (enterobacteria)	180957	SAMN51728687	4916962	861	BS1113		Fuyang Normal University	1332297
+GCF_900129615.1	IMG-taxon 2695420962 annotated assembly	Pectobacterium carotovorum (enterobacteria)	554	SAMN05444147	380982	203	DSM 30168		DOE Joint Genome Institute	https://gold.jgi.doe.gov/projects?id=Gp0148856 331393
+GCF_900195285.2	Pc0421_3	Pectobacterium parvum (enterobacteria)	2778550	SAMEA104138801	181754	75	s0421			
+GCF_900195295.2	Pc0416_3	Pectobacterium parvum (enterobacteria)	2778550	SAMEA104138800	155422	75	s0416			
