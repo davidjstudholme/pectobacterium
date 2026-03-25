@@ -1,4 +1,13 @@
 LMG_21371_brasiliense
+NCPPB_1231_unicycler_assembly
+NCPPB_1236_unicycler_assembly
+NCPPB_1639_unicycler_assembly
+NCPPB_2349_unicycler_assembly
+NCPPB_3074_unicycler_assembly
+NCPPB_355_unicycler_assembly
+NCPPB_552_unicycler_assembly
+PRT1_unicycler_assembly
+PRT2_unicycler_assembly
 PRT5_unicycler_assembly
 130_brasiliense_contig
 13_115_jejuense_contig

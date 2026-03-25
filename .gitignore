@@ -5,7 +5,7 @@ proc
 PhageBoost
 DeepVirFinder
 
-
+*.visual
 
 
 *.tfrec

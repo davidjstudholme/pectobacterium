@@ -166,4 +166,6 @@
 ../01_genomes/ZRIMU1030_brasiliense.fasta
 ../01_genomes/ZRIMU1701SM_brasiliense.fasta
 ../01_genomes/ZRIMU1702DQ_brasiliense.fasta
+../08_unicycler/PRT1.unicycler.assembly.fasta
+../08_unicycler/PRT2.unicycler.assembly.fasta
 ../08_unicycler/PRT5.unicycler.assembly.fasta

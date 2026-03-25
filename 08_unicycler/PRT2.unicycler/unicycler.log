@@ -1,0 +1,152 @@
+
+Starting Unicycler (2026-02-10 20:33:52)
+----------------------------------------
+    Welcome to Unicycler, an assembly pipeline for bacterial genomes. Since you provided only short reads, Unicycler will essentially function as a SPAdes-optimiser. It will try many k-mer sizes, choose the best based on contig length and graph connectivity, and scaffold the graph using SPAdes repeat resolution.
+    For more information, please see https://github.com/rrwick/Unicycler
+
+Command: /data/djs217/miniconda3/envs/unicycler_env/bin/unicycler -1 PRT2_1_val_1.fq.gz -2 PRT2_2_val_2.fq.gz -o PRT2.unicycler
+
+Unicycler version: v0.5.1
+Using 8 threads
+
+Making output directory:
+  /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler
+
+Dependencies:
+  Program       Version   Status  
+  spades.py     4.0.0     good    
+  racon                   not used
+  makeblastdb   2.16.0+   good    
+  tblastn       2.16.0+   good    
+
+
+Choosing k-mer range for assembly (2026-02-10 20:34:48)
+-------------------------------------------------------
+    Unicycler chooses a k-mer range for SPAdes based on the length of the input reads. It uses a wide range of many k-mer sizes to maximise the chance of finding an ideal assembly.
+
+SPAdes maximum k-mer: 127
+Median read length: 151
+K-mer range: 27, 53, 71, 87, 99, 111, 119, 127
+
+
+SPAdes assemblies (2026-02-10 20:35:42)
+---------------------------------------
+    Unicycler now uses SPAdes to assemble the short reads. It scores the assembly graph for each k-mer using the number of contigs (fewer is better) and the number of dead ends (fewer is better). The score function is 1/(c*(d+2)), where c is the contig count and d is the dead end count.
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27 --threads 8 --gfa11 --isolate -1 /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2_1_val_1.fq.gz -2 /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2_2_val_2.fq.gz -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53 --threads 8 --gfa11 --restart-from k27 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71 --threads 8 --gfa11 --restart-from k53 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71,87 --threads 8 --gfa11 --restart-from k71 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71,87,99 --threads 8 --gfa11 --restart-from k87 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71,87,99,111 --threads 8 --gfa11 --restart-from k99 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71,87,99,111,119 --threads 8 --gfa11 --restart-from k111 -m 1024
+
+spades.py -o /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly -k 27,53,71,87,99,111,119,127 --threads 8 --gfa11 --restart-from k119 -m 1024
+
+K-mer   Contigs   Dead ends   Score      
+   27                         too complex
+   53       619           0      8.08e-04
+   71       340           0      1.47e-03
+   87       240           0      2.08e-03
+   99       198           0      2.53e-03
+  111       174           0      2.87e-03
+  119       153           0      3.27e-03
+  127       147           0      3.40e-03 <-best
+
+Read depth filter: removed 19 contigs totalling 6533 bp
+Deleting /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/spades_assembly/
+
+
+Determining graph multiplicity (2026-02-10 22:22:02)
+----------------------------------------------------
+    Multiplicity is the number of times a sequence occurs in the underlying sequence. Single-copy contigs (those with a multiplicity of one, occurring only once in the underlying sequence) are particularly useful.
+
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/002_depth_filter.gfa
+
+
+Cleaning graph (2026-02-10 22:22:02)
+------------------------------------
+    Unicycler now performs various cleaning procedures on the graph to remove overlaps and simplify the graph structure. The end result is a graph ready for bridging.
+
+Graph overlaps removed
+
+Removed zero-length segments:
+    77, 80, 82, 85, 86, 87, 92, 96, 97, 107, 110, 117, 119, 131, 132, 134, 137, 146
+
+Removed zero-length segments:
+    116
+
+Merged small segments:
+    140, 141, 142, 144
+
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/003_overlaps_removed.gfa
+
+    Unicycler now selects a set of anchor contigs from the single-copy contigs. These are the contigs which will be connected via bridges to form the final assembly.
+
+26 anchor segments (4,598,627 bp) out of 124 total segments (4,637,129 bp)
+
+
+Creating SPAdes contig bridges (2026-02-10 22:22:02)
+----------------------------------------------------
+    SPAdes uses paired-end information to perform repeat resolution (RR) and produce contigs from the assembly graph. SPAdes saves the graph paths corresponding to these contigs in the contigs.paths file. When one of these paths contains two or more anchor contigs, Unicycler can create a bridge from the path.
+
+                                                                                                                       Bridge
+Start                                                   Path                                                  End     quality
+  -17                                             -57 -> 39 -> 46                                             20         29.6
+    5             -67 -> -50 -> -100 -> -114 -> 45 -> -95 -> -85 -> -48 -> -66 -> -64 -> 56 -> 108            -9         22.9
+    6                                                    46                                                   2          63.2
+    8                                             -63 -> 36 -> -63                                            9          14.5
+   11   58 -> 40 -> 77 -> -84 -> 62 -> -75 -> -74 -> -37 -> 77 -> -83 -> 62 -> 76 -> -74 -> 58 -> 38 -> -83   16          2.3
+   12                          -59 -> -70 -> 49 -> 28 -> -59 -> 69 -> 49 -> 26 -> 57                          -14         7.2
+   13                 -50 -> -100 -> -117 -> 45 -> -94 -> -85 -> 53 -> -52 -> 65 -> 56 -> 108                 18         24.7
+   16               -56 -> -65 -> 66 -> 92 -> -53 -> -86 -> 95 -> -45 -> 117 -> 101 -> 50 -> 67               19         23.0
+
+
+Creating loop unrolling bridges (2026-02-10 22:22:02)
+-----------------------------------------------------
+    When a SPAdes contig path connects an anchor contig with the middle contig of a simple loop, Unicycler concludes that the sequences are contiguous (i.e. the loop is not a separate piece of DNA). It then uses the read depth of the middle and repeat contigs to guess the number of times to traverse the loop and makes a bridge.
+
+                                  Loop count   Loop count    Loop    Bridge
+Start   Repeat   Middle     End    by repeat    by middle   count   quality
+    8      -63       36       9         1.28         1.10       1      38.8
+
+
+Applying bridges (2026-02-10 22:22:02)
+--------------------------------------
+    Unicycler now applies to the graph in decreasing order of quality. This ensures that when multiple, contradictory bridges exist, the most supported option is used.
+
+Bridge type   Start -> end   Path                                       Quality
+SPAdes           6 -> 2      46                                          63.236
+SPAdes         -17 -> 20     -57, 39, 46                                 29.640
+SPAdes          13 -> 18     -50, -100, -117, 45, -94, -85, 53, -52,     24.697
+                             65, 56, 108                                       
+SPAdes          16 -> 19     -56, -65, 66, 92, -53, -86, 95, -45,        23.011
+                             117, 101, 50, 67                                  
+SPAdes           5 -> -9     -67, -50, -100, -114, 45, -95, -85, -48,    22.938
+                             -66, -64, 56, 108                                 
+SPAdes           8 -> 9      -63, 36, -63                                14.505
+
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/004_bridges_applied.gfa
+
+
+Bridged assembly graph (2026-02-10 22:22:02)
+--------------------------------------------
+    The assembly is now mostly finished and no more structural changes will be made. Ideally the assembly graph should now have one contig per replicon and no erroneous contigs (i.e. a complete assembly). If there are more contigs, then the assembly is not complete.
+
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/005_final_clean.gfa
+
+Component   Segments   Links   Length      N50       Longest segment   Status    
+        1         87     121   4,639,174   470,702           812,158   incomplete
+
+
+Assembly complete (2026-02-10 22:22:02)
+---------------------------------------
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/assembly.gfa
+Saving /data/djs217/PROJECTS/44_Pectobacterium/08_unicycler/PRT2.unicycler/assembly.fasta
+
