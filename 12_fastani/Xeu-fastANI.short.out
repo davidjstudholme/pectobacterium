@@ -118,8 +118,8 @@
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/IPO:4054_NAK:231_brasiliense.fasta	97.2317	1437	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/IPO:4057_NAK:249_brasiliense.fasta	97.2299	1438	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/130_brasiliense.fasta	97.2209	1440	1532
-../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/A79-S20-O15_brasiliense.fasta	97.2137	1419	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/A079-S20-O15_brasiliense.fasta	97.2137	1419	1532
+../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/A79-S20-O15_brasiliense.fasta	97.2137	1419	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/F126_brasiliense.fasta	97.2066	1443	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/Y49_brasiliense.fasta	97.2059	1407	1532
 ../08_unicycler/PRT1.unicycler.assembly.fasta	../01_genomes/Y21_brasiliense.fasta	97.1973	1413	1532
@@ -286,8 +286,8 @@
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/IPO:4131_NAK:399_JGAR:16_180717-4_brasiliense.fasta	97.2413	1424	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/NAK650_brasiliense.fasta	97.24	1427	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/F126_brasiliense.fasta	97.238	1439	1532
-../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/A079-S20-O15_brasiliense.fasta	97.2251	1415	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/A79-S20-O15_brasiliense.fasta	97.2251	1415	1532
+../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/A079-S20-O15_brasiliense.fasta	97.2251	1415	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/BSRLOP2CAB_brasiliense.fasta	97.2241	1393	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/NJAU134_brasiliense.fasta	97.2217	1425	1532
 ../08_unicycler/PRT2.unicycler.assembly.fasta	../01_genomes/Y21_brasiliense.fasta	97.2181	1417	1532
