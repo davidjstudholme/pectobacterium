@@ -1,0 +1,10 @@
+NCPPB_1231.unicycler.assembly.fasta
+NCPPB_1236.unicycler.assembly.fasta
+NCPPB_1639.unicycler.assembly.fasta
+NCPPB_2349.unicycler.assembly.fasta
+NCPPB_3074.unicycler.assembly.fasta
+NCPPB_355.unicycler.assembly.fasta
+NCPPB_552.unicycler.assembly.fasta
+PP1.fasta
+PP2.fasta
+PP5.fasta
