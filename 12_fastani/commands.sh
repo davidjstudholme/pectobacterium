@@ -7,4 +7,4 @@ conda activate fastani_env
 conda list -n fastani_env > fastani_env_packages.txt
 conda env export > fastani_env.yaml
 
-fastANI --ql query_list.txt --rl ref_list.txt -o Xeu-fastANI.short.out -t 6 --visualize --matrix
+fastANI --ql query_list.txt --rl ref_list.txt -o pectobacterium-fastANI.short.out -t 6 --visualize --matrix
