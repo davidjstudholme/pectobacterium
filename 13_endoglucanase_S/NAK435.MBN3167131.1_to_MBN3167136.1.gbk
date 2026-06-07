@@ -1,7 +1,7 @@
-LOCUS       JACHAC010000028.1_MBN3167131.1_to_MBN3167134.1 4071 bp    DNA              UNK 01-JAN-1980
-DEFINITION  Region from protein_id MBN3167131.1 to MBN3167134.1.
-ACCESSION   JACHAC010000028.1_MBN3167131.1_to_MBN3167134.1
-VERSION     JACHAC010000028.1_MBN3167131.1_to_MBN3167134.1
+LOCUS       JACHAC010000028.1_MBN3167131.1_to_MBN3167136.1 6695 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region from protein_id MBN3167131.1 to MBN3167136.1.
+ACCESSION   JACHAC010000028.1_MBN3167131.1_to_MBN3167136.1
+VERSION     JACHAC010000028.1_MBN3167131.1_to_MBN3167136.1
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
@@ -82,6 +82,52 @@ FEATURES             Location/Qualifiers
                      /translation="MRNTFIVCWQYLRAFALIYLCLLAGNAVSALLPFTIPGSIIGMLV
                      LFILLASQILPAQWVKPGCHLLIRHMALLFVPIGVGVMSYYDLVSQQFGPIVVSCLIST
                      FIVMLVVGFSTQIMQRERAVAGDRTPPKDNE"
+     gene            complement(4258..5562)
+                     /gene="bioA"
+                     /locus_tag="H5A19_18230"
+     CDS             complement(4258..5562)
+                     /gene="bioA"
+                     /locus_tag="H5A19_18230"
+                     /EC_number="2.6.1.62"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011094360.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="adenosylmethionine--8-amino-7-oxononanoate
+                     transaminase"
+                     /protein_id="MBN3167135.1"
+                     /translation="MSPEDIAFDQRHIWHPYTSMTEPLPCYPVVSARGVELQLDDGRRL
+                     IDGMSSWWAAIHGYNHPTINQAVEAQLSQMSHVMFGGITHPAAVALCRQLVDITPDALE
+                     CVFLADSGSVAVEVAMKMALQYWQARGETRQRFLTLRHGYHGDTFGAMSVCDPQNSMHS
+                     LYQGYLPTHLFIDAPPCVAINEGAFTDDWQEADIAPLHSMLSAHAHEVAAVILEPIVQG
+                     AGGMRFYHPAYLRRVRELCNQWGILLIADEIATGFGRTGKLFACEHAGISPDIMCLGKA
+                     LTGGYMTLSATLTTRTVAETISNGAAGCFMHGPTFMGNPLACAAANASLSLLAENRWQE
+                     QVKQIERQLREALQPCADSPLVANVRVLGAIGVVETQRPVNMARLQRFFVERGVWIRPF
+                     GRLIYLMPPFIIQPDELRKLTDAVCAAIRDERLFD"
+     gene            5658..6695
+                     /gene="bioB"
+                     /locus_tag="H5A19_18235"
+     CDS             5658..6695
+                     /gene="bioB"
+                     /locus_tag="H5A19_18235"
+                     /EC_number="2.8.1.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012005745.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="biotin synthase BioB"
+                     /protein_id="MBN3167136.1"
+                     /translation="MADRMYWTLEQAQDLFNKPFLELMFEAQQIHRQHFDPRQVQVSTL
+                     LSIKTGSCPEDCKYCPQSSRYRTGIDTERLMQVEQVLESARQAKAAGSTRFCMGAAWKN
+                     PHERDMPYLEQMVQGVKAMGMETCMTLGTLHNDQAERLASAGLDFYNHNLDTSPEFYGS
+                     IITTRTYQERLDTLDKVRGAGIKVCSGGIVGLGETVRDRAGLLVQLANLPTPPESVPIN
+                     MLVKVKGTPLADNDDVDPFDFIRTIAVARIMMPASYVRLSAGREQMSEQTQAMCFMAGA
+                     NSIFYGCKLLTTPNPKEDKDLALFLKLGLNPQQTGTEYGDNQQQQRLAEQLINADSEQF
+                     YNAAV"
 ORIGIN
         1 ttagaacgag gtgcgtttgt agctgcggta ctgtggttgc cagaagttgt gctcaatcgc
        61 tttctgcaac gcatcggctg aggtcaccac ggctgcgccc tgcagctgtg cggctttacc
@@ -150,5 +196,49 @@ ORIGIN
      3841 tgggacgaac agcagcgcca tgtgacgaat aagcaggtgg caacccggtt ttacccactg
      3901 cgcgggcaga atttgcgagg cgagaaggat gaacaagacc agcatgccga tgatactgcc
      3961 ggggatagtg aacggaagta acgcggatac cgcattgcct gccagcaggc agagataaat
-     4021 caatgcgaaa gcgcgtaaat actgccagca cacgatgaac gtattacgca t
+     4021 caatgcgaaa gcgcgtaaat actgccagca cacgatgaac gtattacgca tgggaaattc
+     4081 ctgattagct gaggggatta tcataacgct aatggaattt acgtgctaca gcgcacattg
+     4141 ctaacgttat acggcaacgc atgtcagggg atatgtggtg aatggcctga gggcgaaagc
+     4201 aaacgtgtcg cccccaagcc tttattgatc caaatgcttt attgatccaa atagtcgtca
+     4261 gtcaaatagc cgttcatcac gaatcgcggc acagaccgca tcggtcagct tacgcagttc
+     4321 atcaggctga atgataaacg gcggcatcag ataaatgagt cggccaaagg ggcgaatcca
+     4381 cacgccgcgc tcgacgaaga aacgctgtag ccgcgccata ttaaccggac gctgcgtttc
+     4441 caccacgccg atagcgccca gtacgcgaac gttcgccacc agcggcgaat ccgcgcaggg
+     4501 ttgcagtgct tctcgcaact gccgttcaat ctgtttgact tgctcctgcc agcggttctc
+     4561 cgccagcagc gataaactgg cgttggctgc cgcgcaggcg agcggattgc ccataaatgt
+     4621 ggggccgtgc ataaaacagc ccgccgcgcc gttgctgatg gtttccgcaa ctgtccgagt
+     4681 ggtcagcgtg gcggagagcg tcatataacc gccagtaagc gctttcccca gacacataat
+     4741 atcgggcgaa atccccgcat gttcgcaggc aaacagcttg ccggtgcggc caaatccggt
+     4801 cgcgatctca tcggcaatca gcaagatccc ccattgattg cacagttccc gaacccgacg
+     4861 cagataggcc ggatgataaa agcgcatccc gcccgcaccc tgcacgatgg gttccagaat
+     4921 cacggccgcg acctcatggg cgtgcgctga cagcatcgaa tggagcggcg cgatatccgc
+     4981 ttcctgccag tcgtcggtaa aagcgccttc gttgatcgcg acgcatggcg gcgcatcgat
+     5041 aaacaggtga gtcggcagat aaccctgata cagactgtgc atcgaatttt gcggatcgca
+     5101 cacggacatc gcgccgaagg tgtcgccgtg atagccatga cgcagagtga gaaagcgctg
+     5161 acgggtttca ccgcgtgctt gccaatattg cagcgccatt ttcattgcca cttcgacggc
+     5221 taccgagccg gaatccgcca gaaacacgca ttccagcgca tccggcgtga tgtccaccag
+     5281 ctggcggcac aacgccaccg ccgccggatg ggtgatcccg ccaaacatca cgtgcgacat
+     5341 ctggctgagc tgagcctcca ctgcctgatt gatcgtcgga tggttgtaac cgtgaatcgc
+     5401 tgcccaccac gatgacatac cgtcaatcag gcgacgtccg tcatccaact gaagctcgac
+     5461 gccgcgggct gatacgaccg gatagcaggg cagcggttcg gtcattgagg tgtagggatg
+     5521 ccaaatgtgg cgctggtcaa aagcaatgtc ttccgggctc atgatgatct ttcgtaaacc
+     5581 aaaatagatt ctatttggtt gacagtatat cgggttaatt tacactggcg aaacgttttt
+     5641 agtttggaga tgccgaagtg gctgaccgca tgtactggac gcttgagcaa gcgcaagact
+     5701 tatttaataa accctttctg gaactgatgt ttgaagcgca gcagatccac cgtcagcatt
+     5761 ttgatccccg tcaggtgcag gttagtacgc tactgtcgat caaaaccggt tcctgtcctg
+     5821 aggattgtaa gtattgtccg caaagttccc gctaccgtac cgggattgat accgaacgcc
+     5881 tgatgcaggt tgaacaagtg ctggagtcgg cccgtcaggc gaaagccgca ggatcgacgc
+     5941 gcttttgtat gggagcggcg tggaaaaacc cgcacgagcg tgacatgccg tatctggaac
+     6001 agatggtgca aggcgtgaaa gcgatgggaa tggaaacctg catgacgctg gggacgctgc
+     6061 acaacgatca ggccgaacgt ttggcctctg ccggactgga tttctataac cataacctcg
+     6121 atacctcacc agaattttac ggcagcatca tcacgacccg cacctatcag gagcgtctgg
+     6181 atacgctgga taaagtgcgc ggcgcgggca ttaaagtttg ctcgggtggc atcgttgggt
+     6241 tgggtgaaac cgtgcgcgac cgcgccgggc tgctggtgca actggctaac ctgccgacgc
+     6301 cgccggaaag cgtgccgatc aacatgttgg taaaggtgaa aggcacgccg ttggcggata
+     6361 acgatgatgt cgatccgttt gatttcattc ggactattgc cgttgcacgc atcatgatgc
+     6421 cggcctccta tgtgcgcctg tctgccggac gtgagcagat gagcgagcaa acgcaggcaa
+     6481 tgtgttttat ggccggtgcg aactccattt tctacggctg caaactgctt accacgccaa
+     6541 acccgaaaga agacaaagat ctggcactgt tcctcaaatt aggtctgaat ccgcagcaga
+     6601 cggggaccga gtacggggat aaccaacagc aacagcggtt ggcggaacag ctgattaacg
+     6661 ccgatagcga gcagttttat aatgctgcgg tataa
 //

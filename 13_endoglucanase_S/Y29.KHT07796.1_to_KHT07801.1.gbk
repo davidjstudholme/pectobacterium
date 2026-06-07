@@ -1,7 +1,7 @@
-LOCUS       JUJK01000001.1_KHT07796.1_to_KHT07799.1 4071 bp    DNA              UNK 01-JAN-1980
-DEFINITION  Region from protein_id KHT07796.1 to KHT07799.1.
-ACCESSION   JUJK01000001.1_KHT07796.1_to_KHT07799.1
-VERSION     JUJK01000001.1_KHT07796.1_to_KHT07799.1
+LOCUS       JUJK01000001.1_KHT07796.1_to_KHT07801.1 6695 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region from protein_id KHT07796.1 to KHT07801.1.
+ACCESSION   JUJK01000001.1_KHT07796.1_to_KHT07801.1
+VERSION     JUJK01000001.1_KHT07796.1_to_KHT07801.1
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
@@ -85,6 +85,51 @@ FEATURES             Location/Qualifiers
                      /translation="MRNTFIVCWQYLRAFALIYLCLLAGNAVSALLPFTIPGSIIGMLV
                      LFILLASQILPAQWVKPGCHLLIRHMALLFVPIGVGVMSYYDLVSQQFGPIVVSCLIST
                      FIVMLVVGFSTQIMQRERAVAGDRTPPKDNE"
+     gene            complement(4258..5562)
+                     /locus_tag="RC91_00835"
+     CDS             complement(4258..5562)
+                     /locus_tag="RC91_00835"
+                     /EC_number="2.6.1.62"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_014914905.1"
+                     /note="catalyzes the formation of
+                     S-adenosyl-4-methylthionine-2-oxobutanoate and
+                     7,8-diaminononanoate from S-adenosyl-L-methionine and
+                     8-amino-7-oxononanoate; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="adenosylmethionine-8-amino-7-oxononanoate
+                     aminotransferase"
+                     /protein_id="KHT07800.1"
+                     /translation="MSPEDIAFDQRHIWHPYTSMTEPLPCYPVVAASGVELHLDDGRRL
+                     IDGMSSWWAAIHGYNHPAINQAVQTQLSQMSHVMFGGITHPAAVALCRQLVDITPDALE
+                     CVFLADSGSVAVEVAMKMALQYWQARGETRQRFLTLRHGYHGDTFGAMSVCDPQNSMHS
+                     LYQGYLPTHLFIDAPPCAAINEGGFTDDWQEADIAPLQSMLSARAHEVAAVILEPIVQG
+                     AGGMRFYHPAYLRRVRELCNQWGILLIADEIATGFGRTGKLFACEHAGISPDIMCLGKA
+                     LTGGYMTLSATLTTRTVAETISNGAAGCFMHGPTFMGNPLACAAANASLSLLAENRWQE
+                     QVKQIERQLREALQPCADSPLVANVRVLGAIGVVETQRPVNMARLQRFFVERGVWIRPF
+                     GRLIYLMPPFIIQPDELRKLTDAVCAAIRDERLFD"
+     gene            5658..6695
+                     /locus_tag="RC91_00840"
+     CDS             5658..6695
+                     /locus_tag="RC91_00840"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:SwissProt:Q6D3B9.1"
+                     /note="catalyzes the formation of biotin from dethiobiotin;
+                     Derived by automated computational analysis using gene
+                     prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="biotin synthase"
+                     /protein_id="KHT07801.1"
+                     /translation="MADRIYWTLEQAQDLFNKPFLELMFEAQQIHRQHFDPRQVQVSTL
+                     LSIKTGSCPEDCKYCPQSSRYRTGIDTERLMQVEQVLESARQAKAAGSTRFCMGAAWKN
+                     PHERDMPYLEQMVQGVKAMGMETCMTLGTLHNDQAERLASAGLDFYNHNLDTSPEFYGS
+                     IITTRTYQERLDTLDKVRGAGIKVCSGGIVGLGETVRDRAGLLVQLANLPTPPESVPIN
+                     MLVKVKGTPLADNDDVDPFDFIRTIAVARIMMPASYVRLSAGREQMSEQTQAMCFMAGA
+                     NSIFYGCKLLTTPNPKEDKDLALFLKLGLNPQQTGTEYGDNQQQQRLAEQLINADSEQF
+                     YNAAV"
 ORIGIN
         1 ttagaacgag gtacgtttgt agctgcggta ctgcggttgc cagaagttat ggtcaatcgc
        61 cttctgcaac gcatcggctg acgtcaccac ggctgcgcct tgcagctgtg cggctttacc
@@ -153,5 +198,49 @@ ORIGIN
      3841 tgggacgaac agcagcgcca tgtgacgaat aagcaggtgg caacccggtt ttacccactg
      3901 cgcgggcaga atttgcgagg cgagaaggat gaacaagacc agcatgccga tgatactgcc
      3961 ggggatagtg aacggaagta acgcggatac cgcattgcct gccagcaggc agagataaat
-     4021 caatgcgaaa gcgcgtaaat actgccagca cacgatgaac gtattacgca t
+     4021 caatgcgaaa gcgcgtaaat actgccagca cacgatgaac gtattacgca tgggaaattc
+     4081 ctgattagct gaggggatta tcataacgct aatggaattt acgtgctaca gcgcacattg
+     4141 ctaacgttat acggcaacgc atgtcagggg atatgtggtg aatggcctga gggcgaaagc
+     4201 aaacgtgtcg cccccaagcc tttattgatc caaatgcttt attgatccaa atagtcgtca
+     4261 gtcaaatagc cgttcatcac gaatcgcggc acagaccgca tcggtcagct tacgcagttc
+     4321 atcaggctga atgataaacg gcggcatcag ataaatgagt cggccaaagg ggcgaatcca
+     4381 cacgccgcgc tcgacgaaga aacgctgtag ccgcgccata ttaaccggac gctgcgtttc
+     4441 caccacgccg atagcgccca gtacgcgaac gttcgccacc agcggcgaat ccgcgcaggg
+     4501 ttgcagtgct tctcgcaact gccgttcaat ctgtttgact tgctcctgcc agcggttctc
+     4561 cgccagcagc gataaactgg cgttggctgc cgcgcaggcg agcggattgc ccataaatgt
+     4621 ggggccgtgc ataaaacagc ccgccgcgcc gttgctgatg gtttccgcaa ctgtccgagt
+     4681 ggtcagcgtg gcggagagcg tcatataacc gccagtaagc gctttcccca gacacataat
+     4741 atcgggcgaa atccccgcat gttcgcaggc aaacagcttg ccggtgcggc caaatccggt
+     4801 cgcgatctca tcggcaatca gcaagatccc ccattgattg cacagttccc gaacccgacg
+     4861 cagataggcc ggatgataaa agcgcatccc gcccgcaccc tgcacgatag gttccagaat
+     4921 cacggccgcg acctcatgag cgcgtgctga cagcatcgac tggagcggcg cgatatccgc
+     4981 ttcctgccag tcgtcggtaa aaccgccttc gttgatcgcg gcgcatggcg gcgcatcgat
+     5041 aaacaggtga gtcggcagat agccctgata caagctgtgc atcgaatttt gcggatcgca
+     5101 cacggacatc gcaccgaagg tgtcgccgtg ataaccatga cgcagggtga gaaagcgctg
+     5161 acgggtttca ccacgtgcct gccaatattg cagcgccatt ttcatcgcca cttcgacggc
+     5221 cactgagccg gaatccgcca gaaacacgca ttccagcgca tccggcgtga tgtccaccag
+     5281 ttgacgacac agcgctaccg ctgccggatg ggtgatgccg ccgaacatca cgtgcgacat
+     5341 ttggctgagc tgagtctgca ccgcctgatt gatcgccgga tggttgtaac cgtgaatcgc
+     5401 cgcccaccac gatgacatgc catcgatcaa gcgacgtccg tcatccagat gaagttcgac
+     5461 gccgctggcc gcgaccactg gatagcaggg cagcggttcg gtcatcgagg tatagggatg
+     5521 ccaaatgtgg cgctggtcaa aagcaatgtc ttccgggctc atgatgatct ttcgtaaacc
+     5581 aaaatggatt ctatttggtt gacagtatat cgggttaatt tacactggcg aaacgttttt
+     5641 agtttggaga tgccgagatg gctgaccgca tttactggac gcttgagcaa gcgcaagact
+     5701 tatttaataa accttttctg gaactgatgt ttgaagcgca gcagatccac cgccagcatt
+     5761 ttgatccccg tcaggtgcag gttagtacgc tactgtcgat caaaaccggt tcctgtcctg
+     5821 aggactgtaa gtattgtccg caaagttccc gctaccgtac cgggattgat accgaacgcc
+     5881 tgatgcaggt tgaacaggtg ctggagtcgg cccgtcaggc gaaagccgca ggatcgacgc
+     5941 gcttttgtat gggggcggcg tggaaaaatc cgcacgagcg tgacatgccg tatctggaac
+     6001 agatggtgca aggcgtgaaa gcgatgggaa tggaaacttg catgacgctg gggacgctgc
+     6061 acaacgatca ggccgagcgt ctggcctctg ccggactgga tttctataac cataacctcg
+     6121 atacctctcc agaattttac ggcagcatca tcacgacccg cacgtatcag gagcgtctgg
+     6181 atacgctgga taaagtgcgc ggcgcgggca ttaaagtctg ctcgggcggc atcgttgggt
+     6241 tgggggaaac cgtgcgcgac cgcgccgggc tgctggtgca actggctaac ctgccgacgc
+     6301 cgccggaaag cgtgccgatc aacatgctgg tgaaggtgaa aggtacgccg ctggcggata
+     6361 atgatgatgt cgatccgttt gattttattc ggactattgc cgttgcgcgc atcatgatgc
+     6421 cggcctccta tgtgcgcctg tccgccgggc gcgagcagat gagtgagcaa acgcaggcaa
+     6481 tgtgttttat ggccggtgcg aactccattt tctacggctg caaactgctt accacgccaa
+     6541 acccgaaaga agacaaagat ctggcgctgt tcctcaaatt aggtctgaat ccgcagcaga
+     6601 cggggaccga gtacggggat aaccaacagc aacagcggtt ggcggaacag ctgattaacg
+     6661 ctgatagcga gcagttttat aatgctgcgg tataa
 //
