@@ -1,5 +1,6 @@
 
 python3 extract_gbk.py MHG0286805.1 MHG0286858.1
+python3 extract_gbk.py WP_039504553.1 WP_075277962.1
 
 conda activate clinker_env
 
