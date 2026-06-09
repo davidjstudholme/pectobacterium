@@ -24,7 +24,7 @@ conda list -n clinker_env > clinker_env_packages.txt
 conda env export > clinker_env.yaml
 
 
-clinker -p ICEKp7.clinker.html ICEKp7.gb *.gbk
+clinker -p ICEKp7.clinker.html ICEKp7.gb NAK*.gb *.gbk
 
 
 
