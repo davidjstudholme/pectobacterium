@@ -1,6 +1,5 @@
-
 python3 extract_gbk.py WP_039500298.1 WP_039504507.1
-python3 extract_gbk.py WP_336880082.1 WP_015730843.1
+python3 extract_gbk.py WP_040034780.1 WP_040035242.1
 python3 extract_gbk.py WP_039500298.1 WP_406643116.1
 python3 extract_gbk.py PPE61187.1 PPE61137.1
 python3 extract_gbk.py MBN3101275.1 MBN3101231.1
