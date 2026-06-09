@@ -2,19 +2,21 @@ import sys
 from Bio import SeqIO
 from pathlib import Path
 
-def find_cds_by_protein_id(record, accession):
+
+def find_cds_by_protein_id(record, protein_id):
+    """
+    Find a CDS feature by protein_id.
+    Returns (start, end) in 0-based coordinates, or None.
+    """
     for feature in record.features:
         if feature.type != "CDS":
             continue
 
-        for values in feature.qualifiers.values():
-            for value in values:
-                if accession in value:
-                    return int(feature.location.start), int(feature.location.end)
+        pids = feature.qualifiers.get("protein_id", [])
+        if protein_id in pids:
+            return int(feature.location.start), int(feature.location.end)
 
     return None
-
-
 
 
 def main(pid_a, pid_b):

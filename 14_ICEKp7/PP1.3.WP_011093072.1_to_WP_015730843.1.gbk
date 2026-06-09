@@ -1,16 +1,16 @@
-LOCUS       JBVFLA010000005.1_MHG0333466.1_to_MHG0333519.1 60983 bp    DNA              UNK 01-JAN-1980
-DEFINITION  Region from protein_id MHG0333466.1 to MHG0333519.1.
-ACCESSION   JBVFLA010000005.1_MHG0333466.1_to_MHG0333519.1
-VERSION     JBVFLA010000005.1_MHG0333466.1_to_MHG0333519.1
+LOCUS       JBVFLC010000003.1_WP_011093072.1_to_WP_015730843.1 60983 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region from protein_id WP_011093072.1 to WP_015730843.1.
+ACCESSION   JBVFLC010000003.1_WP_011093072.1_to_WP_015730843.1
+VERSION     JBVFLC010000003.1_WP_011093072.1_to_WP_015730843.1
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
      gene            1..1263
-                     /locus_tag="ACZ04C_12745"
+                     /locus_tag="ACZ04D_08640"
      CDS             1..1263
-                     /locus_tag="ACZ04C_12745"
+                     /locus_tag="ACZ04D_08640"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_011093072.1"
                      /note="Derived by automated computational analysis using
@@ -22,7 +22,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="oligosaccharide MFS transporter"
-                     /protein_id="MHG0333466.1"
+                     /protein_id="MHG0286805.1"
                      /translation="MYYLHNRNFWIFGLFFFFYFFIMGAYFPFFPIWLHDINQISKSDT
                      GIIFACISFFALLFQPIFGLLSDKLGLRKHLLWIITIMLVFFAPFFIYVFGPLLKYNIV
                      LGSIVGGMYLGFINNGGAPAIEAYIEKVSRRSQFEFGRARLFGCLGWALCASIVGIMFT
@@ -32,18 +32,18 @@ FEATURES             Location/Qualifiers
                      FEVRFSATIYLVCFCFFKQVSIIFMSLFAGNMYDSIGFHGTYLILGSIALSFTAISLFT
                      LSGKGPLYAFSDKQKAPLNTL"
      gene            1406..1481
-                     /locus_tag="ACZ04C_12750"
+                     /locus_tag="ACZ04D_08645"
      tRNA            1406..1481
-                     /locus_tag="ACZ04C_12750"
+                     /locus_tag="ACZ04D_08645"
                      /product="tRNA-Asn"
                      /inference="COORDINATES: profile:tRNAscan-SE:2.0.12"
                      /note="Derived by automated computational analysis using
                      gene prediction method: tRNAscan-SE."
                      /anticodon=(pos:320015..320017,aa:Asn,seq:gtt)
      gene            1643..2914
-                     /locus_tag="ACZ04C_12755"
+                     /locus_tag="ACZ04D_08650"
      CDS             1643..2914
-                     /locus_tag="ACZ04C_12755"
+                     /locus_tag="ACZ04D_08650"
                      /EC_number="2.7.7.-"
                      /EC_number="3.1.-.-"
                      /inference="COORDINATES: similar to AA
@@ -56,7 +56,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="tyrosine-type recombinase/integrase"
-                     /protein_id="MHG0333467.1"
+                     /protein_id="MHG0286806.1"
                      /translation="MSLNDTKIRNLKPPVTPIKLSDSHGLYLHVKPTGSRLWYFRYYFC
                      GKETRIALGAYPLISLSEARQKRDELRKLLVKNINPAQQRAAEKAARSPAKSFKTVALS
                      WHKSNRTWSENHAARLLSSMNNHIFPIIGHLPVTELKTRHFIDLLKGIEKKGLLEVAAR
@@ -66,9 +66,9 @@ FEATURES             Location/Qualifiers
                      GHGFRAMACSALMESGLWSQDAVERQMSHQERNSVRAAYIHKAEYLEARKAMMQWWSDY
                      LDTNREGYVAPYIYAQQHKTAGAA"
      gene            complement(3049..3363)
-                     /locus_tag="ACZ04C_12760"
+                     /locus_tag="ACZ04D_08655"
      CDS             complement(3049..3363)
-                     /locus_tag="ACZ04C_12760"
+                     /locus_tag="ACZ04D_08655"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015730142.1"
                      /note="Derived by automated computational analysis using
@@ -77,14 +77,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="helix-turn-helix domain-containing protein"
-                     /protein_id="MHG0333468.1"
+                     /protein_id="MHG0286807.1"
                      /translation="MLICEAGNAVIGKRLRLARVNAGLKQVELGCLAGLDEETSSSRVS
                      QYEREVSSPDFGLVCRFAAVLDVPEAYFYAVDEDLATLILQYHRYKKSNPNSTLLITPQ
                      "
      gene            complement(3548..3862)
-                     /locus_tag="ACZ04C_12765"
+                     /locus_tag="ACZ04D_08660"
      CDS             complement(3548..3862)
-                     /locus_tag="ACZ04C_12765"
+                     /locus_tag="ACZ04D_08660"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_017459209.1"
                      /note="Derived by automated computational analysis using
@@ -93,14 +93,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="helix-turn-helix domain-containing protein"
-                     /protein_id="MHG0333469.1"
+                     /protein_id="MHG0286808.1"
                      /translation="MLISTVDNTVIGKRLRLARVNKGLKQAELGCLAGLDEETASSRVS
                      QYEREVSAPDFGLVSRFATVLDVPEAYFYAVDDDLATLILQYHRFKKANPNSTLLITPQ
                      "
      gene            4009..4281
-                     /locus_tag="ACZ04C_12770"
+                     /locus_tag="ACZ04D_08665"
      CDS             4009..4281
-                     /locus_tag="ACZ04C_12770"
+                     /locus_tag="ACZ04D_08665"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010287774.1"
                      /note="Derived by automated computational analysis using
@@ -109,13 +109,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="helix-turn-helix domain-containing protein"
-                     /protein_id="MHG0333470.1"
+                     /protein_id="MHG0286809.1"
                      /translation="MNIEQQKQRMDWHPADIIAALRKRKTTLAAVSREAGLSSSTLANA
                      LNRPWPKGERLIADALGIPASEIWPNRYFDSQGQRIPREIRHKNN"
      gene            4697..5611
-                     /locus_tag="ACZ04C_12775"
+                     /locus_tag="ACZ04D_08670"
      CDS             4697..5611
-                     /locus_tag="ACZ04C_12775"
+                     /locus_tag="ACZ04D_08670"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015730138.1"
                      /note="Derived by automated computational analysis using
@@ -123,7 +123,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333471.1"
+                     /protein_id="MHG0286810.1"
                      /translation="MIMKNRMFNTKSDAFNWITIPEAIAIATQIRNSPLTEADIYRHAL
                      YGDINLSIYFQSPVILRRIKTSNAKAKLKPIGNHLINQLCILEKNCFINNRNLIVTTEG
                      KYTYPTQQVIDTMLIGYEYVLVQRLLARSLGIPLPVIGENHVNYGLTVNIGDDHFQIFE
@@ -131,9 +131,9 @@ FEATURES             Location/Qualifiers
                      EKLISMPAKNDTSQPSSTRISTPLSRLFWLACKNNESIRPLIRQPYKLLSIFEQWASDE
                      GMTDRFSGDTLKTALERGSPTSV"
      gene            5765..5959
-                     /locus_tag="ACZ04C_12780"
+                     /locus_tag="ACZ04D_08675"
      CDS             5765..5959
-                     /locus_tag="ACZ04C_12780"
+                     /locus_tag="ACZ04D_08675"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_005967095.1"
                      /note="Derived by automated computational analysis using
@@ -144,13 +144,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="AlpA family transcriptional regulator"
-                     /protein_id="MHG0333472.1"
+                     /protein_id="MHG0286811.1"
                      /translation="MTSHQLLRLKQVEVKTGLKRSQIYLYMKEGTFPSSIKIGPASVAW
                      LESEIDEWINFKLSNRLTR"
      gene            5976..6560
-                     /locus_tag="ACZ04C_12785"
+                     /locus_tag="ACZ04D_08680"
      CDS             5976..6560
-                     /locus_tag="ACZ04C_12785"
+                     /locus_tag="ACZ04D_08680"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_012885313.1"
                      /note="Derived by automated computational analysis using
@@ -158,15 +158,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF2857 domain-containing protein"
-                     /protein_id="MHG0333473.1"
+                     /protein_id="MHG0286812.1"
                      /translation="MFPSLNYAVLTNALAALKEGNFRYCETLGFTFDELNALNQLSLDE
                      LFIVSRASAQFMSITVRHDVLQQILTLSHQEAQRQQQINRAVRLGGSIALLNHFFGLTS
                      NEVCARRRFLGVTIRYGRTPIPDEIVDAEIWLSWQKKRTENLDTPDALEAMMQVTESLS
                      SREKGLSLTAVWNRITLCEKEALNRRTSHAR"
      gene            6550..6759
-                     /locus_tag="ACZ04C_12790"
+                     /locus_tag="ACZ04D_08685"
      CDS             6550..6759
-                     /locus_tag="ACZ04C_12790"
+                     /locus_tag="ACZ04D_08685"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015730135.1"
                      /note="Derived by automated computational analysis using
@@ -174,13 +174,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TraR/DksA family transcriptional regulator"
-                     /protein_id="MHG0333474.1"
+                     /protein_id="MHG0286813.1"
                      /translation="MPDEIDRDQEFNEQRLEEMIEQNRFKPATTPSLHYCRLCGEPIPE
                      QRRQTLPGVTTCTECQTILERRQR"
      gene            complement(7084..7965)
-                     /locus_tag="ACZ04C_12795"
+                     /locus_tag="ACZ04D_08690"
      CDS             complement(7084..7965)
-                     /locus_tag="ACZ04C_12795"
+                     /locus_tag="ACZ04D_08690"
                      /inference="COORDINATES: protein motif:HMM:NF016548.6"
                      /note="Derived by automated computational analysis using
                      gene prediction method: Protein Homology. GO_function:
@@ -189,7 +189,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="GTPase family protein"
-                     /protein_id="MHG0333475.1"
+                     /protein_id="MHG0286814.1"
                      /translation="MESIDQSALNNKDKTRQAIAKKIKEIKGYTPRVGIFGSTGVGKSS
                      LCNALFGREIAAVSNVAACTRDIQELHIASEDGNEGGLTIIDFPGIGETVERDEEYFKL
                      YQEKAETLDLVVWVIKSDERAYAIAQKAYNDILLPNIAKCPVIFFINQIDKIEPTEDEN
@@ -197,9 +197,9 @@ FEATURES             Location/Qualifiers
                      LPKEKKYAFYREAGDDIKTEKMAEAAEKGVWDSVKEWAGEAWDSVKDVAVEVVSEVLIS
                      VGKKLLTKIKFW"
      gene            8458..8679
-                     /locus_tag="ACZ04C_12800"
+                     /locus_tag="ACZ04D_08695"
      CDS             8458..8679
-                     /locus_tag="ACZ04C_12800"
+                     /locus_tag="ACZ04D_08695"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010287603.1"
                      /note="Derived by automated computational analysis using
@@ -207,13 +207,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333476.1"
+                     /protein_id="MHG0286815.1"
                      /translation="MRKPTYHVFVTQENQPAPNREKNTYWTKVGVAFAHNGKSGLNIVL
                      TPGIAVSGKLVLLEPKDDSDTPQAPQHD"
      gene            8758..9423
-                     /locus_tag="ACZ04C_12805"
+                     /locus_tag="ACZ04D_08700"
      CDS             8758..9423
-                     /locus_tag="ACZ04C_12805"
+                     /locus_tag="ACZ04D_08700"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010287598.1"
                      /note="Derived by automated computational analysis using
@@ -223,15 +223,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="lytic transglycosylase domain-containing protein"
-                     /protein_id="MHG0333477.1"
+                     /protein_id="MHG0286816.1"
                      /translation="MLSPTAFLAAVMQCAATIHPSTAFDVAKVESSLNPYAVAEIVPKE
                      ERAPDSVGIISHQPTSKQAAASIITRIAAKGRRYSVGLMQITSTNFRHYGVTAHDLLDP
                      CTNLSVFERILTDCYQRGGTLKRALSCYYSGNFDTGQQPESAFNQTSYIERIGYAVPPT
                      REDLKSSTTSQSTSDVHYPPTVLRGELTDKITPVLTSLHYPNAILRGDVSLPVINEEQ"
      gene            9420..9701
-                     /locus_tag="ACZ04C_12810"
+                     /locus_tag="ACZ04D_08705"
      CDS             9420..9701
-                     /locus_tag="ACZ04C_12810"
+                     /locus_tag="ACZ04D_08705"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010287611.1"
                      /note="Derived by automated computational analysis using
@@ -239,13 +239,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TrbC/VirB2 family protein"
-                     /protein_id="MHG0333478.1"
+                     /protein_id="MHG0286817.1"
                      /translation="MTMQKRKYWPAFSSLLISNQTLAAGSGFNKANDTLSNTSTGLLGL
                      AAVTITLATMWVGYKVLFDGKSLHDMRNVIIGAILIVGASGFGAYWAS"
      gene            9711..12458
-                     /locus_tag="ACZ04C_12815"
+                     /locus_tag="ACZ04D_08710"
      CDS             9711..12458
-                     /locus_tag="ACZ04C_12815"
+                     /locus_tag="ACZ04D_08710"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015696807.1"
                      /note="Derived by automated computational analysis using
@@ -255,7 +255,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="VirB4 family type IV secretion/conjugal transfer
                      ATPase"
-                     /protein_id="MHG0333479.1"
+                     /protein_id="MHG0286818.1"
                      /translation="MTTLNKALTRPAAIMGIPLVPFVIVSGAIVLLSVYTSYYLALLLI
                      PAWLEMKAKARTDIHYFGLLWLAFKTRGRFATNRYFGASAMLANHYDAVDVSEFTVKMK
                      LNERITLDKYIPYSSHIHPRIIRNRAGDLVASWELGGTVFECEDEHHLTLLTSHLNNLI
@@ -273,9 +273,9 @@ FEATURES             Location/Qualifiers
                      QIFLANPKASRTDYVEKMKVPESVYDIVRNLDPSEHYMVVLKTPLRAGETRPFVAMARM
                      DLSGLGNITKILSGSEDNLKIFDAISQEGMSPSDWKETFLNHAI"
      gene            12482..13198
-                     /locus_tag="ACZ04C_12820"
+                     /locus_tag="ACZ04D_08715"
      CDS             12482..13198
-                     /locus_tag="ACZ04C_12820"
+                     /locus_tag="ACZ04D_08715"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_016941005.1"
                      /note="Derived by automated computational analysis using
@@ -283,16 +283,16 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TrbJ/VirB5 family protein"
-                     /protein_id="MHG0333480.1"
+                     /protein_id="MHG0286819.1"
                      /translation="MQTRKMCLALSLLMSTPAISAGIPVFDAASNTESINQWIQKLQQW
                      QETVTHYKSELDAYKQQLATATGIRDIQGFLHDAKNLKNDIEHLRKNGISLDDLLTNPS
                      GYYSSDLQRLYNKYQSFDICNQSSSSQRYLESCKQLVLNQAVSIENTSDVQNKINSTLN
                      DISDLSDRIANAKDSKESQDLANAVAAKSVQLNALTSQWEMSVKQAEQRAAMLTQQRQK
                      AFNEKQLAAPIPDFNY"
      gene            13209..13433
-                     /locus_tag="ACZ04C_12825"
+                     /locus_tag="ACZ04D_08720"
      CDS             13209..13433
-                     /locus_tag="ACZ04C_12825"
+                     /locus_tag="ACZ04D_08720"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010286998.1"
                      /note="Derived by automated computational analysis using
@@ -300,13 +300,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="EexN family lipoprotein"
-                     /protein_id="MHG0333481.1"
+                     /protein_id="MHG0286820.1"
                      /translation="MKTSLCIFTVLLGSLFLSGCDNPKSTQWYKEHPDEMNQRYKACES
                      SGDDSQDCKNAREARFELRQENAKVPDLN"
      gene            13445..14485
-                     /locus_tag="ACZ04C_12830"
+                     /locus_tag="ACZ04D_08725"
      CDS             13445..14485
-                     /locus_tag="ACZ04C_12830"
+                     /locus_tag="ACZ04D_08725"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_005967108.1"
                      /note="Derived by automated computational analysis using
@@ -316,7 +316,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TrbL/VirB6 family protein"
-                     /protein_id="MHG0333482.1"
+                     /protein_id="MHG0286821.1"
                      /translation="MSGGMFVGMNNTITDGLHAVLRGQTSVYGDMVSVIAVSSFTLFVT
                      YRGYQTLAGKLQTPVEDVIWDVGRMLLIMTFVLNLDGWLDLAISAINGLTDGVSGDDNV
                      WVLLDTVWAKAQTIGQKLYQQDDSTYVKLNGGIAQLLVWGGAIVTLLFGSAVNLLAGII
@@ -325,9 +325,9 @@ FEATURES             Location/Qualifiers
                      PSSDAAKPVMKAGPTGARLATKAGVSAATATGSLIAAGTSKALSAWQKRAASIDSMKRF
                      NQQRNR"
      gene            14706..15389
-                     /locus_tag="ACZ04C_12835"
+                     /locus_tag="ACZ04D_08730"
      CDS             14706..15389
-                     /locus_tag="ACZ04C_12835"
+                     /locus_tag="ACZ04D_08730"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010286993.1"
                      /note="Derived by automated computational analysis using
@@ -337,7 +337,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="VirB8 family type IV secretion system protein"
-                     /protein_id="MHG0333483.1"
+                     /protein_id="MHG0286822.1"
                      /translation="MSETENIIASSRTFESVLLEKDEREKKMAWRIAAIGFALAAMAIT
                      ALIILLPLKNTEIELWSVDKQTGRYEYMTRIKEQNISTEKALAQALAAHYVRLREGYNY
                      FALQRDYDDVQLFNSDSVNRDYLDGFNSNQAPDVIFNKAEYVVSIDIISNVHATATAPD
@@ -345,10 +345,10 @@ FEATURES             Location/Qualifiers
                      ELRGE"
      gene            15386..16279
                      /gene="virB9"
-                     /locus_tag="ACZ04C_12840"
+                     /locus_tag="ACZ04D_08735"
      CDS             15386..16279
                      /gene="virB9"
-                     /locus_tag="ACZ04C_12840"
+                     /locus_tag="ACZ04D_08735"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_019844807.1"
                      /note="Derived by automated computational analysis using
@@ -356,7 +356,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="P-type conjugative transfer protein VirB9"
-                     /protein_id="MHG0333484.1"
+                     /protein_id="MHG0286823.1"
                      /translation="MMLKTTVTLWLLLMSSTAWSATIPRSSTYDSRMQNVTYNSQNATI
                      VNTSPGYLTTLLFDDDEEVIDAQAGFPKGWKVTKSDNRVSVSPNPIIQPVTDDNGNNVN
                      KVFLPTASEWRTNLFVVTSKRDYSLELNVLENDSPSQAFIIRFRYPDDERRQSEAASAA
@@ -365,10 +365,10 @@ FEATURES             Location/Qualifiers
                      VGSGDTVSPVVTLEAR"
      gene            16276..17508
                      /gene="virB10"
-                     /locus_tag="ACZ04C_12845"
+                     /locus_tag="ACZ04D_08740"
      CDS             16276..17508
                      /gene="virB10"
-                     /locus_tag="ACZ04C_12845"
+                     /locus_tag="ACZ04D_08740"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_005967114.1"
                      /note="Derived by automated computational analysis using
@@ -377,7 +377,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="VirB10/TraB/TrbI family type IV secretion system
                      protein"
-                     /protein_id="MHG0333485.1"
+                     /protein_id="MHG0286824.1"
                      /translation="MNDKADSETTEKTVAELEAEARERARSAMASQAPEQNTPPGQPEV
                      TRFKKASSNRTLLVSLLSLGALITLALGGDRFLVALKQSDNKSVETPAPPSASTGQHER
                      KNLGMDNNPFGLFGQDKQETATDNPPIQTAPPSEPPALNKAAALVDGSGSAAESTQRGN
@@ -388,10 +388,10 @@ FEATURES             Location/Qualifiers
                      QLRLKKRWYER"
      gene            17498..18514
                      /gene="virB11"
-                     /locus_tag="ACZ04C_12850"
+                     /locus_tag="ACZ04D_08745"
      CDS             17498..18514
                      /gene="virB11"
-                     /locus_tag="ACZ04C_12850"
+                     /locus_tag="ACZ04D_08745"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_019844805.1"
                      /note="Derived by automated computational analysis using
@@ -402,7 +402,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="P-type DNA transfer ATPase VirB11"
-                     /protein_id="MHG0333486.1"
+                     /protein_id="MHG0286825.1"
                      /translation="MSAENLSLDFMKNQLFGDYLKQDGLTEIAINRPGEIHTKINGRWQ
                      KHDSPVTLRQCHAFAKALASWNEDNIDDTSPILSATLGSGERVQTIIPPACERNTVSIT
                      LRNPSFEQKTHQSWIDAGFYNRITGKERNESKDDELTRCYNNGDIPHFIEKAVEYGKTL
@@ -410,9 +410,9 @@ FEATURES             Location/Qualifiers
                      TPGRLIRANYRMNPDRILLAEIRGREAWDALKIIGSGHEGLITSLHAGSPEECIEGIID
                      RCYENPDCKNIPFDVLLRKVLKCVDIIVSVDIHGDIRRMGDIYFKPVHLHQMKKTFR"
      gene            18557..18859
-                     /locus_tag="ACZ04C_12855"
+                     /locus_tag="ACZ04D_08750"
      CDS             18557..18859
-                     /locus_tag="ACZ04C_12855"
+                     /locus_tag="ACZ04D_08750"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_005967116.1"
                      /note="Derived by automated computational analysis using
@@ -420,13 +420,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TrbM/KikA/MpfK family conjugal transfer protein"
-                     /protein_id="MHG0333487.1"
+                     /protein_id="MHG0286826.1"
                      /translation="MKTIIFTACLFCMNLLLPSSVMAADACEIVLCLYGKTTGNGGGSE
                      CQSAERSFFKVVKKNRHGFHPNRTADARKALLLECKSADPKIIDQIINKFGRVRH"
      gene            19584..21446
-                     /locus_tag="ACZ04C_12860"
+                     /locus_tag="ACZ04D_08755"
      CDS             19584..21446
-                     /locus_tag="ACZ04C_12860"
+                     /locus_tag="ACZ04D_08755"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:YP_005227787.1"
                      /note="Derived by automated computational analysis using
@@ -438,7 +438,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="type IV secretory system conjugative DNA transfer
                      family protein"
-                     /protein_id="MHG0333488.1"
+                     /protein_id="MHG0286827.1"
                      /translation="MMLNKLSISLSPIVNGVLSFIDVMQQHQLMMALLSGLTLPFFASM
                      KNDDRQKAPLWKKLVITFSLLCFLFGTVGPLLISVFRWLYNDRILTRIPILDWSILIIF
                      TVAGLILHISLRRALTPELDKIKKRLIKKTSLERELRTDVRTVKSLLPKTLHYNPLDYI
@@ -452,10 +452,10 @@ FEATURES             Location/Qualifiers
                      DEEGATSASTTNLAATQPDLFFEGESKSAKPRSDDDETPPLLNF"
      gene            21455..22201
                      /gene="mobC"
-                     /locus_tag="ACZ04C_12865"
+                     /locus_tag="ACZ04D_08760"
      CDS             21455..22201
                      /gene="mobC"
-                     /locus_tag="ACZ04C_12865"
+                     /locus_tag="ACZ04D_08760"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_016941015.1"
                      /note="Derived by automated computational analysis using
@@ -463,23 +463,23 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="MobC family replication-relaxation protein"
-                     /protein_id="MHG0333489.1"
+                     /protein_id="MHG0286828.1"
                      /translation="MLIATHNERIARNSEKIKRLLNFLKEETYSDFKTLMLLFGFRDHK
                      SLYTLLTKTERMGLIQKHVFESRTMKMSLWGITSDGLAIVLTPDDDIFPARFEPSKITG
                      WTLEHHLDNQVARLILEKKGASGWVNGDRSMFLSQYQVKHRPDGLITLPDGQVIAVETE
                      RRLKTKARYQSIIASHLLARTQKHWIYVFYIVPDLQKKRALELLFGSIKHVIVNHQPIP
                      LEARHRNVFRIYTLDELRQLEPRQYS"
      gene            complement(22477..23325)
-                     /locus_tag="ACZ04C_12870"
+                     /locus_tag="ACZ04D_08765"
      CDS             complement(22477..23325)
-                     /locus_tag="ACZ04C_12870"
+                     /locus_tag="ACZ04D_08765"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333490.1"
+                     /protein_id="MHG0286829.1"
                      /translation="MEYLEHRIRNLLSAARQLEIKVAQHQMNWGEWEYKKENESHPPQY
                      LLDGDDEFVSPFQEILQSIYLSTICYLDEKNLKCYLAMFYKVFGNDPSLPNHRDEFLID
                      HYWSGEPYSVFLAKINKFLSSFEFTESSREKYDRISGIQYLETILKNTAVIISKSKLSP
@@ -487,16 +487,16 @@ FEATURES             Location/Qualifiers
                      KSTIEQIAADVKGYTGDRDYSIFYAVFYVTEDFWGQAKFSKVWSDQRFPKNWIPMYIVG
                      K"
      gene            complement(23404..24285)
-                     /locus_tag="ACZ04C_12875"
+                     /locus_tag="ACZ04D_08770"
      CDS             complement(23404..24285)
-                     /locus_tag="ACZ04C_12875"
+                     /locus_tag="ACZ04D_08770"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333491.1"
+                     /protein_id="MHG0286830.1"
                      /translation="MLSEFEEKQYEQHLNLELLQGTNLIFPPGQYLENILGFDAALFTK
                      NKHFWRLFLSDQPWYRRFLRNYPSGLYFPKEAYKIEEEFNNYFPTFKFNIFIQHKRAER
                      MVKDTAAEWDSWNQEYYRYKVLEHQQAILEVLERNIGGQGIVTYASPAFHTMQEFWKYH
@@ -504,9 +504,9 @@ FEATURES             Location/Qualifiers
                      QNLNNSEFISATCELIEKSISSQEKYKAIYYEIIKDLDEHQREIPRLLRDFYKISAFKF
                      VTGINSYFGVNN"
      gene            complement(24848..25162)
-                     /locus_tag="ACZ04C_12880"
+                     /locus_tag="ACZ04D_08775"
      CDS             complement(24848..25162)
-                     /locus_tag="ACZ04C_12880"
+                     /locus_tag="ACZ04D_08775"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010287537.1"
                      /note="Derived by automated computational analysis using
@@ -514,14 +514,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="CcdB family protein"
-                     /protein_id="MHG0333492.1"
+                     /protein_id="MHG0286831.1"
                      /translation="MQFTVYGNTGKSVVYPLLLDVTSDIIGQLNRRIVIPLLPIEKYPA
                      GRRPDRLVPVVRLTDGKEYAVMTHELASIPVQALGAVFCDASQYRTQVKAAIDFLIDGF
                      "
      gene            complement(25165..25401)
-                     /locus_tag="ACZ04C_12885"
+                     /locus_tag="ACZ04D_08780"
      CDS             complement(25165..25401)
-                     /locus_tag="ACZ04C_12885"
+                     /locus_tag="ACZ04D_08780"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_019844796.1"
                      /note="Derived by automated computational analysis using
@@ -530,13 +530,13 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="type II toxin-antitoxin system CcdA family
                      antitoxin"
-                     /protein_id="MHG0333493.1"
+                     /protein_id="MHG0286832.1"
                      /translation="MTAKQRNTQSVTMTVERALLVRAREAGINLSATLTTALDAELRYH
                      EAKKWQEENREALAALNRFHDEQGCFSDEYRTF"
      gene            complement(25720..26658)
-                     /locus_tag="ACZ04C_12890"
+                     /locus_tag="ACZ04D_08785"
      CDS             complement(25720..26658)
-                     /locus_tag="ACZ04C_12890"
+                     /locus_tag="ACZ04D_08785"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:YP_005227789.1"
                      /note="Derived by automated computational analysis using
@@ -548,7 +548,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="ArdC family protein"
-                     /protein_id="MHG0333494.1"
+                     /protein_id="MHG0286833.1"
                      /translation="MTISLHTQTSSPNAATATSVSPLEQSGSSKTKFPKTNIYQTVTNS
                      IIAALEAGVKPWSCPWQRVPGMSGLPSNFATGIAYSGMNIMLLWCSASEQGFSDSRWMT
                      YKQAQAEGGQVRKGEHGTTAIFYTTLEKENEDGEIDQIPMLKTFNVFNVQQIDGLPLTT
@@ -556,9 +556,9 @@ FEATURES             Location/Qualifiers
                      CLHELVHWSGGKKRLNREMKGKFGSADYAEEELVAELGSAFLMADLGIVGEVQHESYIA
                      SWLQALKNDKRYVFKAASAASKAHRYLMDKI"
      gene            27247..28467
-                     /locus_tag="ACZ04C_12895"
+                     /locus_tag="ACZ04D_08790"
      CDS             27247..28467
-                     /locus_tag="ACZ04C_12895"
+                     /locus_tag="ACZ04D_08790"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_019081245.1"
                      /note="Derived by automated computational analysis using
@@ -566,7 +566,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="Druantia anti-phage system protein DruA"
-                     /protein_id="MHG0333495.1"
+                     /protein_id="MHG0286834.1"
                      /translation="MKSAKCKDNGEKAPVAQVFTPEASLKRKIRSHFTQLGFRKAPDGT
                      LVRPESGKESIRQLHRSQREERLHSSEQFISEFLPRAIPYFANGNEIDPTKVRLSLIKV
                      SANSFESKLFRAASLTWSVPVSNGYGRRMRYLVWDRGHDRLAGIFALGDPVFNLSVRDN
@@ -576,16 +576,16 @@ FEATURES             Location/Qualifiers
                      KEILATGRGTPDLSTLKTIDEISELARKRWIEPRALRQGYFKNWNRDDISLLIKGLKLD
                      VIASKIA"
      gene            28488..31313
-                     /locus_tag="ACZ04C_12900"
+                     /locus_tag="ACZ04D_08795"
      CDS             28488..31313
-                     /locus_tag="ACZ04C_12900"
+                     /locus_tag="ACZ04D_08795"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333496.1"
+                     /protein_id="MHG0286835.1"
                      /translation="MNLAELQERLYQHYSRLRDLRTTENYPVYAIEHGLSEAEISTAQS
                      LLNANLNTTKRATRTFWLVWIAAAAEIGYTYDGTEYWDSFAIAFPSWPKFGDRDQIRIW
                      YRRFTTDFNGVTPSGPWAQQFPIISWPITQAILPRYLQRFFADHLYNLRHLLTRSGELT
@@ -604,16 +604,16 @@ FEATURES             Location/Qualifiers
                      LAHAYKIPETDILYRLALKLAFQPHTVKPSDLASPNAFDMLRKNSALIRGAYFARLVAH
                      CQKTSSRTEAL"
      gene            31310..32374
-                     /locus_tag="ACZ04C_12905"
+                     /locus_tag="ACZ04D_08800"
      CDS             31310..32374
-                     /locus_tag="ACZ04C_12905"
+                     /locus_tag="ACZ04D_08800"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333497.1"
+                     /protein_id="MHG0286836.1"
                      /translation="MNNIKILSRTDCLKYSSRSLGLPDLQKLDNALIAQALRRTVFIEA
                      PCSIRTLCSLVMNSLGPLSDEPENLKALIHDIIDDLVNLGDLLEMRDEIAGETNLILRP
                      APPAFVLRSDGTFIIVGVAGDDVTPPQVNDFNLVYYSSGLRILTPSNTQSCRQTLIDLG
@@ -622,9 +622,9 @@ FEATURES             Location/Qualifiers
                      ALSGSPQQIRVVYEKEITVLSFSSPLPSWAIRRLSLVGERLKPHRALLQFSLPLHNSEE
                      ELHWLEESLWLTRD"
      gene            32389..37929
-                     /locus_tag="ACZ04C_12910"
+                     /locus_tag="ACZ04D_08805"
      CDS             32389..37929
-                     /locus_tag="ACZ04C_12910"
+                     /locus_tag="ACZ04D_08805"
                      /inference="COORDINATES: protein motif:HMM:NF020926.6"
                      /note="Derived by automated computational analysis using
                      gene prediction method: Protein Homology. GO_function:
@@ -633,7 +633,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DEAD/DEAH box helicase"
-                     /protein_id="MHG0333498.1"
+                     /protein_id="MHG0286837.1"
                      /translation="MKTATIQQTIDELRQSLTHYIEATYHIGHPSIVKQRRELLNQIGG
                      IYQAPYLESTPRYKSACPYTQIDSLPPAALEALRVLSDTSSEKPVIYNSPYTHQLEALQ
                      ETLNNNRNLMIMTGTGSGKTESFLLPILGKFAIEAREHPERFKKYNAVRALVLYPMNAL
@@ -667,16 +667,16 @@ FEATURES             Location/Qualifiers
                      QFGNDFSFSREVKKYDTEAGSIVIPIVATRLATGAETWISLSSPLAPAIPTEQKFQKLS
                      VEGTAKMECADDLVIRRHLPEASLQLRGKLR"
      gene            38249..39343
-                     /locus_tag="ACZ04C_12915"
+                     /locus_tag="ACZ04D_08810"
      CDS             38249..39343
-                     /locus_tag="ACZ04C_12915"
+                     /locus_tag="ACZ04D_08810"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333499.1"
+                     /protein_id="MHG0286838.1"
                      /translation="MKGLTDISEVEILKILKAIRIGCKDDEEFRYYLSLLCEPEKIDEY
                      LRRIQGYFNEDEFIIICYLLNCCKRITPLGQTPLPNMEKGTPDYLVTFITNYGEFSCFI
                      EVKSTVNYETSSLSFNAIQRIKKYASSYGLPIFFASRITIGDCGLWVLQTHEEFLENKR
@@ -685,9 +685,9 @@ FEATURES             Location/Qualifiers
                      FKFKPYSNPSRLIAQIEANNGLVFGIEELKKMILAINGTFSHKNPIFTFSKIGDDKKAK
                      VSKEKILKETKRQKNLLNKHSSTL"
      gene            complement(39610..41637)
-                     /locus_tag="ACZ04C_12920"
+                     /locus_tag="ACZ04D_08815"
      CDS             complement(39610..41637)
-                     /locus_tag="ACZ04C_12920"
+                     /locus_tag="ACZ04D_08815"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_000051061.1"
                      /note="Derived by automated computational analysis using
@@ -695,7 +695,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333500.1"
+                     /protein_id="MHG0286839.1"
                      /translation="MSLEIVSLDIVANTTDGRYGATIPFSKGLFLLRMENSHGKSTCMN
                      AIAYSLGMEKALGMGSAKIPFPPSLTRVLNTIDGQEINVISSFVTLKIKNNDGVVASLK
                      RNIIGFENDNIIYIDETDIKGEKKRSGSYFLHREGDTDRDMGFYKWLTVFLGWNLPLVP
@@ -709,9 +709,9 @@ FEATURES             Location/Qualifiers
                      SASDGIRLIWGYLISLFTVGQRFSTNHPGVIIFDEPRQQEANKVSFAELLRDAAETTKV
                      SGQIIFATSEDESVLVEALNGYDYTIVSFDKKDGKLIRKL"
      gene            complement(41639..42103)
-                     /locus_tag="ACZ04C_12925"
+                     /locus_tag="ACZ04D_08820"
      CDS             complement(41639..42103)
-                     /locus_tag="ACZ04C_12925"
+                     /locus_tag="ACZ04D_08820"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_020455340.1"
                      /note="Derived by automated computational analysis using
@@ -719,14 +719,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="serine/threonine protein kinase"
-                     /protein_id="MHG0333501.1"
+                     /protein_id="MHG0286840.1"
                      /translation="MHITIDEIIGKPFTFTKRPEHLPCDMRPLWRCSLILLILSIVGRS
                      GCCSLKKMHVVNWVLKSEKNVASFEFWTLNKESLKPEVRMDPTLDRALELMLAEGFIIR
                      ENDKYKISEKGELCAVKLTALDVFKDEFFKLNKLKKGLSETNIIKIFQVG"
      gene            complement(42117..43277)
-                     /locus_tag="ACZ04C_12930"
+                     /locus_tag="ACZ04D_08825"
      CDS             complement(42117..43277)
-                     /locus_tag="ACZ04C_12930"
+                     /locus_tag="ACZ04D_08825"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_020455341.1"
                      /note="Derived by automated computational analysis using
@@ -734,7 +734,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333502.1"
+                     /protein_id="MHG0286841.1"
                      /translation="MSNFEHRVVDGTEVLHLLSQLIKICTDIFCPSSTHQYFGFNSRLW
                      GYLDITKVTFEGACFLAICIYSLKNRKLYWVKNFSTDLEMHIDPHSDPKAWESYFKSIV
                      WLHYKPANCCDLPDSHGGDFGLECYTLNGHVFQCYLPEQSSDVDKLYKAQQKKIYNDIQ
@@ -743,10 +743,10 @@ FEATURES             Location/Qualifiers
                      SKQEQIRHFLIQKFLDYQNLLDTLKKNWVDIYEIVYKCIQQRESNLVGMFMLAPSNAQP
                      SRIMTDQIESLKKCIEEEVPTFKQADLEKITWGVISDWLIRCPLDF"
      gene            complement(44082..44246)
-                     /locus_tag="ACZ04C_12935"
+                     /locus_tag="ACZ04D_08830"
                      /pseudo=""
      CDS             complement(44082..44246)
-                     /locus_tag="ACZ04C_12935"
+                     /locus_tag="ACZ04D_08830"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010278692.1"
                      /note="incomplete; partial in the middle of a contig;
@@ -757,9 +757,9 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="DUF1348 family protein"
      gene            complement(44400..45038)
-                     /locus_tag="ACZ04C_12940"
+                     /locus_tag="ACZ04D_08835"
      CDS             complement(44400..45038)
-                     /locus_tag="ACZ04C_12940"
+                     /locus_tag="ACZ04D_08835"
                      /EC_number="1.1.1.-"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010281471.1"
@@ -770,15 +770,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="NAD(P)-dependent oxidoreductase"
-                     /protein_id="MHG0333503.1"
+                     /protein_id="MHG0286842.1"
                      /translation="MKIALVAPTGKIGSEIAKEALRKGHELIGIVRTPRNAPEALKAAE
                      FKVVDIFDTHAFAEAIKGADVLASAYGAHGDHIDTVTEAAKAIVSAARVAGIKRVIVVG
                      GAGSLEVAPGSKLVDAPYFPEDYRPYGQAHDRAFQIINKASDLEWTFFSPAAEIGPGEK
                      IGHYHVAAKTLQKDTKGQSSISYPDYAEAFVAEIENGNYVKNIITVAYK"
      gene            45284..46183
-                     /locus_tag="ACZ04C_12945"
+                     /locus_tag="ACZ04D_08840"
      CDS             45284..46183
-                     /locus_tag="ACZ04C_12945"
+                     /locus_tag="ACZ04D_08840"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_014914779.1"
                      /note="Derived by automated computational analysis using
@@ -790,7 +790,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="LysR family transcriptional regulator"
-                     /protein_id="MHG0333504.1"
+                     /protein_id="MHG0286843.1"
                      /translation="MDRITAMKVFVTVVTHKSQTAAAERLDMSRAMVTRYLAELESWLG
                      ARLMHRTTRRFGLTPTGEACLLQCKEVLNRIELLEAESKVDETEPNGLLRITASSWLWQ
                      THLSSALTAYMARYPAVKIDLILGEQRLNLVEDSIDLAIRITSDLEPGLIAKKFATCHT
@@ -798,22 +798,22 @@ FEATURES             Location/Qualifiers
                      NVLMDVALQGMGIAKLPLYLAAPHLENGSLIHLLPDYKSHEMGIYGVYTSRQFMSKALR
                      ALLDFLSAYFDMPKRQIM"
      gene            complement(46171..46458)
-                     /locus_tag="ACZ04C_12950"
+                     /locus_tag="ACZ04D_08845"
      CDS             complement(46171..46458)
-                     /locus_tag="ACZ04C_12950"
+                     /locus_tag="ACZ04D_08845"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="alpha/beta fold hydrolase"
-                     /protein_id="MHG0333505.1"
+                     /protein_id="MHG0286844.1"
                      /translation="MRKTALQHFGRDFDFPNVIQALPTKLSDVEGLEIGSFQTNDGVSL
                      SYWKAGKGTFGNRISRFSADVNDFFTALNIENVHLCGWSMGCSVIWSYII"
      gene            46584..47498
-                     /locus_tag="ACZ04C_12955"
+                     /locus_tag="ACZ04D_08850"
      CDS             46584..47498
-                     /locus_tag="ACZ04C_12955"
+                     /locus_tag="ACZ04D_08850"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010304752.1"
                      /note="Derived by automated computational analysis using
@@ -825,7 +825,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="LysR family transcriptional regulator"
-                     /protein_id="MHG0333506.1"
+                     /protein_id="MHG0286845.1"
                      /translation="MDLNALNMFLMAARCGSLTAAARENNIPLPTLSRRIQELERELKV
                      LLLERTAKGCKVTEAGKRLLNHASSAMDILNDAEQSVVSGNPHITGRLRLTLPQSMEPW
                      WEIIRQFQQTYPRIAISVYSTERRVDPISDGVDVALRVGTIADDSVVARHLMDFRHILV
@@ -833,9 +833,9 @@ FEATURES             Location/Qualifiers
                      GALAGDFITELPAFFAAEYIKRGELTELLPEHPLPYSSLHLVYKKQQHISSTARAYIDF
                      CTAHIAKLSEQCRVPSDAYLRDK"
      gene            complement(47524..48114)
-                     /locus_tag="ACZ04C_12960"
+                     /locus_tag="ACZ04D_08855"
      CDS             complement(47524..48114)
-                     /locus_tag="ACZ04C_12960"
+                     /locus_tag="ACZ04D_08855"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010304748.1"
                      /note="Derived by automated computational analysis using
@@ -845,15 +845,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="flavin reductase family protein"
-                     /protein_id="MHG0333507.1"
+                     /protein_id="MHG0286846.1"
                      /translation="MKKNVKLSSFYYGFPVFLVTTIDNSNGEVNVASISSSISLGDKII
                      IGVTKGSKTYSNLLSGSDVVINIPDYKLWEKVEELGKLTGSDTLSEGQIKWGVQVCHDK
                      FSKVGLHTEASTDITPPRVIECPIQAECKTVSTTDKGRFILVELDIANVWVDSELLGEN
                      DVVDSSKWKPLIYNFREYDTTGDALGFNFKYGH"
      gene            48497..48829
-                     /locus_tag="ACZ04C_12965"
+                     /locus_tag="ACZ04D_08860"
      CDS             48497..48829
-                     /locus_tag="ACZ04C_12965"
+                     /locus_tag="ACZ04D_08860"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:YP_005227813.1"
                      /note="Derived by automated computational analysis using
@@ -861,14 +861,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TehB family protein"
-                     /protein_id="MHG0333508.1"
+                     /protein_id="MHG0286847.1"
                      /translation="MERIVIPANYVHTRTTPFWTKETAPASIWKRHLDAGTRQGVYPRL
                      CVMQGTIRYYGYADETSSEPVETLTIEAGQFGVFPPEKWHRIEALSDDTLFNVDFYVDP
                      KILIEG"
      gene            48840..49178
-                     /locus_tag="ACZ04C_12970"
+                     /locus_tag="ACZ04D_08865"
      CDS             48840..49178
-                     /locus_tag="ACZ04C_12970"
+                     /locus_tag="ACZ04D_08865"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010281463.1"
                      /note="Derived by automated computational analysis using
@@ -876,14 +876,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF1869 domain-containing protein"
-                     /protein_id="MHG0333509.1"
+                     /protein_id="MHG0286848.1"
                      /translation="MTSENKGYSLTLLNRENNEKAEKVYLKPMAFYVPDFAAGAVVELL
                      NELPSTSKNKKGFLLTVTNNNNGVSVDKDLATVEELKDKTISAEAVKELVNIVRGYDAD
                      EDTNVCGW"
      gene            complement(49400..50446)
-                     /locus_tag="ACZ04C_12975"
+                     /locus_tag="ACZ04D_08870"
      CDS             complement(49400..50446)
-                     /locus_tag="ACZ04C_12975"
+                     /locus_tag="ACZ04D_08870"
                      /EC_number="2.7.7.65"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015839624.1"
@@ -898,7 +898,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="sensor domain-containing diguanylate cyclase"
-                     /protein_id="MHG0333510.1"
+                     /protein_id="MHG0286849.1"
                      /translation="MTDNLLSHLSNTLRSEVSFEELVRQLLVMLELVTDLESTYLTQVD
                      TEAGFQNILFAHNTKTLNIPEGASVPWHDTLCKRALDEGQSYTPNVAECWGDSEAAQAL
                      GIMTYASTPVRMDDGQLYGTLCAASSDHKPLTTKGEQILTLFAQLIAQQVQKEWLVQQL
@@ -907,9 +907,9 @@ FEATURES             Location/Qualifiers
                      TPLLQGNYSLGTVNIDYLGASIGIVTADPSVDEPDGVIRRADAAMYANKVMRKKDQTRA
                      FDVITSQP"
      gene            50887..52752
-                     /locus_tag="ACZ04C_12980"
+                     /locus_tag="ACZ04D_08875"
      CDS             50887..52752
-                     /locus_tag="ACZ04C_12980"
+                     /locus_tag="ACZ04D_08875"
                      /EC_number="2.7.1.-"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_014914773.1"
@@ -927,7 +927,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="beta-glucoside-specific PTS transporter subunit
                      IIABC"
-                     /protein_id="MHG0333511.1"
+                     /protein_id="MHG0286850.1"
                      /translation="MSHTAADNNATAYATTAEKIITLVGGIDNIEHIEHCSTRLRLSLY
                      DNSQVNQNELEKVPGVLGVRVNVQCQVIIGGEVMQVYEAVQNLAAGRKKTDRAVPAKTN
                      RTAFAIDFIISIFQPLVPAIAGGGVLKSLLLLLDLLGWLTKDSSTYKVLDNIGSAPLYF
@@ -940,9 +940,9 @@ FEATURES             Location/Qualifiers
                      IENVFETGHAVSMLTDSGAELIFHIGIDTIKLNGQGFQPKVTAGQQVNTGDVLVEFDLD
                      SLIAAGYDPVVMMVITNSERFRVIPEATDVAIPPHTIIMTLKESV"
      gene            52752..54215
-                     /locus_tag="ACZ04C_12985"
+                     /locus_tag="ACZ04D_08880"
      CDS             52752..54215
-                     /locus_tag="ACZ04C_12985"
+                     /locus_tag="ACZ04D_08880"
                      /EC_number="3.2.1.-"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_014914772.1"
@@ -954,7 +954,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="glycoside hydrolase family 1 protein"
-                     /protein_id="MHG0333512.1"
+                     /protein_id="MHG0286851.1"
                      /translation="MDKNIAFPEHFLWGGAIAANQAEGAWNEDGKGPSVADAITWKPNL
                      DLKNYHAHMALTDENIADALNGKNDAFYPKRRGIDFYHRYQGDLALFAEMGFTVLRVSI
                      AWSRIFPTGEDSAPNEAGLQFYDDLFREMRKHGIEPLVTLSHYEMPLALSEKYNGWVHR
@@ -965,9 +965,9 @@ FEATURES             Location/Qualifiers
                      IHDPYRVDYFRSHFEQMREAIGEGVELMGFTSWGAIDIISAGTSQMSKRYGFIYVDQDD
                      EGNGSLARLRKDSFYWYQKVIATNGTDLT"
      gene            54309..55148
-                     /locus_tag="ACZ04C_12990"
+                     /locus_tag="ACZ04D_08885"
      CDS             54309..55148
-                     /locus_tag="ACZ04C_12990"
+                     /locus_tag="ACZ04D_08885"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015839621.1"
                      /note="Derived by automated computational analysis using
@@ -977,16 +977,16 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="PRD domain-containing protein"
-                     /protein_id="MHG0333513.1"
+                     /protein_id="MHG0286852.1"
                      /translation="MIKVKKALNNSMLLVDHEQQEMILLGKGIGFGAKPGSLIDVTHVE
                      QVFIPLENLKSRHFLSLTDTIPAAFFDITHEIVTLAQSQYAEKLNSVLFFTLAEHLYFA
                      VERSKTGNNFINKLSWEVKRYYQKEYALGVQAKDRVSARFNVTLPDDEAINIAFHLINA
                      AGSAEIADAHQQVQLVNRLAEIVRYKLNKNIDVNAVDYLRFINHLRYFSERVIARKIAP
                      GRTDDFYQELLKHYPEAMAISWAIRDYVQEKYQMALPKEELTWLTMHISRLAESQTP"
      gene            55382..56431
-                     /locus_tag="ACZ04C_12995"
+                     /locus_tag="ACZ04D_08890"
      CDS             55382..56431
-                     /locus_tag="ACZ04C_12995"
+                     /locus_tag="ACZ04D_08890"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_014914770.1"
                      /note="Derived by automated computational analysis using
@@ -994,7 +994,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="Fe(3+) ABC transporter substrate-binding protein"
-                     /protein_id="MHG0333514.1"
+                     /protein_id="MHG0286853.1"
                      /translation="MSKTLSVLRKKARLLTLASSLMVAYALPAVAADDSLTLYTTREPG
                      LIQPLLDAFTKETSVKVNTVFIKDGMLERVKAEGQNSPADLLMTVDAGNLIDLVEAGVT
                      QPIQSSALTEAIPAALRDKDNQWFGLSMRARVLYAEKGLAVDSFHYEDLADPKWKGKVC
@@ -1003,9 +1003,9 @@ FEATURES             Location/Qualifiers
                      LMEYLVSAPAQQIYAQANYEYPVRKGVALDSTIGSTIGEVNVDSIPLTDIVKFRKQASQ
                      LVDKVGFDQ"
      gene            56415..58112
-                     /locus_tag="ACZ04C_13000"
+                     /locus_tag="ACZ04D_08895"
      CDS             56415..58112
-                     /locus_tag="ACZ04C_13000"
+                     /locus_tag="ACZ04D_08895"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_010304723.1"
                      /note="Derived by automated computational analysis using
@@ -1018,7 +1018,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="ABC transporter permease"
-                     /protein_id="MHG0333515.1"
+                     /protein_id="MHG0286854.1"
                      /translation="MDSINKTGSSTLRGAFGRPRLFFSPLRIAAIIIALGVLAPLVSLL
                      WLAAGAGVGHWDHLMRYVLPDAALNTLILLVGVGALVMVIGAGCAWLVTAFDFPGRQVV
                      SWALLLPLAMPTYIVAFAWLDLLHPIGPIQEAIRSVLGYDSPRQFRLPDLRSMTGAILL
@@ -1030,9 +1030,9 @@ FEATURES             Location/Qualifiers
                      IPPVMEQASRLLGESEFVTFFRVHLPLLRPALVTSALLVFADAMKELPATLLLRPVNFE
                      TLATVLYAEAARGTYEEGAIAALLIVLAGTLPVVLLARSQLKTSVEKE"
      gene            58134..58808
-                     /locus_tag="ACZ04C_13005"
+                     /locus_tag="ACZ04D_08900"
      CDS             58134..58808
-                     /locus_tag="ACZ04C_13005"
+                     /locus_tag="ACZ04D_08900"
                      /EC_number="7.-.-.-"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_014700592.1"
@@ -1046,30 +1046,30 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="ABC transporter ATP-binding protein"
-                     /protein_id="MHG0333516.1"
+                     /protein_id="MHG0286855.1"
                      /translation="MSEATLVLNNVHVAYGHKHNVHHVLNGFSMEVAAGELACLLGASG
                      CGKTTVLRAIAGFEHLTQGTIHVGGRCVAGPDVHLPPEQRNVGMVFQDYALFPHLTAAQ
                      NIAFGLRKQPKDLQQSRVRAMLELVDLVSLAQRYTHEMSGGQQQRIALARALAPQPAVL
                      LLDEPLSSLDPDSRKRLGQEVRDILRDAGQTALLVTHSEQEAELMASHIGYLKAGTLEW
                      RE"
      gene            complement(58891..59238)
-                     /locus_tag="ACZ04C_13010"
+                     /locus_tag="ACZ04D_08905"
      CDS             complement(58891..59238)
-                     /locus_tag="ACZ04C_13010"
+                     /locus_tag="ACZ04D_08905"
                      /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
                      /note="Derived by automated computational analysis using
                      gene prediction method: GeneMarkS-2+."
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
-                     /protein_id="MHG0333517.1"
+                     /protein_id="MHG0286856.1"
                      /translation="MSSKSEAIRERNAFSLADLYGEDISPDAADADMVAFERSMDDMLP
                      ALLSANAEKTGLATDLLRKKLVVAAKGSAKTDEIALVEHIVLVENSGMHRDSETGRRRN
                      KPVFASRFKSK"
      gene            complement(59265..59972)
-                     /locus_tag="ACZ04C_13015"
+                     /locus_tag="ACZ04D_08910"
      CDS             complement(59265..59972)
-                     /locus_tag="ACZ04C_13015"
+                     /locus_tag="ACZ04D_08910"
                      /inference="COORDINATES: protein motif:HMM:NF018154.6"
                      /note="Derived by automated computational analysis using
                      gene prediction method: Protein Homology. GO_function:
@@ -1078,7 +1078,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="zeta toxin family protein"
-                     /protein_id="MHG0333518.1"
+                     /protein_id="MHG0286857.1"
                      /translation="MDDIKISALAEAVAEAIKDIVYNAITAGLMKSVTPAVFFTAGSPG
                      AGKSELINQRLRVFSNILVIDADEFRRLLPYYEETNAPLFQRAASNLVEYVYMKATAEG
                      LDIIMDSNFASFKNAEFNLSLALERGYVTAIDYVYLDPALAWAYARQRKRKVPLSVLKN
@@ -1086,10 +1086,10 @@ FEATURES             Location/Qualifiers
                      PYTKLAHLNVIAV"
      gene            complement(60153..60983)
                      /gene="iolB"
-                     /locus_tag="ACZ04C_13020"
+                     /locus_tag="ACZ04D_08915"
      CDS             complement(60153..60983)
                      /gene="iolB"
-                     /locus_tag="ACZ04C_13020"
+                     /locus_tag="ACZ04D_08915"
                      /EC_number="5.3.1.30"
                      /inference="COORDINATES: similar to AA
                      sequence:RefSeq:WP_015730843.1"
@@ -1102,7 +1102,7 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="5-deoxy-glucuronate isomerase"
-                     /protein_id="MHG0333519.1"
+                     /protein_id="MHG0286858.1"
                      /translation="MSRLLSRHRAPDEHGRTQHITPETAGWRYVGFEVYQLAPEQVLSL
                      PASDNERCLVLVSGKATVVTPGERFEQIGDRMSPFERRKPYAVYVTTGETITVTAHTAL
                      ELAVCAAPGFGTHPTRLIAPQGIDAEQRGVGNNQRYVHNILPEDKAADSLLVVEVYTDE
