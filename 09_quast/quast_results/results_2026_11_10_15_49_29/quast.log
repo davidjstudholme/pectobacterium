@@ -1,0 +1,1157 @@
+/data/djs217/miniconda3/envs/quast_env/bin/quast.py ../01_genomes/123-1_.fasta ../01_genomes/13-115_T_P._jejuense.fasta ../01_genomes/130_.fasta ../01_genomes/1692_.fasta ../01_genomes/17A96_.fasta ../01_genomes/1950-11_.fasta ../01_genomes/1950-36_.fasta ../01_genomes/1950-8_.fasta ../01_genomes/1950-9_.fasta ../01_genomes/1Aia_.fasta ../01_genomes/1Aia_d_.fasta ../01_genomes/21A07_.fasta ../01_genomes/21LCBS02_.fasta ../01_genomes/21PCA_AGRO2_.fasta ../01_genomes/22038-95_.fasta ../01_genomes/22DLYP08_.fasta ../01_genomes/22KMSM01_.fasta ../01_genomes/22LCQN01-1_.fasta ../01_genomes/22LCQN01-3_.fasta ../01_genomes/22LCQN01-5_.fasta ../01_genomes/22LCQN02-1_.fasta ../01_genomes/22LCQN02-2_.fasta ../01_genomes/22LCQN02-3_.fasta ../01_genomes/22LJYL01-1_.fasta ../01_genomes/22LXZD03-04_.fasta ../01_genomes/22QBSP01-1_.fasta ../01_genomes/22ZTDG03-4_.fasta ../01_genomes/25ASUB12_.fasta ../01_genomes/63069-96_.fasta ../01_genomes/730028-01_.fasta ../01_genomes/80519-93_.fasta ../01_genomes/80521-93_.fasta ../01_genomes/81145-96A_.fasta ../01_genomes/A079-S20-O15_.fasta ../01_genomes/A1_.fasta ../01_genomes/A79-S20-O15_.fasta ../01_genomes/ATCC_39048_.fasta ../01_genomes/B6_.fasta ../01_genomes/BC1_.fasta ../01_genomes/BD163_.fasta ../01_genomes/BD255_.fasta ../01_genomes/BF20_.fasta ../01_genomes/BF45_.fasta ../01_genomes/BL-2_.fasta ../01_genomes/BP7081_.fasta ../01_genomes/BS1113_.fasta ../01_genomes/BSHS4_.fasta ../01_genomes/BSRLOP2CAB_.fasta ../01_genomes/BSROG1CAUL_A_.fasta ../01_genomes/BY2_.fasta ../01_genomes/BZA12_.fasta ../01_genomes/CD23111_.fasta ../01_genomes/CFBP3230_.fasta ../01_genomes/CFBP5381_.fasta ../01_genomes/CFBP7357_.fasta ../01_genomes/CFBP8736_.fasta ../01_genomes/CFBP:6617_T_P._brasiliense.fasta ../01_genomes/CFIA1001_.fasta ../01_genomes/CFIA1009_.fasta ../01_genomes/CFIA1033_.fasta ../01_genomes/CJ5-2_.fasta ../01_genomes/D3B_.fasta ../01_genomes/DL10-2-1_.fasta ../01_genomes/DL6-4_.fasta ../01_genomes/DM1_.fasta ../01_genomes/Ec-153_.fasta ../01_genomes/Ec-155_.fasta ../01_genomes/F126_.fasta ../01_genomes/F152_.fasta ../01_genomes/F157_.fasta ../01_genomes/GG-2023-PCC-0001_.fasta ../01_genomes/GG-2024-PCC-0017_.fasta ../01_genomes/HNP201719_.fasta ../01_genomes/ICMP_19477_.fasta ../01_genomes/IPO:0590_.fasta ../01_genomes/IPO:0821_SCRI:133_.fasta ../01_genomes/IPO:3628_.fasta ../01_genomes/IPO:3630_.fasta ../01_genomes/IPO:3643_.fasta ../01_genomes/IPO:3644_.fasta ../01_genomes/IPO:3649_NAK:375_.fasta ../01_genomes/IPO:3649_NAK:55_.fasta ../01_genomes/IPO:3650_NAK:376_.fasta ../01_genomes/IPO:3707_NAK:377_.fasta ../01_genomes/IPO:3708_NAK:378_.fasta ../01_genomes/IPO:3709_NAK:379_.fasta ../01_genomes/IPO:3710_NAK:380_.fasta ../01_genomes/IPO:3711_NAK:381_.fasta ../01_genomes/IPO:3843_.fasta ../01_genomes/IPO:3844_NAK:382_.fasta ../01_genomes/IPO:4054_NAK:231_.fasta ../01_genomes/IPO:4055_NAK:152_.fasta ../01_genomes/IPO:4056_NAK:264_.fasta ../01_genomes/IPO:4057_NAK:249_.fasta ../01_genomes/IPO:4058_NAK:235_.fasta ../01_genomes/IPO:4060_NAK:251_.fasta ../01_genomes/IPO:4062_NAK:237_.fasta ../01_genomes/IPO:4064_NAK:242_.fasta ../01_genomes/IPO:4065_NAK:223_.fasta ../01_genomes/IPO:4066_NAK:259_.fasta ../01_genomes/IPO:4067_NAK:257_.fasta ../01_genomes/IPO:4068_NAK:256_.fasta ../01_genomes/IPO:4071_NAK:240_.fasta ../01_genomes/IPO:4073_.fasta ../01_genomes/IPO:4131_NAK:399_.fasta ../01_genomes/IPO:4132_NAK:239_.fasta ../01_genomes/IPO:4134_NAK:395_.fasta ../01_genomes/IPO:4135_NAK:383_.fasta ../01_genomes/JD3-4_.fasta ../01_genomes/JGAR-030718-1_.fasta ../01_genomes/JGAR-080719-2_.fasta ../01_genomes/JGAR-100719-1_.fasta ../01_genomes/JGAR-120719-4_.fasta ../01_genomes/L25F-74_.fasta ../01_genomes/LMG_21370_.fasta ../01_genomes/LMG_21371_.fasta ../01_genomes/LMG_21372_.fasta ../01_genomes/LMG_2407_.fasta ../01_genomes/MAFF_106568_.fasta ../01_genomes/MAFF_301653_.fasta ../01_genomes/MAFF_331060_.fasta ../01_genomes/NAK238_.fasta ../01_genomes/NAK246_.fasta ../01_genomes/NAK616_.fasta ../01_genomes/NAK617_.fasta ../01_genomes/NAK638_.fasta ../01_genomes/NAK641_.fasta ../01_genomes/NAK644_.fasta ../01_genomes/NAK650_.fasta ../01_genomes/NAK673_.fasta ../01_genomes/NAK679_.fasta ../01_genomes/NAK682_.fasta ../01_genomes/NAK683_.fasta ../01_genomes/NAK698_.fasta ../01_genomes/NAK700_.fasta ../01_genomes/NAK701_.fasta ../01_genomes/NAK709_.fasta ../01_genomes/NAK716_.fasta ../01_genomes/NAK719_.fasta ../01_genomes/NAK727_.fasta ../01_genomes/NAK:241_.fasta ../01_genomes/NAK:243_.fasta ../01_genomes/NAK:245_.fasta ../01_genomes/NAK:247_.fasta ../01_genomes/NAK:250_.fasta ../01_genomes/NAK:252_.fasta ../01_genomes/NAK:254_.fasta ../01_genomes/NAK:384_.fasta ../01_genomes/NAK:385_.fasta ../01_genomes/NAK:396_.fasta ../01_genomes/NAK:397_.fasta ../01_genomes/NAK:430_.fasta ../01_genomes/NAK:431_.fasta ../01_genomes/NAK:432_.fasta ../01_genomes/NAK:433_.fasta ../01_genomes/NAK:434_.fasta ../01_genomes/NAK:435_.fasta ../01_genomes/NAK:466_.fasta ../01_genomes/NAK:468_.fasta ../01_genomes/NAK:470_.fasta ../01_genomes/NBRC_103133_.fasta ../01_genomes/NCPPB_1639_.fasta ../01_genomes/NCPPB_2349_.fasta ../01_genomes/NCPPB_3074_.fasta ../01_genomes/NCPPB_355_.fasta ../01_genomes/NCPPB_552_.fasta ../01_genomes/NJAU130_.fasta ../01_genomes/NJAU131_.fasta ../01_genomes/NJAU132_.fasta ../01_genomes/NJAU134_.fasta ../01_genomes/NJAU140_.fasta ../01_genomes/NJAU170_.fasta ../01_genomes/NJAU21_.fasta ../01_genomes/NK5_.fasta ../01_genomes/NY1453A_.fasta ../01_genomes/NY1563A_.fasta ../01_genomes/P3B_.fasta ../01_genomes/PBR1692_.fasta ../01_genomes/PCC1_.fasta ../01_genomes/PCC21_.fasta ../01_genomes/PD_5190_.fasta ../01_genomes/PD_6952_.fasta ../01_genomes/PD_7079_.fasta ../01_genomes/PD_7081_.fasta ../01_genomes/PD_8610_.fasta ../01_genomes/PD_8611_.fasta ../01_genomes/PL139_.fasta ../01_genomes/PP1_.fasta ../01_genomes/PP2_.fasta ../01_genomes/PP5_.fasta ../01_genomes/PcbHPI01_.fasta ../01_genomes/S1.16.01.3K_.fasta ../01_genomes/S2_.fasta ../01_genomes/S4.16.03.1C_.fasta ../01_genomes/SJHS3-1_.fasta ../01_genomes/SR10_.fasta ../01_genomes/SR11_.fasta ../01_genomes/SR5_.fasta ../01_genomes/SR6_.fasta ../01_genomes/SR7_.fasta ../01_genomes/SR8_.fasta ../01_genomes/SX309_.fasta ../01_genomes/TS20HJ1_.fasta ../01_genomes/T_P._nicotianae_21LCBS03.fasta ../01_genomes/WZZ2024_.fasta ../01_genomes/Y21_.fasta ../01_genomes/Y29_.fasta ../01_genomes/Y31_.fasta ../01_genomes/Y3_.fasta ../01_genomes/Y49_.fasta ../01_genomes/Y52_.fasta ../01_genomes/Y60_.fasta ../01_genomes/Y62_.fasta ../01_genomes/Y64_.fasta ../01_genomes/Y65_.fasta ../01_genomes/YC_Y46_.fasta ../01_genomes/ZLMLSHJ5_.fasta ../01_genomes/ZRIMU1030_.fasta ../01_genomes/ZRIMU1701_SM_.fasta ../01_genomes/ZRIMU1702_DQ_.fasta
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-6.8.0-137-generic-x86_64-with-glibc2.39 (linux_64)
+  Python version: 3.12.7
+  CPUs number: 32
+
+Started: 2026-11-10 15:49:29
+
+Logging to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/quast.log
+NOTICE: Maximum number of threads is set to 8 (use --threads option to set it manually)
+
+CWD: /data/djs217/PROJECTS/44_Pectobacterium/09_quast
+Main parameters: 
+  MODE: default, threads: 8, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  ../01_genomes/123-1_.fasta ==> 123-1_
+  2  ../01_genomes/13-115_T_P._jejuense.fasta ==> 13-115_T_P._jejuense
+  3  ../01_genomes/130_.fasta ==> 130_
+  4  ../01_genomes/1692_.fasta ==> 1692_
+  5  ../01_genomes/17A96_.fasta ==> 17A96_
+  6  ../01_genomes/1950-11_.fasta ==> 1950-11_
+  7  ../01_genomes/1950-36_.fasta ==> 1950-36_
+  8  ../01_genomes/1950-8_.fasta ==> 1950-8_
+  9  ../01_genomes/1950-9_.fasta ==> 1950-9_
+  10 ../01_genomes/1Aia_.fasta ==> 1Aia_
+  11 ../01_genomes/1Aia_d_.fasta ==> 1Aia_d_
+  12 ../01_genomes/21A07_.fasta ==> 21A07_
+  13 ../01_genomes/21LCBS02_.fasta ==> 21LCBS02_
+  14 ../01_genomes/21PCA_AGRO2_.fasta ==> 21PCA_AGRO2_
+  15 ../01_genomes/22038-95_.fasta ==> 22038-95_
+  16 ../01_genomes/22DLYP08_.fasta ==> 22DLYP08_
+  17 ../01_genomes/22KMSM01_.fasta ==> 22KMSM01_
+  18 ../01_genomes/22LCQN01-1_.fasta ==> 22LCQN01-1_
+  19 ../01_genomes/22LCQN01-3_.fasta ==> 22LCQN01-3_
+  20 ../01_genomes/22LCQN01-5_.fasta ==> 22LCQN01-5_
+  21 ../01_genomes/22LCQN02-1_.fasta ==> 22LCQN02-1_
+  22 ../01_genomes/22LCQN02-2_.fasta ==> 22LCQN02-2_
+  23 ../01_genomes/22LCQN02-3_.fasta ==> 22LCQN02-3_
+  24 ../01_genomes/22LJYL01-1_.fasta ==> 22LJYL01-1_
+  25 ../01_genomes/22LXZD03-04_.fasta ==> 22LXZD03-04_
+  26 ../01_genomes/22QBSP01-1_.fasta ==> 22QBSP01-1_
+  27 ../01_genomes/22ZTDG03-4_.fasta ==> 22ZTDG03-4_
+  28 ../01_genomes/25ASUB12_.fasta ==> 25ASUB12_
+  29 ../01_genomes/63069-96_.fasta ==> 63069-96_
+  30 ../01_genomes/730028-01_.fasta ==> 730028-01_
+  31 ../01_genomes/80519-93_.fasta ==> 80519-93_
+  32 ../01_genomes/80521-93_.fasta ==> 80521-93_
+  33 ../01_genomes/81145-96A_.fasta ==> 81145-96A_
+  34 ../01_genomes/A079-S20-O15_.fasta ==> A079-S20-O15_
+  35 ../01_genomes/A1_.fasta ==> A1_
+  36 ../01_genomes/A79-S20-O15_.fasta ==> A79-S20-O15_
+  37 ../01_genomes/ATCC_39048_.fasta ==> ATCC_39048_
+  38 ../01_genomes/B6_.fasta ==> B6_
+  39 ../01_genomes/BC1_.fasta ==> BC1_
+  40 ../01_genomes/BD163_.fasta ==> BD163_
+  41 ../01_genomes/BD255_.fasta ==> BD255_
+  42 ../01_genomes/BF20_.fasta ==> BF20_
+  43 ../01_genomes/BF45_.fasta ==> BF45_
+  44 ../01_genomes/BL-2_.fasta ==> BL-2_
+  45 ../01_genomes/BP7081_.fasta ==> BP7081_
+  46 ../01_genomes/BS1113_.fasta ==> BS1113_
+  47 ../01_genomes/BSHS4_.fasta ==> BSHS4_
+  48 ../01_genomes/BSRLOP2CAB_.fasta ==> BSRLOP2CAB_
+  49 ../01_genomes/BSROG1CAUL_A_.fasta ==> BSROG1CAUL_A_
+  50 ../01_genomes/BY2_.fasta ==> BY2_
+  51 ../01_genomes/BZA12_.fasta ==> BZA12_
+  52 ../01_genomes/CD23111_.fasta ==> CD23111_
+  53 ../01_genomes/CFBP3230_.fasta ==> CFBP3230_
+  54 ../01_genomes/CFBP5381_.fasta ==> CFBP5381_
+  55 ../01_genomes/CFBP7357_.fasta ==> CFBP7357_
+  56 ../01_genomes/CFBP8736_.fasta ==> CFBP8736_
+  57 ../01_genomes/CFBP:6617_T_P._brasiliense.fasta ==> CFBP:6617_T_P._brasiliense
+  58 ../01_genomes/CFIA1001_.fasta ==> CFIA1001_
+  59 ../01_genomes/CFIA1009_.fasta ==> CFIA1009_
+  60 ../01_genomes/CFIA1033_.fasta ==> CFIA1033_
+  61 ../01_genomes/CJ5-2_.fasta ==> CJ5-2_
+  62 ../01_genomes/D3B_.fasta ==> D3B_
+  63 ../01_genomes/DL10-2-1_.fasta ==> DL10-2-1_
+  64 ../01_genomes/DL6-4_.fasta ==> DL6-4_
+  65 ../01_genomes/DM1_.fasta ==> DM1_
+  66 ../01_genomes/Ec-153_.fasta ==> Ec-153_
+  67 ../01_genomes/Ec-155_.fasta ==> Ec-155_
+  68 ../01_genomes/F126_.fasta ==> F126_
+  69 ../01_genomes/F152_.fasta ==> F152_
+  70 ../01_genomes/F157_.fasta ==> F157_
+  71 ../01_genomes/GG-2023-PCC-0001_.fasta ==> GG-2023-PCC-0001_
+  72 ../01_genomes/GG-2024-PCC-0017_.fasta ==> GG-2024-PCC-0017_
+  73 ../01_genomes/HNP201719_.fasta ==> HNP201719_
+  74 ../01_genomes/ICMP_19477_.fasta ==> ICMP_19477_
+  75 ../01_genomes/IPO:0590_.fasta ==> IPO:0590_
+  76 ../01_genomes/IPO:0821_SCRI:133_.fasta ==> IPO:0821_SCRI:133_
+  77 ../01_genomes/IPO:3628_.fasta ==> IPO:3628_
+  78 ../01_genomes/IPO:3630_.fasta ==> IPO:3630_
+  79 ../01_genomes/IPO:3643_.fasta ==> IPO:3643_
+  80 ../01_genomes/IPO:3644_.fasta ==> IPO:3644_
+  81 ../01_genomes/IPO:3649_NAK:375_.fasta ==> IPO:3649_NAK:375_
+  82 ../01_genomes/IPO:3649_NAK:55_.fasta ==> IPO:3649_NAK:55_
+  83 ../01_genomes/IPO:3650_NAK:376_.fasta ==> IPO:3650_NAK:376_
+  84 ../01_genomes/IPO:3707_NAK:377_.fasta ==> IPO:3707_NAK:377_
+  85 ../01_genomes/IPO:3708_NAK:378_.fasta ==> IPO:3708_NAK:378_
+  86 ../01_genomes/IPO:3709_NAK:379_.fasta ==> IPO:3709_NAK:379_
+  87 ../01_genomes/IPO:3710_NAK:380_.fasta ==> IPO:3710_NAK:380_
+  88 ../01_genomes/IPO:3711_NAK:381_.fasta ==> IPO:3711_NAK:381_
+  89 ../01_genomes/IPO:3843_.fasta ==> IPO:3843_
+  90 ../01_genomes/IPO:3844_NAK:382_.fasta ==> IPO:3844_NAK:382_
+  91 ../01_genomes/IPO:4054_NAK:231_.fasta ==> IPO:4054_NAK:231_
+  92 ../01_genomes/IPO:4055_NAK:152_.fasta ==> IPO:4055_NAK:152_
+  93 ../01_genomes/IPO:4056_NAK:264_.fasta ==> IPO:4056_NAK:264_
+  94 ../01_genomes/IPO:4057_NAK:249_.fasta ==> IPO:4057_NAK:249_
+  95 ../01_genomes/IPO:4058_NAK:235_.fasta ==> IPO:4058_NAK:235_
+  96 ../01_genomes/IPO:4060_NAK:251_.fasta ==> IPO:4060_NAK:251_
+  97 ../01_genomes/IPO:4062_NAK:237_.fasta ==> IPO:4062_NAK:237_
+  98 ../01_genomes/IPO:4064_NAK:242_.fasta ==> IPO:4064_NAK:242_
+  99 ../01_genomes/IPO:4065_NAK:223_.fasta ==> IPO:4065_NAK:223_
+  100 ../01_genomes/IPO:4066_NAK:259_.fasta ==> IPO:4066_NAK:259_
+  101 ../01_genomes/IPO:4067_NAK:257_.fasta ==> IPO:4067_NAK:257_
+  102 ../01_genomes/IPO:4068_NAK:256_.fasta ==> IPO:4068_NAK:256_
+  103 ../01_genomes/IPO:4071_NAK:240_.fasta ==> IPO:4071_NAK:240_
+  104 ../01_genomes/IPO:4073_.fasta ==> IPO:4073_
+  105 ../01_genomes/IPO:4131_NAK:399_.fasta ==> IPO:4131_NAK:399_
+  106 ../01_genomes/IPO:4132_NAK:239_.fasta ==> IPO:4132_NAK:239_
+  107 ../01_genomes/IPO:4134_NAK:395_.fasta ==> IPO:4134_NAK:395_
+  108 ../01_genomes/IPO:4135_NAK:383_.fasta ==> IPO:4135_NAK:383_
+  109 ../01_genomes/JD3-4_.fasta ==> JD3-4_
+  110 ../01_genomes/JGAR-030718-1_.fasta ==> JGAR-030718-1_
+  111 ../01_genomes/JGAR-080719-2_.fasta ==> JGAR-080719-2_
+  112 ../01_genomes/JGAR-100719-1_.fasta ==> JGAR-100719-1_
+  113 ../01_genomes/JGAR-120719-4_.fasta ==> JGAR-120719-4_
+  114 ../01_genomes/L25F-74_.fasta ==> L25F-74_
+  115 ../01_genomes/LMG_21370_.fasta ==> LMG_21370_
+  116 ../01_genomes/LMG_21371_.fasta ==> LMG_21371_
+  117 ../01_genomes/LMG_21372_.fasta ==> LMG_21372_
+  118 ../01_genomes/LMG_2407_.fasta ==> LMG_2407_
+  119 ../01_genomes/MAFF_106568_.fasta ==> MAFF_106568_
+  120 ../01_genomes/MAFF_301653_.fasta ==> MAFF_301653_
+  121 ../01_genomes/MAFF_331060_.fasta ==> MAFF_331060_
+  122 ../01_genomes/NAK238_.fasta ==> NAK238_
+  123 ../01_genomes/NAK246_.fasta ==> NAK246_
+  124 ../01_genomes/NAK616_.fasta ==> NAK616_
+  125 ../01_genomes/NAK617_.fasta ==> NAK617_
+  126 ../01_genomes/NAK638_.fasta ==> NAK638_
+  127 ../01_genomes/NAK641_.fasta ==> NAK641_
+  128 ../01_genomes/NAK644_.fasta ==> NAK644_
+  129 ../01_genomes/NAK650_.fasta ==> NAK650_
+  130 ../01_genomes/NAK673_.fasta ==> NAK673_
+  131 ../01_genomes/NAK679_.fasta ==> NAK679_
+  132 ../01_genomes/NAK682_.fasta ==> NAK682_
+  133 ../01_genomes/NAK683_.fasta ==> NAK683_
+  134 ../01_genomes/NAK698_.fasta ==> NAK698_
+  135 ../01_genomes/NAK700_.fasta ==> NAK700_
+  136 ../01_genomes/NAK701_.fasta ==> NAK701_
+  137 ../01_genomes/NAK709_.fasta ==> NAK709_
+  138 ../01_genomes/NAK716_.fasta ==> NAK716_
+  139 ../01_genomes/NAK719_.fasta ==> NAK719_
+  140 ../01_genomes/NAK727_.fasta ==> NAK727_
+  141 ../01_genomes/NAK:241_.fasta ==> NAK:241_
+  142 ../01_genomes/NAK:243_.fasta ==> NAK:243_
+  143 ../01_genomes/NAK:245_.fasta ==> NAK:245_
+  144 ../01_genomes/NAK:247_.fasta ==> NAK:247_
+  145 ../01_genomes/NAK:250_.fasta ==> NAK:250_
+  146 ../01_genomes/NAK:252_.fasta ==> NAK:252_
+  147 ../01_genomes/NAK:254_.fasta ==> NAK:254_
+  148 ../01_genomes/NAK:384_.fasta ==> NAK:384_
+  149 ../01_genomes/NAK:385_.fasta ==> NAK:385_
+  150 ../01_genomes/NAK:396_.fasta ==> NAK:396_
+  151 ../01_genomes/NAK:397_.fasta ==> NAK:397_
+  152 ../01_genomes/NAK:430_.fasta ==> NAK:430_
+  153 ../01_genomes/NAK:431_.fasta ==> NAK:431_
+  154 ../01_genomes/NAK:432_.fasta ==> NAK:432_
+  155 ../01_genomes/NAK:433_.fasta ==> NAK:433_
+  156 ../01_genomes/NAK:434_.fasta ==> NAK:434_
+  157 ../01_genomes/NAK:435_.fasta ==> NAK:435_
+  158 ../01_genomes/NAK:466_.fasta ==> NAK:466_
+  159 ../01_genomes/NAK:468_.fasta ==> NAK:468_
+  160 ../01_genomes/NAK:470_.fasta ==> NAK:470_
+  161 ../01_genomes/NBRC_103133_.fasta ==> NBRC_103133_
+  162 ../01_genomes/NCPPB_1639_.fasta ==> NCPPB_1639_
+  163 ../01_genomes/NCPPB_2349_.fasta ==> NCPPB_2349_
+  164 ../01_genomes/NCPPB_3074_.fasta ==> NCPPB_3074_
+  165 ../01_genomes/NCPPB_355_.fasta ==> NCPPB_355_
+  166 ../01_genomes/NCPPB_552_.fasta ==> NCPPB_552_
+  167 ../01_genomes/NJAU130_.fasta ==> NJAU130_
+  168 ../01_genomes/NJAU131_.fasta ==> NJAU131_
+  169 ../01_genomes/NJAU132_.fasta ==> NJAU132_
+  170 ../01_genomes/NJAU134_.fasta ==> NJAU134_
+  171 ../01_genomes/NJAU140_.fasta ==> NJAU140_
+  172 ../01_genomes/NJAU170_.fasta ==> NJAU170_
+  173 ../01_genomes/NJAU21_.fasta ==> NJAU21_
+  174 ../01_genomes/NK5_.fasta ==> NK5_
+  175 ../01_genomes/NY1453A_.fasta ==> NY1453A_
+  176 ../01_genomes/NY1563A_.fasta ==> NY1563A_
+  177 ../01_genomes/P3B_.fasta ==> P3B_
+  178 ../01_genomes/PBR1692_.fasta ==> PBR1692_
+  179 ../01_genomes/PCC1_.fasta ==> PCC1_
+  180 ../01_genomes/PCC21_.fasta ==> PCC21_
+  181 ../01_genomes/PD_5190_.fasta ==> PD_5190_
+  182 ../01_genomes/PD_6952_.fasta ==> PD_6952_
+  183 ../01_genomes/PD_7079_.fasta ==> PD_7079_
+  184 ../01_genomes/PD_7081_.fasta ==> PD_7081_
+  185 ../01_genomes/PD_8610_.fasta ==> PD_8610_
+  186 ../01_genomes/PD_8611_.fasta ==> PD_8611_
+  187 ../01_genomes/PL139_.fasta ==> PL139_
+  188 ../01_genomes/PP1_.fasta ==> PP1_
+  189 ../01_genomes/PP2_.fasta ==> PP2_
+  190 ../01_genomes/PP5_.fasta ==> PP5_
+  191 ../01_genomes/PcbHPI01_.fasta ==> PcbHPI01_
+  192 ../01_genomes/S1.16.01.3K_.fasta ==> S1.16.01.3K_
+  193 ../01_genomes/S2_.fasta ==> S2_
+  194 ../01_genomes/S4.16.03.1C_.fasta ==> S4.16.03.1C_
+  195 ../01_genomes/SJHS3-1_.fasta ==> SJHS3-1_
+  196 ../01_genomes/SR10_.fasta ==> SR10_
+  197 ../01_genomes/SR11_.fasta ==> SR11_
+  198 ../01_genomes/SR5_.fasta ==> SR5_
+  199 ../01_genomes/SR6_.fasta ==> SR6_
+  200 ../01_genomes/SR7_.fasta ==> SR7_
+  201 ../01_genomes/SR8_.fasta ==> SR8_
+  202 ../01_genomes/SX309_.fasta ==> SX309_
+  203 ../01_genomes/TS20HJ1_.fasta ==> TS20HJ1_
+  204 ../01_genomes/T_P._nicotianae_21LCBS03.fasta ==> T_P._nicotianae_21LCBS03
+  205 ../01_genomes/WZZ2024_.fasta ==> WZZ2024_
+  206 ../01_genomes/Y21_.fasta ==> Y21_
+  207 ../01_genomes/Y29_.fasta ==> Y29_
+  208 ../01_genomes/Y31_.fasta ==> Y31_
+  209 ../01_genomes/Y3_.fasta ==> Y3_
+  210 ../01_genomes/Y49_.fasta ==> Y49_
+  211 ../01_genomes/Y52_.fasta ==> Y52_
+  212 ../01_genomes/Y60_.fasta ==> Y60_
+  213 ../01_genomes/Y62_.fasta ==> Y62_
+  214 ../01_genomes/Y64_.fasta ==> Y64_
+  215 ../01_genomes/Y65_.fasta ==> Y65_
+  216 ../01_genomes/YC_Y46_.fasta ==> YC_Y46_
+  217 ../01_genomes/ZLMLSHJ5_.fasta ==> ZLMLSHJ5_
+  218 ../01_genomes/ZRIMU1030_.fasta ==> ZRIMU1030_
+  219 ../01_genomes/ZRIMU1701_SM_.fasta ==> ZRIMU1701_SM_
+  220 ../01_genomes/ZRIMU1702_DQ_.fasta ==> ZRIMU1702_DQ_
+
+2026-11-10 15:49:33
+Running Basic statistics processor...
+  Contig files: 
+    1  123-1_
+    2  13-115_T_P._jejuense
+    3  130_
+    4  1692_
+    5  17A96_
+    6  1950-11_
+    7  1950-36_
+    8  1950-8_
+    9  1950-9_
+    10 1Aia_
+    11 1Aia_d_
+    12 21A07_
+    13 21LCBS02_
+    14 21PCA_AGRO2_
+    15 22038-95_
+    16 22DLYP08_
+    17 22KMSM01_
+    18 22LCQN01-1_
+    19 22LCQN01-3_
+    20 22LCQN01-5_
+    21 22LCQN02-1_
+    22 22LCQN02-2_
+    23 22LCQN02-3_
+    24 22LJYL01-1_
+    25 22LXZD03-04_
+    26 22QBSP01-1_
+    27 22ZTDG03-4_
+    28 25ASUB12_
+    29 63069-96_
+    30 730028-01_
+    31 80519-93_
+    32 80521-93_
+    33 81145-96A_
+    34 A079-S20-O15_
+    35 A1_
+    36 A79-S20-O15_
+    37 ATCC_39048_
+    38 B6_
+    39 BC1_
+    40 BD163_
+    41 BD255_
+    42 BF20_
+    43 BF45_
+    44 BL-2_
+    45 BP7081_
+    46 BS1113_
+    47 BSHS4_
+    48 BSRLOP2CAB_
+    49 BSROG1CAUL_A_
+    50 BY2_
+    51 BZA12_
+    52 CD23111_
+    53 CFBP3230_
+    54 CFBP5381_
+    55 CFBP7357_
+    56 CFBP8736_
+    57 CFBP:6617_T_P._brasiliense
+    58 CFIA1001_
+    59 CFIA1009_
+    60 CFIA1033_
+    61 CJ5-2_
+    62 D3B_
+    63 DL10-2-1_
+    64 DL6-4_
+    65 DM1_
+    66 Ec-153_
+    67 Ec-155_
+    68 F126_
+    69 F152_
+    70 F157_
+    71 GG-2023-PCC-0001_
+    72 GG-2024-PCC-0017_
+    73 HNP201719_
+    74 ICMP_19477_
+    75 IPO:0590_
+    76 IPO:0821_SCRI:133_
+    77 IPO:3628_
+    78 IPO:3630_
+    79 IPO:3643_
+    80 IPO:3644_
+    81 IPO:3649_NAK:375_
+    82 IPO:3649_NAK:55_
+    83 IPO:3650_NAK:376_
+    84 IPO:3707_NAK:377_
+    85 IPO:3708_NAK:378_
+    86 IPO:3709_NAK:379_
+    87 IPO:3710_NAK:380_
+    88 IPO:3711_NAK:381_
+    89 IPO:3843_
+    90 IPO:3844_NAK:382_
+    91 IPO:4054_NAK:231_
+    92 IPO:4055_NAK:152_
+    93 IPO:4056_NAK:264_
+    94 IPO:4057_NAK:249_
+    95 IPO:4058_NAK:235_
+    96 IPO:4060_NAK:251_
+    97 IPO:4062_NAK:237_
+    98 IPO:4064_NAK:242_
+    99 IPO:4065_NAK:223_
+    100 IPO:4066_NAK:259_
+    101 IPO:4067_NAK:257_
+    102 IPO:4068_NAK:256_
+    103 IPO:4071_NAK:240_
+    104 IPO:4073_
+    105 IPO:4131_NAK:399_
+    106 IPO:4132_NAK:239_
+    107 IPO:4134_NAK:395_
+    108 IPO:4135_NAK:383_
+    109 JD3-4_
+    110 JGAR-030718-1_
+    111 JGAR-080719-2_
+    112 JGAR-100719-1_
+    113 JGAR-120719-4_
+    114 L25F-74_
+    115 LMG_21370_
+    116 LMG_21371_
+    117 LMG_21372_
+    118 LMG_2407_
+    119 MAFF_106568_
+    120 MAFF_301653_
+    121 MAFF_331060_
+    122 NAK238_
+    123 NAK246_
+    124 NAK616_
+    125 NAK617_
+    126 NAK638_
+    127 NAK641_
+    128 NAK644_
+    129 NAK650_
+    130 NAK673_
+    131 NAK679_
+    132 NAK682_
+    133 NAK683_
+    134 NAK698_
+    135 NAK700_
+    136 NAK701_
+    137 NAK709_
+    138 NAK716_
+    139 NAK719_
+    140 NAK727_
+    141 NAK:241_
+    142 NAK:243_
+    143 NAK:245_
+    144 NAK:247_
+    145 NAK:250_
+    146 NAK:252_
+    147 NAK:254_
+    148 NAK:384_
+    149 NAK:385_
+    150 NAK:396_
+    151 NAK:397_
+    152 NAK:430_
+    153 NAK:431_
+    154 NAK:432_
+    155 NAK:433_
+    156 NAK:434_
+    157 NAK:435_
+    158 NAK:466_
+    159 NAK:468_
+    160 NAK:470_
+    161 NBRC_103133_
+    162 NCPPB_1639_
+    163 NCPPB_2349_
+    164 NCPPB_3074_
+    165 NCPPB_355_
+    166 NCPPB_552_
+    167 NJAU130_
+    168 NJAU131_
+    169 NJAU132_
+    170 NJAU134_
+    171 NJAU140_
+    172 NJAU170_
+    173 NJAU21_
+    174 NK5_
+    175 NY1453A_
+    176 NY1563A_
+    177 P3B_
+    178 PBR1692_
+    179 PCC1_
+    180 PCC21_
+    181 PD_5190_
+    182 PD_6952_
+    183 PD_7079_
+    184 PD_7081_
+    185 PD_8610_
+    186 PD_8611_
+    187 PL139_
+    188 PP1_
+    189 PP2_
+    190 PP5_
+    191 PcbHPI01_
+    192 S1.16.01.3K_
+    193 S2_
+    194 S4.16.03.1C_
+    195 SJHS3-1_
+    196 SR10_
+    197 SR11_
+    198 SR5_
+    199 SR6_
+    200 SR7_
+    201 SR8_
+    202 SX309_
+    203 TS20HJ1_
+    204 T_P._nicotianae_21LCBS03
+    205 WZZ2024_
+    206 Y21_
+    207 Y29_
+    208 Y31_
+    209 Y3_
+    210 Y49_
+    211 Y52_
+    212 Y60_
+    213 Y62_
+    214 Y64_
+    215 Y65_
+    216 YC_Y46_
+    217 ZLMLSHJ5_
+    218 ZRIMU1030_
+    219 ZRIMU1701_SM_
+    220 ZRIMU1702_DQ_
+  Calculating N50 and L50...
+    1  123-1_, N50 = 4791824, L50 = 1, auN = 4791824.0, Total length = 4791824, GC % = 52.15, # N's per 100 kbp =  0.00
+    2  13-115_T_P._jejuense, N50 = 408756, L50 = 5, auN = 417959.8, Total length = 5060178, GC % = 52.03, # N's per 100 kbp =  0.00
+    3  130_, N50 = 5034872, L50 = 1, auN = 5034872.0, Total length = 5034872, GC % = 52.05, # N's per 100 kbp =  0.00
+    4  1692_, N50 = 4851982, L50 = 1, auN = 4851982.0, Total length = 4851982, GC % = 52.15, # N's per 100 kbp =  0.00
+    5  17A96_, N50 = 433425, L50 = 4, auN = 494326.3, Total length = 4793465, GC % = 52.19, # N's per 100 kbp =  0.00
+    6  1950-11_, N50 = 481597, L50 = 5, auN = 418043.8, Total length = 4711329, GC % = 52.07, # N's per 100 kbp =  0.00
+    7  1950-36_, N50 = 254472, L50 = 7, auN = 305469.7, Total length = 4877987, GC % = 52.01, # N's per 100 kbp =  0.00
+    8  1950-8_, N50 = 179611, L50 = 9, auN = 190192.5, Total length = 4613715, GC % = 51.80, # N's per 100 kbp =  0.00
+    9  1950-9_, N50 = 165921, L50 = 9, auN = 196459.5, Total length = 4613181, GC % = 51.80, # N's per 100 kbp =  0.00
+    10 1Aia_, N50 = 133856, L50 = 12, auN = 155678.6, Total length = 4927454, GC % = 51.71, # N's per 100 kbp =  0.00
+    11 1Aia_d_, N50 = 121675, L50 = 13, auN = 142230.7, Total length = 4890597, GC % = 51.66, # N's per 100 kbp =  0.00
+    12 21A07_, N50 = 156840, L50 = 8, auN = 263335.1, Total length = 4806648, GC % = 52.08, # N's per 100 kbp =  0.00
+    13 21LCBS02_, N50 = 290041, L50 = 5, auN = 399282.2, Total length = 4811088, GC % = 52.10, # N's per 100 kbp =  0.21
+    14 21PCA_AGRO2_, N50 = 4919671, L50 = 1, auN = 4919671.0, Total length = 4919671, GC % = 51.68, # N's per 100 kbp =  0.00
+    15 22038-95_, N50 = 4816882, L50 = 1, auN = 4816882.0, Total length = 4816882, GC % = 51.87, # N's per 100 kbp =  0.00
+    16 22DLYP08_, N50 = 129269, L50 = 12, auN = 159627.2, Total length = 4856910, GC % = 52.02, # N's per 100 kbp =  10.46
+    17 22KMSM01_, N50 = 433761, L50 = 4, auN = 560098.9, Total length = 4967991, GC % = 52.17, # N's per 100 kbp =  6.22
+    18 22LCQN01-1_, N50 = 251556, L50 = 6, auN = 313277.8, Total length = 4874630, GC % = 51.88, # N's per 100 kbp =  25.34
+    19 22LCQN01-3_, N50 = 394999, L50 = 5, auN = 405776.0, Total length = 4974675, GC % = 51.98, # N's per 100 kbp =  5.77
+    20 22LCQN01-5_, N50 = 761189, L50 = 3, auN = 810352.3, Total length = 4899039, GC % = 52.16, # N's per 100 kbp =  5.57
+    21 22LCQN02-1_, N50 = 400114, L50 = 5, auN = 418610.7, Total length = 4963692, GC % = 52.08, # N's per 100 kbp =  5.50
+    22 22LCQN02-2_, N50 = 591455, L50 = 2, auN = 919297.7, Total length = 4806943, GC % = 52.14, # N's per 100 kbp =  5.68
+    23 22LCQN02-3_, N50 = 350834, L50 = 4, auN = 538854.3, Total length = 4998857, GC % = 51.99, # N's per 100 kbp =  0.00
+    24 22LJYL01-1_, N50 = 259824, L50 = 6, auN = 348126.2, Total length = 4909570, GC % = 52.04, # N's per 100 kbp =  8.62
+    25 22LXZD03-04_, N50 = 274490, L50 = 5, auN = 411224.8, Total length = 4773085, GC % = 52.04, # N's per 100 kbp =  7.50
+    26 22QBSP01-1_, N50 = 491413, L50 = 3, auN = 602560.2, Total length = 4659844, GC % = 51.98, # N's per 100 kbp =  0.21
+    27 22ZTDG03-4_, N50 = 290582, L50 = 6, auN = 378224.8, Total length = 4828053, GC % = 52.12, # N's per 100 kbp =  23.14
+    28 25ASUB12_, N50 = 4907349, L50 = 1, auN = 4907349.0, Total length = 4907349, GC % = 52.04, # N's per 100 kbp =  0.00
+    29 63069-96_, N50 = 4774685, L50 = 1, auN = 4774685.0, Total length = 4774685, GC % = 52.03, # N's per 100 kbp =  0.00
+    30 730028-01_, N50 = 4842704, L50 = 1, auN = 4842704.0, Total length = 4842704, GC % = 51.91, # N's per 100 kbp =  0.00
+    31 80519-93_, N50 = 4887921, L50 = 1, auN = 4883107.5, Total length = 4892744, GC % = 52.04, # N's per 100 kbp =  0.00
+    32 80521-93_, N50 = 4887917, L50 = 1, auN = 4871416.4, Total length = 4904499, GC % = 52.04, # N's per 100 kbp =  0.00
+    33 81145-96A_, N50 = 4944773, L50 = 1, auN = 4944773.0, Total length = 4944773, GC % = 51.84, # N's per 100 kbp =  0.00
+    34 A079-S20-O15_, N50 = 252792, L50 = 7, auN = 251879.1, Total length = 4811012, GC % = 52.03, # N's per 100 kbp =  29.10
+    35 A1_, N50 = 46958, L50 = 32, auN = 51042.0, Total length = 4496704, GC % = 52.30, # N's per 100 kbp =  0.00
+    36 A79-S20-O15_, N50 = 252792, L50 = 7, auN = 251879.1, Total length = 4811012, GC % = 52.03, # N's per 100 kbp =  29.10
+    37 ATCC_39048_, N50 = 220041, L50 = 8, auN = 250451.6, Total length = 4637928, GC % = 51.99, # N's per 100 kbp =  0.00
+    38 B6_, N50 = 286737, L50 = 5, auN = 364495.3, Total length = 4683460, GC % = 52.20, # N's per 100 kbp =  4.21
+    39 BC1_, N50 = 4920350, L50 = 1, auN = 4920350.0, Total length = 4920350, GC % = 51.84, # N's per 100 kbp =  0.00
+    40 BD163_, N50 = 824806, L50 = 2, auN = 842073.5, Total length = 4897858, GC % = 51.73, # N's per 100 kbp =  0.00
+    41 BD255_, N50 = 1001875, L50 = 2, auN = 911625.6, Total length = 4819835, GC % = 51.99, # N's per 100 kbp =  0.00
+    42 BF20_, N50 = 106099, L50 = 15, auN = 127330.0, Total length = 4765037, GC % = 52.18, # N's per 100 kbp =  7.45
+    43 BF45_, N50 = 115742, L50 = 13, auN = 144631.0, Total length = 4756069, GC % = 52.23, # N's per 100 kbp =  0.04
+    44 BL-2_, N50 = 357113, L50 = 5, auN = 407079.9, Total length = 4797660, GC % = 52.08, # N's per 100 kbp =  0.21
+    45 BP7081_, N50 = 4852546, L50 = 1, auN = 4852546.0, Total length = 4852546, GC % = 52.19, # N's per 100 kbp =  0.00
+    46 BS1113_, N50 = 4916962, L50 = 1, auN = 4916962.0, Total length = 4916962, GC % = 51.96, # N's per 100 kbp =  0.00
+    47 BSHS4_, N50 = 202304, L50 = 8, auN = 231120.6, Total length = 4699090, GC % = 52.08, # N's per 100 kbp =  0.21
+    48 BSRLOP2CAB_, N50 = 4856666, L50 = 1, auN = 4856666.0, Total length = 4856666, GC % = 52.07, # N's per 100 kbp =  0.00
+    49 BSROG1CAUL_A_, N50 = 4854550, L50 = 1, auN = 4854550.0, Total length = 4854550, GC % = 52.10, # N's per 100 kbp =  16.48
+    50 BY2_, N50 = 4781916, L50 = 1, auN = 4777382.6, Total length = 4786458, GC % = 51.89, # N's per 100 kbp =  0.00
+    51 BZA12_, N50 = 4924809, L50 = 1, auN = 4924809.0, Total length = 4924809, GC % = 51.98, # N's per 100 kbp =  0.00
+    52 CD23111_, N50 = 4737905, L50 = 1, auN = 4737905.0, Total length = 4737905, GC % = 52.05, # N's per 100 kbp =  0.00
+    53 CFBP3230_, N50 = 394958, L50 = 5, auN = 416272.5, Total length = 4848656, GC % = 52.06, # N's per 100 kbp =  26.50
+    54 CFBP5381_, N50 = 230522, L50 = 6, auN = 330634.5, Total length = 4596310, GC % = 52.01, # N's per 100 kbp =  36.86
+    55 CFBP7357_, N50 = 231494, L50 = 8, auN = 259319.8, Total length = 4804400, GC % = 51.75, # N's per 100 kbp =  25.00
+    56 CFBP8736_, N50 = 107870, L50 = 12, auN = 144476.3, Total length = 4651589, GC % = 51.19, # N's per 100 kbp =  139.20
+    57 CFBP:6617_T_P._brasiliense, N50 = 3291298, L50 = 1, auN = 2490038.3, Total length = 4880585, GC % = 52.16, # N's per 100 kbp =  0.00
+    58 CFIA1001_, N50 = 1163329, L50 = 2, auN = 957031.4, Total length = 4764025, GC % = 52.10, # N's per 100 kbp =  27.18
+    59 CFIA1009_, N50 = 369204, L50 = 5, auN = 411924.9, Total length = 4754624, GC % = 52.15, # N's per 100 kbp =  104.55
+    60 CFIA1033_, N50 = 137219, L50 = 10, auN = 176801.2, Total length = 4701767, GC % = 51.26, # N's per 100 kbp =  43.66
+    61 CJ5-2_, N50 = 4781622, L50 = 1, auN = 4781622.0, Total length = 4781622, GC % = 52.01, # N's per 100 kbp =  0.00
+    62 D3B_, N50 = 322149, L50 = 7, auN = 314870.8, Total length = 4956613, GC % = 52.15, # N's per 100 kbp =  0.00
+    63 DL10-2-1_, N50 = 508416, L50 = 3, auN = 594390.9, Total length = 4862262, GC % = 52.14, # N's per 100 kbp =  0.00
+    64 DL6-4_, N50 = 508428, L50 = 3, auN = 594290.1, Total length = 4863020, GC % = 52.14, # N's per 100 kbp =  0.21
+    65 DM1_, N50 = 129531, L50 = 11, auN = 173232.0, Total length = 5021349, GC % = 52.03, # N's per 100 kbp =  27.62
+    66 Ec-153_, N50 = 349155, L50 = 4, auN = 495610.2, Total length = 4927269, GC % = 52.14, # N's per 100 kbp =  11.89
+    67 Ec-155_, N50 = 325649, L50 = 5, auN = 387750.2, Total length = 4948127, GC % = 52.05, # N's per 100 kbp =  19.54
+    68 F126_, N50 = 5052362, L50 = 1, auN = 5052362.0, Total length = 5052362, GC % = 52.05, # N's per 100 kbp =  0.00
+    69 F152_, N50 = 174410, L50 = 9, auN = 196999.0, Total length = 4764309, GC % = 51.86, # N's per 100 kbp =  0.00
+    70 F157_, N50 = 477849, L50 = 3, auN = 698317.5, Total length = 4863299, GC % = 51.87, # N's per 100 kbp =  0.00
+    71 GG-2023-PCC-0001_, N50 = 357246, L50 = 5, auN = 395070.6, Total length = 5189012, GC % = 52.00, # N's per 100 kbp =  0.00
+    72 GG-2024-PCC-0017_, N50 = 335636, L50 = 5, auN = 394136.3, Total length = 4717486, GC % = 52.16, # N's per 100 kbp =  0.00
+    73 HNP201719_, N50 = 4724337, L50 = 1, auN = 4724337.0, Total length = 4724337, GC % = 52.30, # N's per 100 kbp =  0.00
+    74 ICMP_19477_, N50 = 1120187, L50 = 2, auN = 928881.0, Total length = 4973512, GC % = 52.11, # N's per 100 kbp =  0.30
+    75 IPO:0590_, N50 = 79855, L50 = 20, auN = 92707.0, Total length = 4912014, GC % = 51.07, # N's per 100 kbp =  0.00
+    76 IPO:0821_SCRI:133_, N50 = 1302804, L50 = 2, auN = 1120429.6, Total length = 4664813, GC % = 52.14, # N's per 100 kbp =  60.60
+    77 IPO:3628_, N50 = 389634, L50 = 5, auN = 368074.9, Total length = 4855621, GC % = 51.81, # N's per 100 kbp =  1.30
+    78 IPO:3630_, N50 = 208749, L50 = 9, auN = 211987.6, Total length = 4774546, GC % = 52.09, # N's per 100 kbp =  0.54
+    79 IPO:3643_, N50 = 254536, L50 = 7, auN = 318455.0, Total length = 4985002, GC % = 52.03, # N's per 100 kbp =  8.63
+    80 IPO:3644_, N50 = 42942, L50 = 36, auN = 53943.8, Total length = 4947260, GC % = 51.97, # N's per 100 kbp =  38.10
+    81 IPO:3649_NAK:375_, N50 = 5057861, L50 = 1, auN = 5057861.0, Total length = 5057861, GC % = 52.05, # N's per 100 kbp =  0.00
+    82 IPO:3649_NAK:55_, N50 = 223323, L50 = 7, auN = 301821.8, Total length = 5008400, GC % = 51.84, # N's per 100 kbp =  14.74
+    83 IPO:3650_NAK:376_, N50 = 276072, L50 = 6, auN = 368639.4, Total length = 4996501, GC % = 52.04, # N's per 100 kbp =  4.70
+    84 IPO:3707_NAK:377_, N50 = 266752, L50 = 6, auN = 367054.4, Total length = 4997690, GC % = 52.04, # N's per 100 kbp =  3.46
+    85 IPO:3708_NAK:378_, N50 = 294132, L50 = 5, auN = 377323.9, Total length = 4999382, GC % = 52.04, # N's per 100 kbp =  0.12
+    86 IPO:3709_NAK:379_, N50 = 267039, L50 = 6, auN = 370814.7, Total length = 5095489, GC % = 51.98, # N's per 100 kbp =  8.56
+    87 IPO:3710_NAK:380_, N50 = 5072816, L50 = 1, auN = 5072816.0, Total length = 5072816, GC % = 52.05, # N's per 100 kbp =  0.00
+    88 IPO:3711_NAK:381_, N50 = 293918, L50 = 5, auN = 378101.1, Total length = 5000446, GC % = 52.04, # N's per 100 kbp =  14.50
+    89 IPO:3843_, N50 = 293950, L50 = 5, auN = 377566.6, Total length = 4996909, GC % = 52.05, # N's per 100 kbp =  3.70
+    90 IPO:3844_NAK:382_, N50 = 4094136, L50 = 1, auN = 3581002.2, Total length = 4815292, GC % = 52.07, # N's per 100 kbp =  0.00
+    91 IPO:4054_NAK:231_, N50 = 1507612, L50 = 2, auN = 1817230.7, Total length = 5148095, GC % = 52.06, # N's per 100 kbp =  0.00
+    92 IPO:4055_NAK:152_, N50 = 293851, L50 = 5, auN = 372872.6, Total length = 5000854, GC % = 52.05, # N's per 100 kbp =  12.80
+    93 IPO:4056_NAK:264_, N50 = 854082, L50 = 2, auN = 984919.4, Total length = 4653268, GC % = 52.01, # N's per 100 kbp =  14.08
+    94 IPO:4057_NAK:249_, N50 = 5137126, L50 = 1, auN = 5137126.0, Total length = 5137126, GC % = 51.99, # N's per 100 kbp =  0.00
+    95 IPO:4058_NAK:235_, N50 = 261907, L50 = 7, auN = 278354.3, Total length = 4714984, GC % = 52.05, # N's per 100 kbp =  14.66
+    96 IPO:4060_NAK:251_, N50 = 5063001, L50 = 1, auN = 5063001.0, Total length = 5063001, GC % = 52.07, # N's per 100 kbp =  0.00
+    97 IPO:4062_NAK:237_, N50 = 4832397, L50 = 1, auN = 4832397.0, Total length = 4832397, GC % = 51.85, # N's per 100 kbp =  0.00
+    98 IPO:4064_NAK:242_, N50 = 1556647, L50 = 2, auN = 1325785.2, Total length = 5125342, GC % = 51.95, # N's per 100 kbp =  0.00
+    99 IPO:4065_NAK:223_, N50 = 5059267, L50 = 1, auN = 5059267.0, Total length = 5059267, GC % = 52.05, # N's per 100 kbp =  0.00
+    100 IPO:4066_NAK:259_, N50 = 293904, L50 = 5, auN = 384183.8, Total length = 5035393, GC % = 52.04, # N's per 100 kbp =  9.19
+    101 IPO:4067_NAK:257_, N50 = 2619903, L50 = 1, auN = 2367456.4, Total length = 4685409, GC % = 52.03, # N's per 100 kbp =  0.00
+    102 IPO:4068_NAK:256_, N50 = 4436369, L50 = 1, auN = 4209427.9, Total length = 4683104, GC % = 52.11, # N's per 100 kbp =  0.00
+    103 IPO:4071_NAK:240_, N50 = 5127417, L50 = 1, auN = 5127417.0, Total length = 5127417, GC % = 51.98, # N's per 100 kbp =  0.00
+    104 IPO:4073_, N50 = 414919, L50 = 5, auN = 384999.5, Total length = 4878024, GC % = 52.17, # N's per 100 kbp =  13.18
+    105 IPO:4131_NAK:399_, N50 = 823262, L50 = 3, auN = 608031.9, Total length = 4892180, GC % = 52.03, # N's per 100 kbp =  5.13
+    106 IPO:4132_NAK:239_, N50 = 4832085, L50 = 1, auN = 4832085.0, Total length = 4832085, GC % = 51.99, # N's per 100 kbp =  0.00
+    107 IPO:4134_NAK:395_, N50 = 5049889, L50 = 1, auN = 5049889.0, Total length = 5049889, GC % = 52.05, # N's per 100 kbp =  0.00
+    108 IPO:4135_NAK:383_, N50 = 266788, L50 = 6, auN = 370968.0, Total length = 5092769, GC % = 51.97, # N's per 100 kbp =  7.30
+    109 JD3-4_, N50 = 4800789, L50 = 1, auN = 4787358.3, Total length = 4814278, GC % = 51.95, # N's per 100 kbp =  0.00
+    110 JGAR-030718-1_, N50 = 480269, L50 = 4, auN = 540142.8, Total length = 4893450, GC % = 52.03, # N's per 100 kbp =  18.90
+    111 JGAR-080719-2_, N50 = 480285, L50 = 4, auN = 540044.3, Total length = 4893853, GC % = 52.03, # N's per 100 kbp =  23.78
+    112 JGAR-100719-1_, N50 = 896926, L50 = 3, auN = 643160.2, Total length = 4894444, GC % = 52.03, # N's per 100 kbp =  12.77
+    113 JGAR-120719-4_, N50 = 471894, L50 = 4, auN = 532671.6, Total length = 4893043, GC % = 52.03, # N's per 100 kbp =  14.12
+    114 L25F-74_, N50 = 2727898, L50 = 1, auN = 1721019.1, Total length = 4779012, GC % = 52.07, # N's per 100 kbp =  0.00
+    115 LMG_21370_, N50 = 4926556, L50 = 1, auN = 4926556.0, Total length = 4926556, GC % = 51.92, # N's per 100 kbp =  0.00
+    116 LMG_21371_, N50 = 514700, L50 = 4, auN = 541476.6, Total length = 4818287, GC % = 52.12, # N's per 100 kbp =  0.00
+    117 LMG_21372_, N50 = 1055512, L50 = 2, auN = 1137594.8, Total length = 4920491, GC % = 52.16, # N's per 100 kbp =  0.00
+    118 LMG_2407_, N50 = 133369, L50 = 13, auN = 138798.3, Total length = 4715053, GC % = 52.09, # N's per 100 kbp =  0.00
+    119 MAFF_106568_, N50 = 179252, L50 = 8, auN = 225511.7, Total length = 4836214, GC % = 51.94, # N's per 100 kbp =  11.81
+    120 MAFF_301653_, N50 = 1025922, L50 = 2, auN = 1139123.3, Total length = 4798689, GC % = 52.20, # N's per 100 kbp =  8.02
+    121 MAFF_331060_, N50 = 322364, L50 = 5, auN = 444840.3, Total length = 5012643, GC % = 52.04, # N's per 100 kbp =  3.85
+    122 NAK238_, N50 = 293858, L50 = 5, auN = 377404.3, Total length = 5001191, GC % = 52.04, # N's per 100 kbp =  24.05
+    123 NAK246_, N50 = 276075, L50 = 6, auN = 368003.2, Total length = 5001695, GC % = 52.05, # N's per 100 kbp =  19.19
+    124 NAK616_, N50 = 896856, L50 = 3, auN = 643201.4, Total length = 4893272, GC % = 52.03, # N's per 100 kbp =  21.13
+    125 NAK617_, N50 = 480228, L50 = 4, auN = 540259.1, Total length = 4892341, GC % = 52.03, # N's per 100 kbp =  14.08
+    126 NAK638_, N50 = 480228, L50 = 4, auN = 540174.1, Total length = 4892976, GC % = 52.03, # N's per 100 kbp =  7.52
+    127 NAK641_, N50 = 480322, L50 = 4, auN = 527916.5, Total length = 4843842, GC % = 52.05, # N's per 100 kbp =  13.21
+    128 NAK644_, N50 = 480346, L50 = 4, auN = 554603.8, Total length = 4892725, GC % = 52.03, # N's per 100 kbp =  29.04
+    129 NAK650_, N50 = 896773, L50 = 3, auN = 643212.9, Total length = 4892926, GC % = 52.03, # N's per 100 kbp =  24.46
+    130 NAK673_, N50 = 480307, L50 = 4, auN = 554754.3, Total length = 4893056, GC % = 52.03, # N's per 100 kbp =  14.18
+    131 NAK679_, N50 = 709962, L50 = 3, auN = 589160.4, Total length = 4871097, GC % = 52.02, # N's per 100 kbp =  14.12
+    132 NAK682_, N50 = 293949, L50 = 5, auN = 394419.7, Total length = 5070982, GC % = 51.96, # N's per 100 kbp =  6.76
+    133 NAK683_, N50 = 480228, L50 = 4, auN = 557399.2, Total length = 4892735, GC % = 52.03, # N's per 100 kbp =  14.08
+    134 NAK698_, N50 = 276074, L50 = 6, auN = 352731.3, Total length = 5000108, GC % = 52.05, # N's per 100 kbp =  19.46
+    135 NAK700_, N50 = 264201, L50 = 7, auN = 250237.0, Total length = 4754863, GC % = 51.99, # N's per 100 kbp =  13.08
+    136 NAK701_, N50 = 294023, L50 = 5, auN = 370113.5, Total length = 4970152, GC % = 52.05, # N's per 100 kbp =  19.21
+    137 NAK709_, N50 = 246944, L50 = 8, auN = 250977.6, Total length = 4736694, GC % = 51.93, # N's per 100 kbp =  20.16
+    138 NAK716_, N50 = 433402, L50 = 4, auN = 597616.6, Total length = 4891024, GC % = 51.94, # N's per 100 kbp =  9.53
+    139 NAK719_, N50 = 282504, L50 = 5, auN = 380333.4, Total length = 5036695, GC % = 52.05, # N's per 100 kbp =  23.73
+    140 NAK727_, N50 = 223220, L50 = 7, auN = 343159.8, Total length = 4856787, GC % = 51.84, # N's per 100 kbp =  10.17
+    141 NAK:241_, N50 = 294012, L50 = 5, auN = 377527.6, Total length = 4998593, GC % = 52.05, # N's per 100 kbp =  2.92
+    142 NAK:243_, N50 = 293976, L50 = 5, auN = 376341.0, Total length = 4997720, GC % = 52.04, # N's per 100 kbp =  11.03
+    143 NAK:245_, N50 = 318588, L50 = 4, auN = 458731.4, Total length = 4742145, GC % = 52.00, # N's per 100 kbp =  15.16
+    144 NAK:247_, N50 = 294010, L50 = 5, auN = 371624.4, Total length = 5012605, GC % = 52.05, # N's per 100 kbp =  2.91
+    145 NAK:250_, N50 = 1306006, L50 = 2, auN = 1260663.6, Total length = 4689645, GC % = 52.23, # N's per 100 kbp =  9.49
+    146 NAK:252_, N50 = 224761, L50 = 9, auN = 201565.5, Total length = 4817087, GC % = 51.92, # N's per 100 kbp =  24.54
+    147 NAK:254_, N50 = 454637, L50 = 4, auN = 545639.7, Total length = 4810036, GC % = 52.06, # N's per 100 kbp =  4.47
+    148 NAK:384_, N50 = 266770, L50 = 6, auN = 368840.1, Total length = 5093403, GC % = 51.97, # N's per 100 kbp =  9.91
+    149 NAK:385_, N50 = 261415, L50 = 5, auN = 396959.1, Total length = 4689430, GC % = 52.02, # N's per 100 kbp =  17.64
+    150 NAK:396_, N50 = 261907, L50 = 7, auN = 280256.4, Total length = 4748936, GC % = 52.04, # N's per 100 kbp =  14.99
+    151 NAK:397_, N50 = 294013, L50 = 5, auN = 386957.4, Total length = 5035378, GC % = 52.05, # N's per 100 kbp =  3.50
+    152 NAK:430_, N50 = 293802, L50 = 5, auN = 377639.4, Total length = 4997259, GC % = 52.04, # N's per 100 kbp =  8.72
+    153 NAK:431_, N50 = 264202, L50 = 6, auN = 368391.1, Total length = 5088734, GC % = 51.96, # N's per 100 kbp =  4.70
+    154 NAK:432_, N50 = 174295, L50 = 9, auN = 206562.1, Total length = 4712415, GC % = 51.89, # N's per 100 kbp =  16.81
+    155 NAK:433_, N50 = 116369, L50 = 11, auN = 159631.4, Total length = 4492253, GC % = 51.41, # N's per 100 kbp =  69.92
+    156 NAK:434_, N50 = 182977, L50 = 9, auN = 201141.0, Total length = 4721552, GC % = 52.01, # N's per 100 kbp =  9.98
+    157 NAK:435_, N50 = 180489, L50 = 10, auN = 188134.9, Total length = 4725215, GC % = 52.00, # N's per 100 kbp =  11.58
+    158 NAK:466_, N50 = 622543, L50 = 3, auN = 673673.9, Total length = 4867421, GC % = 52.06, # N's per 100 kbp =  11.90
+    159 NAK:468_, N50 = 231688, L50 = 6, auN = 270051.0, Total length = 4583219, GC % = 51.35, # N's per 100 kbp =  61.01
+    160 NAK:470_, N50 = 130338, L50 = 9, auN = 197307.5, Total length = 4711721, GC % = 51.21, # N's per 100 kbp =  38.61
+    161 NBRC_103133_, N50 = 260983, L50 = 6, auN = 306398.9, Total length = 4769034, GC % = 51.29, # N's per 100 kbp =  10.02
+    162 NCPPB_1639_, N50 = 4780796, L50 = 1, auN = 4780796.0, Total length = 4780796, GC % = 52.19, # N's per 100 kbp =  0.00
+    163 NCPPB_2349_, N50 = 4741104, L50 = 1, auN = 4741104.0, Total length = 4741104, GC % = 51.92, # N's per 100 kbp =  0.00
+    164 NCPPB_3074_, N50 = 4989643, L50 = 1, auN = 4989643.0, Total length = 4989643, GC % = 52.11, # N's per 100 kbp =  0.00
+    165 NCPPB_355_, N50 = 4787789, L50 = 1, auN = 4787789.0, Total length = 4787789, GC % = 52.10, # N's per 100 kbp =  0.00
+    166 NCPPB_552_, N50 = 4808936, L50 = 1, auN = 4797506.7, Total length = 4820420, GC % = 51.41, # N's per 100 kbp =  0.00
+    167 NJAU130_, N50 = 159164, L50 = 10, auN = 180861.8, Total length = 4727539, GC % = 52.12, # N's per 100 kbp =  252.37
+    168 NJAU131_, N50 = 210097, L50 = 9, auN = 197285.3, Total length = 4805398, GC % = 51.99, # N's per 100 kbp =  6.95
+    169 NJAU132_, N50 = 404724, L50 = 4, auN = 503685.7, Total length = 4771830, GC % = 52.24, # N's per 100 kbp =  15.61
+    170 NJAU134_, N50 = 301930, L50 = 5, auN = 351692.3, Total length = 4871263, GC % = 52.18, # N's per 100 kbp =  29.99
+    171 NJAU140_, N50 = 115768, L50 = 16, auN = 119612.6, Total length = 5014393, GC % = 51.66, # N's per 100 kbp =  0.02
+    172 NJAU170_, N50 = 209517, L50 = 9, auN = 197265.3, Total length = 4822135, GC % = 51.99, # N's per 100 kbp =  8.38
+    173 NJAU21_, N50 = 407878, L50 = 4, auN = 547866.4, Total length = 4803621, GC % = 52.19, # N's per 100 kbp =  1.04
+    174 NK5_, N50 = 315537, L50 = 5, auN = 372420.4, Total length = 4912371, GC % = 52.06, # N's per 100 kbp =  0.00
+    175 NY1453A_, N50 = 105503, L50 = 17, auN = 107442.1, Total length = 4855800, GC % = 52.01, # N's per 100 kbp =  0.00
+    176 NY1563A_, N50 = 111181, L50 = 15, auN = 115335.0, Total length = 4655200, GC % = 52.16, # N's per 100 kbp =  0.00
+    177 P3B_, N50 = 246245, L50 = 8, auN = 235083.0, Total length = 4824706, GC % = 52.02, # N's per 100 kbp =  0.00
+    178 PBR1692_, N50 = 75304, L50 = 19, auN = 110541.6, Total length = 4777209, GC % = 52.13, # N's per 100 kbp =  0.00
+    179 PCC1_, N50 = 5111375, L50 = 1, auN = 5111375.0, Total length = 5111375, GC % = 51.77, # N's per 100 kbp =  7.83
+    180 PCC21_, N50 = 4842771, L50 = 1, auN = 4842771.0, Total length = 4842771, GC % = 52.18, # N's per 100 kbp =  0.00
+    181 PD_5190_, N50 = 532026, L50 = 3, auN = 623167.0, Total length = 4721394, GC % = 51.89, # N's per 100 kbp =  0.00
+    182 PD_6952_, N50 = 153853, L50 = 10, auN = 201581.3, Total length = 4910919, GC % = 51.58, # N's per 100 kbp =  0.00
+    183 PD_7079_, N50 = 217367, L50 = 8, auN = 238801.0, Total length = 4704222, GC % = 52.12, # N's per 100 kbp =  0.00
+    184 PD_7081_, N50 = 253987, L50 = 8, auN = 247126.0, Total length = 4726525, GC % = 52.09, # N's per 100 kbp =  0.00
+    185 PD_8610_, N50 = 383243, L50 = 4, auN = 488094.6, Total length = 4719841, GC % = 51.99, # N's per 100 kbp =  0.00
+    186 PD_8611_, N50 = 191818, L50 = 9, auN = 190213.8, Total length = 4704081, GC % = 51.92, # N's per 100 kbp =  0.00
+    187 PL139_, N50 = 5187857, L50 = 1, auN = 5082776.5, Total length = 5297051, GC % = 51.84, # N's per 100 kbp =  0.00
+    188 PP1_, N50 = 470702, L50 = 4, auN = 502274.4, Total length = 4634181, GC % = 52.06, # N's per 100 kbp =  0.00
+    189 PP2_, N50 = 470702, L50 = 4, auN = 502274.5, Total length = 4634181, GC % = 52.06, # N's per 100 kbp =  0.00
+    190 PP5_, N50 = 447827, L50 = 4, auN = 464120.6, Total length = 4633415, GC % = 52.06, # N's per 100 kbp =  0.00
+    191 PcbHPI01_, N50 = 404385, L50 = 4, auN = 553822.9, Total length = 4809180, GC % = 52.15, # N's per 100 kbp =  0.00
+    192 S1.16.01.3K_, N50 = 146844, L50 = 12, auN = 153768.8, Total length = 4946598, GC % = 52.00, # N's per 100 kbp =  0.00
+    193 S2_, N50 = 261972, L50 = 7, auN = 295750.5, Total length = 4836552, GC % = 52.03, # N's per 100 kbp =  8.37
+    194 S4.16.03.1C_, N50 = 139665, L50 = 12, auN = 167341.9, Total length = 4944722, GC % = 52.00, # N's per 100 kbp =  0.00
+    195 SJHS3-1_, N50 = 370949, L50 = 5, auN = 408032.0, Total length = 4853353, GC % = 52.23, # N's per 100 kbp =  0.00
+    196 SR10_, N50 = 4885560, L50 = 1, auN = 4885560.0, Total length = 4885560, GC % = 52.00, # N's per 100 kbp =  0.00
+    197 SR11_, N50 = 418405, L50 = 4, auN = 503032.8, Total length = 4850767, GC % = 52.00, # N's per 100 kbp =  0.00
+    198 SR5_, N50 = 538423, L50 = 4, auN = 485123.4, Total length = 4851919, GC % = 52.00, # N's per 100 kbp =  0.00
+    199 SR6_, N50 = 408271, L50 = 5, auN = 405847.7, Total length = 4853882, GC % = 52.00, # N's per 100 kbp =  0.00
+    200 SR7_, N50 = 209828, L50 = 9, auN = 211001.2, Total length = 4854747, GC % = 52.00, # N's per 100 kbp =  0.00
+    201 SR8_, N50 = 199289, L50 = 7, auN = 250853.9, Total length = 4856264, GC % = 52.00, # N's per 100 kbp =  0.00
+    202 SX309_, N50 = 4966299, L50 = 1, auN = 4966299.0, Total length = 4966299, GC % = 52.18, # N's per 100 kbp =  0.00
+    203 TS20HJ1_, N50 = 4766353, L50 = 1, auN = 4766353.0, Total length = 4766353, GC % = 52.06, # N's per 100 kbp =  0.00
+    204 T_P._nicotianae_21LCBS03, N50 = 4927525, L50 = 1, auN = 4927525.0, Total length = 4927525, GC % = 52.13, # N's per 100 kbp =  0.00
+    205 WZZ2024_, N50 = 4831335, L50 = 1, auN = 4831335.0, Total length = 4831335, GC % = 52.16, # N's per 100 kbp =  0.00
+    206 Y21_, N50 = 385890, L50 = 4, auN = 444616.4, Total length = 4762596, GC % = 52.11, # N's per 100 kbp =  0.10
+    207 Y29_, N50 = 262727, L50 = 6, auN = 417971.8, Total length = 4815476, GC % = 51.87, # N's per 100 kbp =  4.38
+    208 Y31_, N50 = 903350, L50 = 2, auN = 1085833.5, Total length = 4826010, GC % = 52.02, # N's per 100 kbp =  4.58
+    209 Y3_, N50 = 678245, L50 = 3, auN = 684828.4, Total length = 4739849, GC % = 52.12, # N's per 100 kbp =  5.19
+    210 Y49_, N50 = 269637, L50 = 6, auN = 286407.0, Total length = 4702692, GC % = 52.01, # N's per 100 kbp =  5.70
+    211 Y52_, N50 = 429995, L50 = 4, auN = 486409.5, Total length = 4780080, GC % = 52.21, # N's per 100 kbp =  6.76
+    212 Y60_, N50 = 488480, L50 = 3, auN = 599682.7, Total length = 4832431, GC % = 51.96, # N's per 100 kbp =  5.17
+    213 Y62_, N50 = 816391, L50 = 2, auN = 1058340.0, Total length = 4857062, GC % = 51.98, # N's per 100 kbp =  3.99
+    214 Y64_, N50 = 408698, L50 = 3, auN = 675161.6, Total length = 4816280, GC % = 52.14, # N's per 100 kbp =  7.14
+    215 Y65_, N50 = 239237, L50 = 8, auN = 226346.0, Total length = 4680590, GC % = 51.99, # N's per 100 kbp =  0.04
+    216 YC_Y46_, N50 = 265122, L50 = 6, auN = 315910.6, Total length = 4777745, GC % = 52.01, # N's per 100 kbp =  3.39
+    217 ZLMLSHJ5_, N50 = 4700945, L50 = 1, auN = 4700945.0, Total length = 4700945, GC % = 52.24, # N's per 100 kbp =  0.00
+    218 ZRIMU1030_, N50 = 357129, L50 = 5, auN = 379008.8, Total length = 4746330, GC % = 52.16, # N's per 100 kbp =  0.00
+    219 ZRIMU1701_SM_, N50 = 4953627, L50 = 1, auN = 4953627.0, Total length = 4953627, GC % = 52.03, # N's per 100 kbp =  0.00
+    220 ZRIMU1702_DQ_, N50 = 4764461, L50 = 1, auN = 4764461.0, Total length = 4764461, GC % = 52.13, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/GC_content_plot.pdf
+  Drawing 123-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/123-1__GC_content_plot.pdf
+  Drawing 13-115_T_P._jejuense GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/13-115_T_P._jejuense_GC_content_plot.pdf
+  Drawing 130_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/130__GC_content_plot.pdf
+  Drawing 1692_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1692__GC_content_plot.pdf
+  Drawing 17A96_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/17A96__GC_content_plot.pdf
+  Drawing 1950-11_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1950-11__GC_content_plot.pdf
+  Drawing 1950-36_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1950-36__GC_content_plot.pdf
+  Drawing 1950-8_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1950-8__GC_content_plot.pdf
+  Drawing 1950-9_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1950-9__GC_content_plot.pdf
+  Drawing 1Aia_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1Aia__GC_content_plot.pdf
+  Drawing 1Aia_d_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/1Aia_d__GC_content_plot.pdf
+  Drawing 21A07_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/21A07__GC_content_plot.pdf
+  Drawing 21LCBS02_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/21LCBS02__GC_content_plot.pdf
+  Drawing 21PCA_AGRO2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/21PCA_AGRO2__GC_content_plot.pdf
+  Drawing 22038-95_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22038-95__GC_content_plot.pdf
+  Drawing 22DLYP08_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22DLYP08__GC_content_plot.pdf
+  Drawing 22KMSM01_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22KMSM01__GC_content_plot.pdf
+  Drawing 22LCQN01-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN01-1__GC_content_plot.pdf
+  Drawing 22LCQN01-3_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN01-3__GC_content_plot.pdf
+  Drawing 22LCQN01-5_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN01-5__GC_content_plot.pdf
+  Drawing 22LCQN02-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN02-1__GC_content_plot.pdf
+  Drawing 22LCQN02-2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN02-2__GC_content_plot.pdf
+  Drawing 22LCQN02-3_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LCQN02-3__GC_content_plot.pdf
+  Drawing 22LJYL01-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LJYL01-1__GC_content_plot.pdf
+  Drawing 22LXZD03-04_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22LXZD03-04__GC_content_plot.pdf
+  Drawing 22QBSP01-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22QBSP01-1__GC_content_plot.pdf
+  Drawing 22ZTDG03-4_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/22ZTDG03-4__GC_content_plot.pdf
+  Drawing 25ASUB12_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/25ASUB12__GC_content_plot.pdf
+  Drawing 63069-96_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/63069-96__GC_content_plot.pdf
+  Drawing 730028-01_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/730028-01__GC_content_plot.pdf
+  Drawing 80519-93_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/80519-93__GC_content_plot.pdf
+  Drawing 80521-93_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/80521-93__GC_content_plot.pdf
+  Drawing 81145-96A_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/81145-96A__GC_content_plot.pdf
+  Drawing A079-S20-O15_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/A079-S20-O15__GC_content_plot.pdf
+  Drawing A1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/A1__GC_content_plot.pdf
+  Drawing A79-S20-O15_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/A79-S20-O15__GC_content_plot.pdf
+  Drawing ATCC_39048_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ATCC_39048__GC_content_plot.pdf
+  Drawing B6_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/B6__GC_content_plot.pdf
+  Drawing BC1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BC1__GC_content_plot.pdf
+  Drawing BD163_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BD163__GC_content_plot.pdf
+  Drawing BD255_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BD255__GC_content_plot.pdf
+  Drawing BF20_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BF20__GC_content_plot.pdf
+  Drawing BF45_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BF45__GC_content_plot.pdf
+  Drawing BL-2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BL-2__GC_content_plot.pdf
+  Drawing BP7081_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BP7081__GC_content_plot.pdf
+  Drawing BS1113_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BS1113__GC_content_plot.pdf
+  Drawing BSHS4_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BSHS4__GC_content_plot.pdf
+  Drawing BSRLOP2CAB_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BSRLOP2CAB__GC_content_plot.pdf
+  Drawing BSROG1CAUL_A_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BSROG1CAUL_A__GC_content_plot.pdf
+  Drawing BY2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BY2__GC_content_plot.pdf
+  Drawing BZA12_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/BZA12__GC_content_plot.pdf
+  Drawing CD23111_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CD23111__GC_content_plot.pdf
+  Drawing CFBP3230_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFBP3230__GC_content_plot.pdf
+  Drawing CFBP5381_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFBP5381__GC_content_plot.pdf
+  Drawing CFBP7357_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFBP7357__GC_content_plot.pdf
+  Drawing CFBP8736_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFBP8736__GC_content_plot.pdf
+  Drawing CFBP:6617_T_P._brasiliense GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFBP:6617_T_P._brasiliense_GC_content_plot.pdf
+  Drawing CFIA1001_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFIA1001__GC_content_plot.pdf
+  Drawing CFIA1009_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFIA1009__GC_content_plot.pdf
+  Drawing CFIA1033_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CFIA1033__GC_content_plot.pdf
+  Drawing CJ5-2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/CJ5-2__GC_content_plot.pdf
+  Drawing D3B_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/D3B__GC_content_plot.pdf
+  Drawing DL10-2-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/DL10-2-1__GC_content_plot.pdf
+  Drawing DL6-4_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/DL6-4__GC_content_plot.pdf
+  Drawing DM1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/DM1__GC_content_plot.pdf
+  Drawing Ec-153_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Ec-153__GC_content_plot.pdf
+  Drawing Ec-155_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Ec-155__GC_content_plot.pdf
+  Drawing F126_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/F126__GC_content_plot.pdf
+  Drawing F152_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/F152__GC_content_plot.pdf
+  Drawing F157_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/F157__GC_content_plot.pdf
+  Drawing GG-2023-PCC-0001_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/GG-2023-PCC-0001__GC_content_plot.pdf
+  Drawing GG-2024-PCC-0017_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/GG-2024-PCC-0017__GC_content_plot.pdf
+  Drawing HNP201719_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/HNP201719__GC_content_plot.pdf
+  Drawing ICMP_19477_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ICMP_19477__GC_content_plot.pdf
+  Drawing IPO:0590_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:0590__GC_content_plot.pdf
+  Drawing IPO:0821_SCRI:133_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:0821_SCRI:133__GC_content_plot.pdf
+  Drawing IPO:3628_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3628__GC_content_plot.pdf
+  Drawing IPO:3630_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3630__GC_content_plot.pdf
+  Drawing IPO:3643_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3643__GC_content_plot.pdf
+  Drawing IPO:3644_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3644__GC_content_plot.pdf
+  Drawing IPO:3649_NAK:375_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3649_NAK:375__GC_content_plot.pdf
+  Drawing IPO:3649_NAK:55_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3649_NAK:55__GC_content_plot.pdf
+  Drawing IPO:3650_NAK:376_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3650_NAK:376__GC_content_plot.pdf
+  Drawing IPO:3707_NAK:377_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3707_NAK:377__GC_content_plot.pdf
+  Drawing IPO:3708_NAK:378_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3708_NAK:378__GC_content_plot.pdf
+  Drawing IPO:3709_NAK:379_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3709_NAK:379__GC_content_plot.pdf
+  Drawing IPO:3710_NAK:380_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3710_NAK:380__GC_content_plot.pdf
+  Drawing IPO:3711_NAK:381_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3711_NAK:381__GC_content_plot.pdf
+  Drawing IPO:3843_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3843__GC_content_plot.pdf
+  Drawing IPO:3844_NAK:382_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:3844_NAK:382__GC_content_plot.pdf
+  Drawing IPO:4054_NAK:231_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4054_NAK:231__GC_content_plot.pdf
+  Drawing IPO:4055_NAK:152_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4055_NAK:152__GC_content_plot.pdf
+  Drawing IPO:4056_NAK:264_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4056_NAK:264__GC_content_plot.pdf
+  Drawing IPO:4057_NAK:249_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4057_NAK:249__GC_content_plot.pdf
+  Drawing IPO:4058_NAK:235_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4058_NAK:235__GC_content_plot.pdf
+  Drawing IPO:4060_NAK:251_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4060_NAK:251__GC_content_plot.pdf
+  Drawing IPO:4062_NAK:237_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4062_NAK:237__GC_content_plot.pdf
+  Drawing IPO:4064_NAK:242_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4064_NAK:242__GC_content_plot.pdf
+  Drawing IPO:4065_NAK:223_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4065_NAK:223__GC_content_plot.pdf
+  Drawing IPO:4066_NAK:259_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4066_NAK:259__GC_content_plot.pdf
+  Drawing IPO:4067_NAK:257_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4067_NAK:257__GC_content_plot.pdf
+  Drawing IPO:4068_NAK:256_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4068_NAK:256__GC_content_plot.pdf
+  Drawing IPO:4071_NAK:240_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4071_NAK:240__GC_content_plot.pdf
+  Drawing IPO:4073_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4073__GC_content_plot.pdf
+  Drawing IPO:4131_NAK:399_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4131_NAK:399__GC_content_plot.pdf
+  Drawing IPO:4132_NAK:239_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4132_NAK:239__GC_content_plot.pdf
+  Drawing IPO:4134_NAK:395_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4134_NAK:395__GC_content_plot.pdf
+  Drawing IPO:4135_NAK:383_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/IPO:4135_NAK:383__GC_content_plot.pdf
+  Drawing JD3-4_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/JD3-4__GC_content_plot.pdf
+  Drawing JGAR-030718-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/JGAR-030718-1__GC_content_plot.pdf
+  Drawing JGAR-080719-2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/JGAR-080719-2__GC_content_plot.pdf
+  Drawing JGAR-100719-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/JGAR-100719-1__GC_content_plot.pdf
+  Drawing JGAR-120719-4_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/JGAR-120719-4__GC_content_plot.pdf
+  Drawing L25F-74_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/L25F-74__GC_content_plot.pdf
+  Drawing LMG_21370_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/LMG_21370__GC_content_plot.pdf
+  Drawing LMG_21371_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/LMG_21371__GC_content_plot.pdf
+  Drawing LMG_21372_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/LMG_21372__GC_content_plot.pdf
+  Drawing LMG_2407_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/LMG_2407__GC_content_plot.pdf
+  Drawing MAFF_106568_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/MAFF_106568__GC_content_plot.pdf
+  Drawing MAFF_301653_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/MAFF_301653__GC_content_plot.pdf
+  Drawing MAFF_331060_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/MAFF_331060__GC_content_plot.pdf
+  Drawing NAK238_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK238__GC_content_plot.pdf
+  Drawing NAK246_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK246__GC_content_plot.pdf
+  Drawing NAK616_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK616__GC_content_plot.pdf
+  Drawing NAK617_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK617__GC_content_plot.pdf
+  Drawing NAK638_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK638__GC_content_plot.pdf
+  Drawing NAK641_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK641__GC_content_plot.pdf
+  Drawing NAK644_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK644__GC_content_plot.pdf
+  Drawing NAK650_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK650__GC_content_plot.pdf
+  Drawing NAK673_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK673__GC_content_plot.pdf
+  Drawing NAK679_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK679__GC_content_plot.pdf
+  Drawing NAK682_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK682__GC_content_plot.pdf
+  Drawing NAK683_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK683__GC_content_plot.pdf
+  Drawing NAK698_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK698__GC_content_plot.pdf
+  Drawing NAK700_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK700__GC_content_plot.pdf
+  Drawing NAK701_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK701__GC_content_plot.pdf
+  Drawing NAK709_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK709__GC_content_plot.pdf
+  Drawing NAK716_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK716__GC_content_plot.pdf
+  Drawing NAK719_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK719__GC_content_plot.pdf
+  Drawing NAK727_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK727__GC_content_plot.pdf
+  Drawing NAK:241_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:241__GC_content_plot.pdf
+  Drawing NAK:243_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:243__GC_content_plot.pdf
+  Drawing NAK:245_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:245__GC_content_plot.pdf
+  Drawing NAK:247_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:247__GC_content_plot.pdf
+  Drawing NAK:250_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:250__GC_content_plot.pdf
+  Drawing NAK:252_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:252__GC_content_plot.pdf
+  Drawing NAK:254_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:254__GC_content_plot.pdf
+  Drawing NAK:384_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:384__GC_content_plot.pdf
+  Drawing NAK:385_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:385__GC_content_plot.pdf
+  Drawing NAK:396_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:396__GC_content_plot.pdf
+  Drawing NAK:397_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:397__GC_content_plot.pdf
+  Drawing NAK:430_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:430__GC_content_plot.pdf
+  Drawing NAK:431_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:431__GC_content_plot.pdf
+  Drawing NAK:432_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:432__GC_content_plot.pdf
+  Drawing NAK:433_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:433__GC_content_plot.pdf
+  Drawing NAK:434_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:434__GC_content_plot.pdf
+  Drawing NAK:435_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:435__GC_content_plot.pdf
+  Drawing NAK:466_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:466__GC_content_plot.pdf
+  Drawing NAK:468_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:468__GC_content_plot.pdf
+  Drawing NAK:470_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NAK:470__GC_content_plot.pdf
+  Drawing NBRC_103133_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NBRC_103133__GC_content_plot.pdf
+  Drawing NCPPB_1639_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NCPPB_1639__GC_content_plot.pdf
+  Drawing NCPPB_2349_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NCPPB_2349__GC_content_plot.pdf
+  Drawing NCPPB_3074_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NCPPB_3074__GC_content_plot.pdf
+  Drawing NCPPB_355_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NCPPB_355__GC_content_plot.pdf
+  Drawing NCPPB_552_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NCPPB_552__GC_content_plot.pdf
+  Drawing NJAU130_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU130__GC_content_plot.pdf
+  Drawing NJAU131_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU131__GC_content_plot.pdf
+  Drawing NJAU132_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU132__GC_content_plot.pdf
+  Drawing NJAU134_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU134__GC_content_plot.pdf
+  Drawing NJAU140_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU140__GC_content_plot.pdf
+  Drawing NJAU170_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU170__GC_content_plot.pdf
+  Drawing NJAU21_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NJAU21__GC_content_plot.pdf
+  Drawing NK5_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NK5__GC_content_plot.pdf
+  Drawing NY1453A_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NY1453A__GC_content_plot.pdf
+  Drawing NY1563A_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/NY1563A__GC_content_plot.pdf
+  Drawing P3B_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/P3B__GC_content_plot.pdf
+  Drawing PBR1692_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PBR1692__GC_content_plot.pdf
+  Drawing PCC1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PCC1__GC_content_plot.pdf
+  Drawing PCC21_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PCC21__GC_content_plot.pdf
+  Drawing PD_5190_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_5190__GC_content_plot.pdf
+  Drawing PD_6952_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_6952__GC_content_plot.pdf
+  Drawing PD_7079_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_7079__GC_content_plot.pdf
+  Drawing PD_7081_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_7081__GC_content_plot.pdf
+  Drawing PD_8610_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_8610__GC_content_plot.pdf
+  Drawing PD_8611_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PD_8611__GC_content_plot.pdf
+  Drawing PL139_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PL139__GC_content_plot.pdf
+  Drawing PP1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PP1__GC_content_plot.pdf
+  Drawing PP2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PP2__GC_content_plot.pdf
+  Drawing PP5_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PP5__GC_content_plot.pdf
+  Drawing PcbHPI01_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/PcbHPI01__GC_content_plot.pdf
+  Drawing S1.16.01.3K_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/S1.16.01.3K__GC_content_plot.pdf
+  Drawing S2_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/S2__GC_content_plot.pdf
+  Drawing S4.16.03.1C_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/S4.16.03.1C__GC_content_plot.pdf
+  Drawing SJHS3-1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SJHS3-1__GC_content_plot.pdf
+  Drawing SR10_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR10__GC_content_plot.pdf
+  Drawing SR11_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR11__GC_content_plot.pdf
+  Drawing SR5_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR5__GC_content_plot.pdf
+  Drawing SR6_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR6__GC_content_plot.pdf
+  Drawing SR7_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR7__GC_content_plot.pdf
+  Drawing SR8_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SR8__GC_content_plot.pdf
+  Drawing SX309_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/SX309__GC_content_plot.pdf
+  Drawing TS20HJ1_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/TS20HJ1__GC_content_plot.pdf
+  Drawing T_P._nicotianae_21LCBS03 GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/T_P._nicotianae_21LCBS03_GC_content_plot.pdf
+  Drawing WZZ2024_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/WZZ2024__GC_content_plot.pdf
+  Drawing Y21_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y21__GC_content_plot.pdf
+  Drawing Y29_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y29__GC_content_plot.pdf
+  Drawing Y31_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y31__GC_content_plot.pdf
+  Drawing Y3_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y3__GC_content_plot.pdf
+  Drawing Y49_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y49__GC_content_plot.pdf
+  Drawing Y52_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y52__GC_content_plot.pdf
+  Drawing Y60_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y60__GC_content_plot.pdf
+  Drawing Y62_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y62__GC_content_plot.pdf
+  Drawing Y64_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y64__GC_content_plot.pdf
+  Drawing Y65_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/Y65__GC_content_plot.pdf
+  Drawing YC_Y46_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/YC_Y46__GC_content_plot.pdf
+  Drawing ZLMLSHJ5_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ZLMLSHJ5__GC_content_plot.pdf
+  Drawing ZRIMU1030_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ZRIMU1030__GC_content_plot.pdf
+  Drawing ZRIMU1701_SM_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ZRIMU1701_SM__GC_content_plot.pdf
+  Drawing ZRIMU1702_DQ_ GC content plot...
+    saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/basic_stats/ZRIMU1702_DQ__GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-11-10 15:50:32
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2026-11-10 15:50:56
+RESULTS:
+  Text versions of total report are saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/report.html
+  PDF version (tables and plots) is saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/report.pdf
+  Icarus (contig browser) is saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/icarus.html
+  Log is saved to /data/djs217/PROJECTS/44_Pectobacterium/09_quast/quast_results/results_2026_11_10_15_49_29/quast.log
+
+Finished: 2026-11-10 15:50:56
+Elapsed time: 0:01:27.226458
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
