@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+CFIA1001_	4765951	4748825	17126

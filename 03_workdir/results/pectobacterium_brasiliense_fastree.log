@@ -1,0 +1,1349 @@
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y3_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3500494 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y3_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y3_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3500494.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3500494.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1001_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3502728 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1001_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1001_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3502728.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3502728.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK616_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3504896 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK616_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK616_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3504896.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3504896.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_100719_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3506663 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_100719_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_100719_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3506663.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3506663.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4071_NAK_240_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3508687 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4071_NAK_240_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4071_NAK_240_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3508687.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3508687.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S1_16_01_3K_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3511055 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S1_16_01_3K_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S1_16_01_3K_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3511055.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3511055.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4131_NAK_399_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3512515 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4131_NAK_399_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4131_NAK_399_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3512515.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3512515.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_430_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3514392 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_430_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_430_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3514392.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3514392.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK679_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3516527 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK679_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK679_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3516527.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3516527.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_36_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3517925 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_36_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_36_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3517925.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3517925.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PcbHPI01_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3519125 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PcbHPI01_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PcbHPI01_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3519125.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3519125.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SX309_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3520386 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SX309_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SX309_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3520386.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3520386.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_250_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3521941 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_250_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_250_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3521941.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3521941.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP3230_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3523990 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP3230_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP3230_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3523990.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3523990.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU132_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3525341 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU132_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU132_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3525341.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3525341.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/17A96_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3526879 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/17A96_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/17A96_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3526879.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3526879.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CJ5_2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3528092 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CJ5_2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CJ5_2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3528092.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3528092.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4134_NAK_395_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3529709 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4134_NAK_395_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4134_NAK_395_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3529709.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3529709.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S4_16_03_1C_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3531123 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S4_16_03_1C_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S4_16_03_1C_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3531123.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3531123.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_432_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3532250 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_432_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_432_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3532250.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3532250.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK650_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3533538 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK650_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK650_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3533538.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3533538.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3534787 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3534787.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3534787.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3707_NAK_377_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3536080 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3707_NAK_377_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3707_NAK_377_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3536080.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3536080.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SJHS3_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3540926 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SJHS3_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SJHS3_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3540926.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3540926.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F157_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3542194 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F157_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F157_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3542194.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3542194.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3709_NAK_379_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3543759 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3709_NAK_379_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3709_NAK_379_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3543759.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3543759.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80519_93_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3545861 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80519_93_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80519_93_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3545861.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3545861.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/L25F_74_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3547153 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/L25F_74_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/L25F_74_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3547153.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3547153.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3711_NAK_381_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3547761 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3711_NAK_381_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3711_NAK_381_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3547761.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3547761.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK638_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3550167 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK638_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK638_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3550167.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3550167.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A79_S20_O15_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3551513 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A79_S20_O15_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A79_S20_O15_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3551513.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3551513.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2024_PCC_0017_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3552751 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2024_PCC_0017_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2024_PCC_0017_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3552751.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3552751.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_120719_4_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3554241 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_120719_4_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_120719_4_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3554241.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3554241.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK716_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3555697 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK716_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK716_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3555697.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3555697.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_155_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3556987 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_155_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_155_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3556987.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3556987.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL6_4_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3558593 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL6_4_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL6_4_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3558593.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3558593.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1701_SM_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3559970 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1701_SM_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1701_SM_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3559970.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3559970.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BL_2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3561567 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BL_2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BL_2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3561567.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3561567.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF45_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3562747 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF45_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF45_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3562747.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3562747.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZLMLSHJ5_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3564234 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZLMLSHJ5_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZLMLSHJ5_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3564234.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3564234.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_245_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3565652 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_245_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_245_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3565652.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3565652.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_434_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3567350 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_434_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_434_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3567350.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3567350.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_254_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3568914 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_254_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_254_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3568914.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3568914.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_384_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3570324 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_384_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_384_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3570324.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3570324.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU140_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3572330 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU140_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU140_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3572330.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3572330.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3574574 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3574574.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3574574.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BS1113_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3575853 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BS1113_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BS1113_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3575853.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3575853.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/13_115_T_P__jejuense.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3577410 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/13_115_T_P__jejuense.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/13_115_T_P__jejuense.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3577410.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3577410.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_3074_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3578841 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_3074_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_3074_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3578841.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3578841.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_468_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3580401 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_468_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_468_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3580401.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3580401.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3628_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3582352 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3628_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3628_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3582352.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3582352.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22QBSP01_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3583794 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22QBSP01_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22QBSP01_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3583794.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3583794.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4054_NAK_231_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3585208 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4054_NAK_231_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4054_NAK_231_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3585208.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3585208.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_466_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3586867 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_466_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_466_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3586867.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3586867.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3843_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3588664 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3843_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3843_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3588664.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3588664.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1030_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3590222 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1030_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1030_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3590222.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3590222.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL10_2_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3591914 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL10_2_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DL10_2_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3591914.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3591914.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NBRC_103133_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3592940 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NBRC_103133_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NBRC_103133_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3592940.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3592940.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP5381_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3594670 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP5381_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP5381_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3594670.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3594670.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3710_NAK_380_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3595924 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3710_NAK_380_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3710_NAK_380_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3595924.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3595924.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK701_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3597798 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK701_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK701_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3597798.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3597798.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y64_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3599270 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y64_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y64_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3599270.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3599270.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21370_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3600544 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21370_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21370_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3600544.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3600544.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/81145_96A_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3602230 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/81145_96A_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/81145_96A_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3602230.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3602230.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PL139_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3603539 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PL139_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PL139_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3603539.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3603539.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_355_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3605222 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_355_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_355_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3605222.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3605222.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU130_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3606709 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU130_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU130_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3606709.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3606709.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_241_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3608230 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_241_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_241_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3608230.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3608230.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR10_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3610065 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR10_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR10_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3610065.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3610065.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_470_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3611347 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_470_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_470_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3611347.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3611347.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_2407_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3612817 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_2407_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_2407_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3612817.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3612817.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/123_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3614471 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/123_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/123_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3614471.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3614471.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_8_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3615886 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_8_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_8_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3615886.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3615886.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1563A_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3617172 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1563A_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1563A_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3617172.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3617172.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSHS4_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3618447 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSHS4_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSHS4_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3618447.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3618447.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/P3B_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3620294 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/P3B_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/P3B_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3620294.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3620294.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_331060_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3621892 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_331060_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_331060_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3621892.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3621892.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK644_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3623415 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK644_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK644_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3623415.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3623415.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1033_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3624847 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1033_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1033_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3624847.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3624847.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK700_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3626459 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK700_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK700_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3626459.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3626459.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F126_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3627697 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F126_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F126_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3627697.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3627697.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR8_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3629434 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR8_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR8_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3629434.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3629434.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y49_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3630714 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y49_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y49_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3630714.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3630714.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_080719_2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3632097 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_080719_2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_080719_2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3632097.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3632097.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR7_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3633699 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR7_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR7_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3633699.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3633699.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/WZZ2024_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3634981 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/WZZ2024_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/WZZ2024_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3634981.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3634981.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK246_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3636484 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK246_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK246_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3636484.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3636484.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1702_DQ_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3638064 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1702_DQ_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ZRIMU1702_DQ_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3638064.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3638064.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y62_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3639496 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y62_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y62_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3639496.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3639496.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3641039 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3641039.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3641039.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK238_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3642348 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK238_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK238_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3642348.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3642348.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y60_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3643950 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y60_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y60_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3643950.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3643950.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4066_NAK_259_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3645466 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4066_NAK_259_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4066_NAK_259_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3645466.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3645466.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3708_NAK_378_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3647500 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3708_NAK_378_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3708_NAK_378_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3647500.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3647500.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/TS20HJ1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3650550 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/TS20HJ1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/TS20HJ1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3650550.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3650550.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y31_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3652280 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y31_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y31_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3652280.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3652280.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_6952_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3654149 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_6952_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_6952_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3654149.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3654149.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y65_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3655520 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y65_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y65_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3655520.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3655520.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_3_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3657112 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_3_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_3_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3657112.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3657112.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y29_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3658492 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y29_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y29_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3658492.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3658492.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3659786 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3659786.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3659786.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK682_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3661064 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK682_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK682_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3661064.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3661064.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_247_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3662646 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_247_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_247_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3662646.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3662646.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BY2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3664352 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BY2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BY2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3664352.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3664352.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3644_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3665864 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3644_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3644_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3665864.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3665864.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8611_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3667045 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8611_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8611_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3667045.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3667045.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/HNP201719_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3668423 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/HNP201719_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/HNP201719_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3668423.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3668423.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CD23111_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3669997 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CD23111_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CD23111_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3669997.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3669997.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3671638 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3671638.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3671638.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3630_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3672554 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3630_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3630_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3672554.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3672554.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_5190_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3673961 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_5190_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_5190_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3673961.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3673961.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/730028_01_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3675245 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/730028_01_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/730028_01_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3675245.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3675245.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3676526 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3676526.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3676526.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_243_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3677915 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_243_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_243_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3677915.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3677915.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_385_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3680755 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_385_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_385_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3680755.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3680755.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSRLOP2CAB_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3685221 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSRLOP2CAB_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSRLOP2CAB_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3685221.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3685221.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DM1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3686693 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DM1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/DM1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3686693.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3686693.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21372_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3688061 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21372_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21372_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3688061.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3688061.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LXZD03_04_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3689334 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LXZD03_04_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LXZD03_04_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3689334.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3689334.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22KMSM01_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3690763 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22KMSM01_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22KMSM01_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3690763.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3690763.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1692_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3692312 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1692_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1692_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3692312.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3692312.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7079_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3693730 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7079_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7079_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3693730.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3693730.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/B6_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3694909 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/B6_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/B6_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3694909.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3694909.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/D3B_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3696488 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/D3B_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/D3B_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3696488.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3696488.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21LCBS02_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3698200 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21LCBS02_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21LCBS02_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3698200.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3698200.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7081_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3699962 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7081_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_7081_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3699962.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3699962.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP7357_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3701244 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP7357_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP7357_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3701244.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3701244.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_552_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3702630 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_552_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_552_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3702630.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3702630.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JD3_4_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3704284 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JD3_4_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JD3_4_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3704284.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3704284.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD163_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3705859 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD163_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD163_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3705859.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3705859.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4060_NAK_251_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3707231 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4060_NAK_251_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4060_NAK_251_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3707231.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3707231.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK641_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3708934 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK641_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK641_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3708934.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3708934.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3710270 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/S2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3710270.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3710270.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_2349_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3712225 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_2349_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_2349_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3712225.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3712225.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_9_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3713512 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_9_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_9_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3713512.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3713512.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4065_NAK_223_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3714694 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4065_NAK_223_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4065_NAK_223_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3714694.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3714694.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8610_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3716490 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8610_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PD_8610_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3716490.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3716490.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK719_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3717803 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK719_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK719_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3717803.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3717803.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22DLYP08_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3719368 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22DLYP08_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22DLYP08_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3719368.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3719368.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_106568_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3720779 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_106568_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_106568_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3720779.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3720779.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/YC_Y46_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3721933 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/YC_Y46_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/YC_Y46_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3721933.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3721933.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU21_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3723225 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU21_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU21_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3723225.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3723225.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3844_NAK_382_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3724638 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3844_NAK_382_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3844_NAK_382_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3724638.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3724638.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3725918 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN02_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3725918.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3725918.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_1639_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3727460 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_1639_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NCPPB_1639_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3727460.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3727460.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD255_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3729003 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD255_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BD255_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3729003.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3729003.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0821_SCRI_133_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3730449 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0821_SCRI_133_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0821_SCRI_133_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3730449.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3730449.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21PCA_AGRO2_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3731756 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21PCA_AGRO2_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21PCA_AGRO2_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3731756.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3731756.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_433_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3733873 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_433_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_433_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3733873.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3733873.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP8736_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3735827 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP8736_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP8736_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3735827.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3735827.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LJYL01_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3736852 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LJYL01_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LJYL01_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3736852.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3736852.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A079_S20_O15_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3738533 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A079_S20_O15_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/A079_S20_O15_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3738533.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3738533.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_435_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3739821 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_435_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_435_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3739821.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3739821.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSROG1CAUL_A_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3741454 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSROG1CAUL_A_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BSROG1CAUL_A_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3741454.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3741454.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4057_NAK_249_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3743211 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4057_NAK_249_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4057_NAK_249_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3743211.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3743211.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR6_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3744830 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR6_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR6_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3744830.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3744830.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU170_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3746205 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU170_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU170_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3746205.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3746205.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NK5_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3747818 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NK5_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NK5_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3747818.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3747818.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BC1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3749228 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BC1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BC1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3749228.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3749228.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR11_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3750864 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR11_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR11_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3750864.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3750864.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2023_PCC_0001_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3752062 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2023_PCC_0001_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/GG_2023_PCC_0001_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3752062.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3752062.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC21_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3753576 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC21_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC21_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3753576.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3753576.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU131_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3755040 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU131_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU131_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3755040.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3755040.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y52_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3756420 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y52_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y52_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3756420.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3756420.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_301653_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3757836 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_301653_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/MAFF_301653_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3757836.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3757836.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4062_NAK_237_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3759403 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4062_NAK_237_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4062_NAK_237_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3759403.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3759403.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21A07_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3760895 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21A07_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/21A07_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3760895.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3760895.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ICMP_19477_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3762091 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ICMP_19477_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ICMP_19477_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3762091.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3762091.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_252_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3763302 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_252_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_252_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3763302.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3763302.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_153_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3764780 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_153_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Ec_153_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3764780.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3764780.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4135_NAK_383_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3766568 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4135_NAK_383_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4135_NAK_383_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3766568.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3766568.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4056_NAK_264_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3768246 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4056_NAK_264_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4056_NAK_264_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3768246.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3768246.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_030718_1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3769699 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_030718_1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/JGAR_030718_1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3769699.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3769699.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PBR1692_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3771107 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PBR1692_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PBR1692_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3771107.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3771107.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU134_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3772460 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU134_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NJAU134_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3772460.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3772460.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR5_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3774043 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR5_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/SR5_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3774043.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3774043.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_431_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3775322 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_431_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_431_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3775322.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3775322.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_3_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3776883 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_3_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_3_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3776883.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3776883.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_375_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3778485 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_375_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_375_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3778485.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3778485.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22038_95_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3780182 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22038_95_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22038_95_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3780182.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3780182.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4068_NAK_256_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3781561 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4068_NAK_256_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4068_NAK_256_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3781561.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3781561.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK727_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3782856 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK727_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK727_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3782856.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3782856.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/T_P__nicotianae_21LCBS03.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3784135 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/T_P__nicotianae_21LCBS03.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/T_P__nicotianae_21LCBS03.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3784135.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3784135.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4132_NAK_239_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3785834 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4132_NAK_239_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4132_NAK_239_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3785834.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3785834.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4058_NAK_235_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3787108 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4058_NAK_235_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4058_NAK_235_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3787108.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3787108.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BP7081_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3788806 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BP7081_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BP7081_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3788806.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3788806.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4064_NAK_242_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3790386 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4064_NAK_242_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4064_NAK_242_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3790386.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3790386.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BZA12_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3792143 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BZA12_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BZA12_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3792143.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3792143.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_11_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3793498 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_11_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1950_11_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3793498.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3793498.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y21_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3794926 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y21_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/Y21_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3794926.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3794926.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK698_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3796387 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK698_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK698_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3796387.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3796387.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1453A_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3797363 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1453A_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NY1453A_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3797363.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3797363.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK617_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3798577 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK617_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK617_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3798577.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3798577.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3643_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3799933 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3643_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3643_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3799933.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3799933.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1009_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3801200 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1009_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFIA1009_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3801200.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3801200.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80521_93_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3802487 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80521_93_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/80521_93_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3802487.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3802487.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/25ASUB12_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3804188 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/25ASUB12_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/25ASUB12_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3804188.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3804188.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3650_NAK_376_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3805795 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3650_NAK_376_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3650_NAK_376_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3805795.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3805795.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ATCC_39048_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3807574 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ATCC_39048_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/ATCC_39048_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3807574.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3807574.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0590_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3808864 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0590_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_0590_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3808864.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3808864.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F152_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3810563 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F152_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/F152_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3810563.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3810563.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_d_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3812172 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_d_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_d_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3812172.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3812172.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF20_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3813542 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF20_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/BF20_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3813542.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3813542.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC1_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3815131 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC1_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PCC1_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3815131.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3815131.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/63069_96_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3817359 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/63069_96_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/63069_96_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3817359.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3817359.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_396_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3818776 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_396_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_396_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3818776.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3818776.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/130_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3820337 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/130_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/130_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3820337.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3820337.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4073_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3822024 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4073_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4073_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3822024.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3822024.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4055_NAK_152_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3823444 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4055_NAK_152_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4055_NAK_152_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3823444.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3823444.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK673_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3826965 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK673_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK673_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3826965.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3826965.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP_6617_T_P__brasiliense.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3828380 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP_6617_T_P__brasiliense.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/CFBP_6617_T_P__brasiliense.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3828380.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3828380.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_397_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3829694 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_397_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK_397_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3829694.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3829694.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP5_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3834133 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP5_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/PP5_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3834133.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3834133.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_5_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3835536 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_5_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22LCQN01_5_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3835536.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3835536.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3837109 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/1Aia_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3837109.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3837109.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4067_NAK_257_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3838618 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4067_NAK_257_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_4067_NAK_257_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3838618.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3838618.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK709_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3840087 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK709_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK709_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3840087.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3840087.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22ZTDG03_4_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3841503 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22ZTDG03_4_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/22ZTDG03_4_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3841503.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3841503.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK683_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3842998 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK683_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/NAK683_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3842998.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3842998.coords
+
+Running self-nucmer on /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_55_.fna
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq3844349 /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_55_.fna /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/IPO_3649_NAK_55_.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq3844349.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq3844349.coords
+
+Repeat coords for all references found.
+Self-NUCmer complete
+==================================================================
+Aligning to the reference genome /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna
+
+Running nucmer on LMG_21371__Y3_
+Running nucmer on LMG_21371__CFIA1001_
+Running nucmer on LMG_21371__NAK616_
+Running nucmer on LMG_21371__JGAR_100719_1_
+Running nucmer on LMG_21371__IPO_4071_NAK_240_
+Running nucmer on LMG_21371__S1_16_01_3K_
+Running nucmer on LMG_21371__IPO_4131_NAK_399_
+Running nucmer on LMG_21371__NAK_430_
+Running nucmer on LMG_21371__NAK679_
+Running nucmer on LMG_21371__1950_36_
+Running nucmer on LMG_21371__PcbHPI01_
+Running nucmer on LMG_21371__SX309_
+Running nucmer on LMG_21371__NAK_250_
+Running nucmer on LMG_21371__CFBP3230_
+Running nucmer on LMG_21371__NJAU132_
+Running nucmer on LMG_21371__17A96_
+Running nucmer on LMG_21371__CJ5_2_
+Running nucmer on LMG_21371__IPO_4134_NAK_395_
+Running nucmer on LMG_21371__S4_16_03_1C_
+Running nucmer on LMG_21371__NAK_432_
+Running nucmer on LMG_21371__NAK650_
+Running nucmer on LMG_21371__PP1_
+Running nucmer on LMG_21371__IPO_3707_NAK_377_
+Running nucmer on LMG_21371__SJHS3_1_
+Running nucmer on LMG_21371__F157_
+Running nucmer on LMG_21371__IPO_3709_NAK_379_
+Running nucmer on LMG_21371__80519_93_
+Running nucmer on LMG_21371__L25F_74_
+Running nucmer on LMG_21371__IPO_3711_NAK_381_
+Running nucmer on LMG_21371__NAK638_
+Running nucmer on LMG_21371__A79_S20_O15_
+Running nucmer on LMG_21371__GG_2024_PCC_0017_
+Running nucmer on LMG_21371__JGAR_120719_4_
+Running nucmer on LMG_21371__NAK716_
+Running nucmer on LMG_21371__Ec_155_
+Running nucmer on LMG_21371__DL6_4_
+Running nucmer on LMG_21371__ZRIMU1701_SM_
+Running nucmer on LMG_21371__BL_2_
+Running nucmer on LMG_21371__BF45_
+Running nucmer on LMG_21371__ZLMLSHJ5_
+Running nucmer on LMG_21371__NAK_245_
+Running nucmer on LMG_21371__NAK_434_
+Running nucmer on LMG_21371__NAK_254_
+Running nucmer on LMG_21371__NAK_384_
+Running nucmer on LMG_21371__NJAU140_
+Running nucmer on LMG_21371__22LCQN01_1_
+Running nucmer on LMG_21371__BS1113_
+Running nucmer on LMG_21371__13_115_T_P__jejuense
+Running nucmer on LMG_21371__NCPPB_3074_
+Running nucmer on LMG_21371__NAK_468_
+Running nucmer on LMG_21371__IPO_3628_
+Running nucmer on LMG_21371__22QBSP01_1_
+Running nucmer on LMG_21371__IPO_4054_NAK_231_
+Running nucmer on LMG_21371__NAK_466_
+Running nucmer on LMG_21371__IPO_3843_
+Running nucmer on LMG_21371__ZRIMU1030_
+Running nucmer on LMG_21371__DL10_2_1_
+Running nucmer on LMG_21371__NBRC_103133_
+Running nucmer on LMG_21371__CFBP5381_
+Running nucmer on LMG_21371__IPO_3710_NAK_380_
+Running nucmer on LMG_21371__NAK701_
+Running nucmer on LMG_21371__Y64_
+Running nucmer on LMG_21371__LMG_21370_
+Running nucmer on LMG_21371__81145_96A_
+Running nucmer on LMG_21371__PL139_
+Running nucmer on LMG_21371__NCPPB_355_
+Running nucmer on LMG_21371__NJAU130_
+Running nucmer on LMG_21371__NAK_241_
+Running nucmer on LMG_21371__SR10_
+Running nucmer on LMG_21371__NAK_470_
+Running nucmer on LMG_21371__LMG_2407_
+Running nucmer on LMG_21371__123_1_
+Running nucmer on LMG_21371__1950_8_
+Running nucmer on LMG_21371__NY1563A_
+Running nucmer on LMG_21371__BSHS4_
+Running nucmer on LMG_21371__P3B_
+Running nucmer on LMG_21371__MAFF_331060_
+Running nucmer on LMG_21371__NAK644_
+Running nucmer on LMG_21371__CFIA1033_
+Running nucmer on LMG_21371__NAK700_
+Running nucmer on LMG_21371__F126_
+Running nucmer on LMG_21371__SR8_
+Running nucmer on LMG_21371__Y49_
+Running nucmer on LMG_21371__JGAR_080719_2_
+Running nucmer on LMG_21371__SR7_
+Running nucmer on LMG_21371__WZZ2024_
+Running nucmer on LMG_21371__NAK246_
+Running nucmer on LMG_21371__ZRIMU1702_DQ_
+Running nucmer on LMG_21371__Y62_
+Running nucmer on LMG_21371__PP2_
+Running nucmer on LMG_21371__NAK238_
+Running nucmer on LMG_21371__Y60_
+Running nucmer on LMG_21371__IPO_4066_NAK_259_
+Running nucmer on LMG_21371__IPO_3708_NAK_378_
+Running nucmer on LMG_21371__TS20HJ1_
+Running nucmer on LMG_21371__Y31_
+Running nucmer on LMG_21371__PD_6952_
+Running nucmer on LMG_21371__Y65_
+Running nucmer on LMG_21371__22LCQN02_3_
+Running nucmer on LMG_21371__Y29_
+Running nucmer on LMG_21371__LMG_21371_
+Running nucmer on LMG_21371__NAK682_
+Running nucmer on LMG_21371__NAK_247_
+Running nucmer on LMG_21371__BY2_
+Running nucmer on LMG_21371__IPO_3644_
+Running nucmer on LMG_21371__PD_8611_
+Running nucmer on LMG_21371__HNP201719_
+Running nucmer on LMG_21371__CD23111_
+Running nucmer on LMG_21371__A1_
+Running nucmer on LMG_21371__IPO_3630_
+Running nucmer on LMG_21371__PD_5190_
+Running nucmer on LMG_21371__730028_01_
+Running nucmer on LMG_21371__22LCQN02_2_
+Running nucmer on LMG_21371__NAK_243_
+Running nucmer on LMG_21371__NAK_385_
+Running nucmer on LMG_21371__BSRLOP2CAB_
+Running nucmer on LMG_21371__DM1_
+Running nucmer on LMG_21371__LMG_21372_
+Running nucmer on LMG_21371__22LXZD03_04_
+Running nucmer on LMG_21371__22KMSM01_
+Running nucmer on LMG_21371__1692_
+Running nucmer on LMG_21371__PD_7079_
+Running nucmer on LMG_21371__B6_
+Running nucmer on LMG_21371__D3B_
+Running nucmer on LMG_21371__21LCBS02_
+Running nucmer on LMG_21371__PD_7081_
+Running nucmer on LMG_21371__CFBP7357_
+Running nucmer on LMG_21371__NCPPB_552_
+Running nucmer on LMG_21371__JD3_4_
+Running nucmer on LMG_21371__BD163_
+Running nucmer on LMG_21371__IPO_4060_NAK_251_
+Running nucmer on LMG_21371__NAK641_
+Running nucmer on LMG_21371__S2_
+Running nucmer on LMG_21371__NCPPB_2349_
+Running nucmer on LMG_21371__1950_9_
+Running nucmer on LMG_21371__IPO_4065_NAK_223_
+Running nucmer on LMG_21371__PD_8610_
+Running nucmer on LMG_21371__NAK719_
+Running nucmer on LMG_21371__22DLYP08_
+Running nucmer on LMG_21371__MAFF_106568_
+Running nucmer on LMG_21371__YC_Y46_
+Running nucmer on LMG_21371__NJAU21_
+Running nucmer on LMG_21371__IPO_3844_NAK_382_
+Running nucmer on LMG_21371__22LCQN02_1_
+Running nucmer on LMG_21371__NCPPB_1639_
+Running nucmer on LMG_21371__BD255_
+Running nucmer on LMG_21371__IPO_0821_SCRI_133_
+Running nucmer on LMG_21371__21PCA_AGRO2_
+Running nucmer on LMG_21371__NAK_433_
+Running nucmer on LMG_21371__CFBP8736_
+Running nucmer on LMG_21371__22LJYL01_1_
+Running nucmer on LMG_21371__A079_S20_O15_
+Running nucmer on LMG_21371__NAK_435_
+Running nucmer on LMG_21371__BSROG1CAUL_A_
+Running nucmer on LMG_21371__IPO_4057_NAK_249_
+Running nucmer on LMG_21371__SR6_
+Running nucmer on LMG_21371__NJAU170_
+Running nucmer on LMG_21371__NK5_
+Running nucmer on LMG_21371__BC1_
+Running nucmer on LMG_21371__SR11_
+Running nucmer on LMG_21371__GG_2023_PCC_0001_
+Running nucmer on LMG_21371__PCC21_
+Running nucmer on LMG_21371__NJAU131_
+Running nucmer on LMG_21371__Y52_
+Running nucmer on LMG_21371__MAFF_301653_
+Running nucmer on LMG_21371__IPO_4062_NAK_237_
+Running nucmer on LMG_21371__21A07_
+Running nucmer on LMG_21371__ICMP_19477_
+Running nucmer on LMG_21371__NAK_252_
+Running nucmer on LMG_21371__Ec_153_
+Running nucmer on LMG_21371__IPO_4135_NAK_383_
+Running nucmer on LMG_21371__IPO_4056_NAK_264_
+Running nucmer on LMG_21371__JGAR_030718_1_
+Running nucmer on LMG_21371__PBR1692_
+Running nucmer on LMG_21371__NJAU134_
+Running nucmer on LMG_21371__SR5_
+Running nucmer on LMG_21371__NAK_431_
+Running nucmer on LMG_21371__22LCQN01_3_
+Running nucmer on LMG_21371__IPO_3649_NAK_375_
+Running nucmer on LMG_21371__22038_95_
+Running nucmer on LMG_21371__IPO_4068_NAK_256_
+Running nucmer on LMG_21371__NAK727_
+Running nucmer on LMG_21371__T_P__nicotianae_21LCBS03
+Running nucmer on LMG_21371__IPO_4132_NAK_239_
+Running nucmer on LMG_21371__IPO_4058_NAK_235_
+Running nucmer on LMG_21371__BP7081_
+Running nucmer on LMG_21371__IPO_4064_NAK_242_
+Running nucmer on LMG_21371__BZA12_
+Running nucmer on LMG_21371__1950_11_
+Running nucmer on LMG_21371__Y21_
+Running nucmer on LMG_21371__NAK698_
+Running nucmer on LMG_21371__NY1453A_
+Running nucmer on LMG_21371__NAK617_
+Running nucmer on LMG_21371__IPO_3643_
+Running nucmer on LMG_21371__CFIA1009_
+Running nucmer on LMG_21371__80521_93_
+Running nucmer on LMG_21371__25ASUB12_
+Running nucmer on LMG_21371__IPO_3650_NAK_376_
+Running nucmer on LMG_21371__ATCC_39048_
+Running nucmer on LMG_21371__IPO_0590_
+Running nucmer on LMG_21371__F152_
+Running nucmer on LMG_21371__1Aia_d_
+Running nucmer on LMG_21371__BF20_
+Running nucmer on LMG_21371__PCC1_
+Running nucmer on LMG_21371__63069_96_
+Running nucmer on LMG_21371__NAK_396_
+Running nucmer on LMG_21371__130_
+Running nucmer on LMG_21371__IPO_4073_
+Running nucmer on LMG_21371__IPO_4055_NAK_152_
+Running nucmer on LMG_21371__NAK673_
+Running nucmer on LMG_21371__CFBP_6617_T_P__brasiliense
+Running nucmer on LMG_21371__NAK_397_
+Running nucmer on LMG_21371__PP5_
+Running nucmer on LMG_21371__22LCQN01_5_
+Running nucmer on LMG_21371__1Aia_
+Running nucmer on LMG_21371__IPO_4067_NAK_257_
+Running nucmer on LMG_21371__NAK709_
+Running nucmer on LMG_21371__22ZTDG03_4_
+Running nucmer on LMG_21371__NAK683_
+Running nucmer on LMG_21371__IPO_3649_NAK_55_
+
+NUCmer on all reference genomes complete.
+==================================================================
+
+runContigNUCmer.pl -r /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna -q /data/djs217/PROJECTS/44_Pectobacterium/03_workdir -d /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results -l /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/contigs_list.txt -t 1 -y 2 2>>/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree.error >> /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree.log
+
+
+Using given reference:  /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna
+NUCmer on all contig/draft genomes complete.
+
+
+buildSNPDB.pl -i /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results -r /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/files/LMG_21371_.fna -l /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/working_list.txt -p pectobacterium_brasiliense_fastree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree.error >> /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree.log
+
+Reading Gaps file.
+CFIA1033_ covered 0.79270 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK700_ covered 0.84553 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BF45_ covered 0.85895 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PP2_ covered 0.84934 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4065_NAK_223_ covered 0.86901 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ZRIMU1030_ covered 0.85841 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_245_ covered 0.84039 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4058_NAK_235_ covered 0.85287 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK679_ covered 0.86921 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ZRIMU1702_DQ_ covered 0.84742 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+JGAR_030718_1_ covered 0.86294 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3630_ covered 0.85237 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR7_ covered 0.91161 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y3_ covered 0.84849 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_241_ covered 0.86813 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+D3B_ covered 0.86129 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3709_NAK_379_ covered 0.86887 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PBR1692_ covered 0.99365 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK727_ covered 0.85566 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4135_NAK_383_ covered 0.87149 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3628_ covered 0.90451 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_7079_ covered 0.84192 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SX309_ covered 0.85675 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4055_NAK_152_ covered 0.86047 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PcbHPI01_ covered 0.99497 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22DLYP08_ covered 0.84453 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+HNP201719_ covered 0.85542 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CD23111_ covered 0.84118 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP7357_ covered 0.85642 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+JGAR_080719_2_ covered 0.86245 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ATCC_39048_ covered 0.83198 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4134_NAK_395_ covered 0.86938 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_252_ covered 0.84551 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ZLMLSHJ5_ covered 0.84815 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK238_ covered 0.87098 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_5190_ covered 0.85219 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR10_ covered 0.91197 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SJHS3_1_ covered 0.86082 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_2349_ covered 0.85283 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+JGAR_120719_4_ covered 0.86259 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_434_ covered 0.84757 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU140_ covered 0.82622 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+63069_96_ covered 0.85413 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR11_ covered 0.91264 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.99309 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK673_ covered 0.86224 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_385_ covered 0.84721 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+21A07_ covered 0.86662 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+A79_S20_O15_ covered 0.86168 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y21_ covered 0.84563 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+81145_96A_ covered 0.85386 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3649_NAK_55_ covered 0.84532 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+A079_S20_O15_ covered 0.86168 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PP5_ covered 0.84937 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y64_ covered 0.85479 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU170_ covered 0.85022 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1Aia_ covered 0.85693 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+L25F_74_ covered 0.86317 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN01_5_ covered 0.86623 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4131_NAK_399_ covered 0.86323 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+YC_Y46_ covered 0.84548 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ICMP_19477_ covered 0.90702 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y60_ covered 0.84631 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_396_ covered 0.85514 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1692_ covered 0.99056 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK698_ covered 0.87085 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP_6617_T_P__brasiliense covered 0.98908 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3643_ covered 0.87008 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK682_ covered 0.87117 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+S4_16_03_1C_ covered 0.86668 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_430_ covered 0.87128 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK616_ covered 0.86274 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GG_2024_PCC_0017_ covered 0.85296 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4064_NAK_242_ covered 0.82841 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BP7081_ covered 0.86137 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK641_ covered 0.86284 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_355_ covered 0.83428 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU132_ covered 0.85202 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP8736_ covered 0.76335 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR6_ covered 0.91203 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22QBSP01_1_ covered 0.89067 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+JD3_4_ covered 0.84356 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK617_ covered 0.86256 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y52_ covered 0.84542 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+21LCBS02_ covered 0.86170 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN01_1_ covered 0.86353 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_431_ covered 0.87136 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP5381_ covered 0.84000 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_106568_ covered 0.84410 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+17A96_ covered 0.86186 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LJYL01_1_ covered 0.87133 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_0821_SCRI_133_ covered 0.85255 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22ZTDG03_4_ covered 0.85983 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22KMSM01_ covered 0.86823 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+S2_ covered 0.84773 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK716_ covered 0.86267 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_435_ covered 0.84625 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4062_NAK_237_ covered 0.85457 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_384_ covered 0.86945 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR8_ covered 0.91244 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LMG_21370_ covered 0.90473 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+123_1_ covered 0.85709 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LMG_2407_ covered 0.83543 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PCC1_ covered 0.83357 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN01_3_ covered 0.86432 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK638_ covered 0.86260 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+GG_2023_PCC_0001_ covered 0.87238 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+P3B_ covered 0.85181 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_432_ covered 0.84111 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_6952_ covered 0.85651 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LMG_21371_ covered 0.99993 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_1639_ covered 0.84619 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4057_NAK_249_ covered 0.86986 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_247_ covered 0.86831 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_7081_ covered 0.85067 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU131_ covered 0.85037 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4068_NAK_256_ covered 0.83658 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK719_ covered 0.87110 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1950_9_ covered 0.82963 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK701_ covered 0.87123 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Ec_153_ covered 0.91685 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NY1563A_ covered 0.85281 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+DL6_4_ covered 0.87388 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_254_ covered 0.85824 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+ZRIMU1701_SM_ covered 0.86268 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4132_NAK_239_ covered 0.85911 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NK5_ covered 0.87047 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_470_ covered 0.76491 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4054_NAK_231_ covered 0.85783 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+LMG_21372_ covered 0.91263 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+13_115_T_P__jejuense covered 0.86707 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y31_ covered 0.84943 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+21PCA_AGRO2_ covered 0.82714 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BD163_ covered 0.90769 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3710_NAK_380_ covered 0.86567 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK246_ covered 0.87077 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4060_NAK_251_ covered 0.86526 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4073_ covered 0.86318 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y49_ covered 0.84895 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+F152_ covered 0.84224 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NBRC_103133_ covered 0.79273 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_243_ covered 0.86302 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4056_NAK_264_ covered 0.84021 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN02_2_ covered 0.86408 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BSHS4_ covered 0.83622 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU130_ covered 0.84395 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_331060_ covered 0.87112 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_466_ covered 0.85592 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+730028_01_ covered 0.85078 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3844_NAK_382_ covered 0.85312 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PCC21_ covered 0.86052 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PL139_ covered 0.90197 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3708_NAK_378_ covered 0.86105 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+TS20HJ1_ covered 0.83899 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+T_P__nicotianae_21LCBS03 covered 0.86082 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK644_ covered 0.86240 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1950_11_ covered 0.85592 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1950_36_ covered 0.89292 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_397_ covered 0.85679 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CJ5_2_ covered 0.83731 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3650_NAK_376_ covered 0.87116 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_8610_ covered 0.86093 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Ec_155_ covered 0.91166 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_552_ covered 0.79771 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4071_NAK_240_ covered 0.87039 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+F157_ covered 0.86385 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+DL10_2_1_ covered 0.87383 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WZZ2024_ covered 0.85324 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_468_ covered 0.76117 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU21_ covered 0.85547 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_433_ covered 0.76439 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK709_ covered 0.85056 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BF20_ covered 0.90351 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BY2_ covered 0.84238 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+130_ covered 0.87039 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN02_1_ covered 0.86732 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NJAU134_ covered 0.86204 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+B6_ covered 0.84067 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3843_ covered 0.87161 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFIA1001_ covered 0.85910 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y65_ covered 0.84320 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+F126_ covered 0.87004 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+S1_16_01_3K_ covered 0.86627 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NY1453A_ covered 0.86029 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BZA12_ covered 0.85947 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+80521_93_ covered 0.85833 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LCQN02_3_ covered 0.86338 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3644_ covered 0.86620 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP3230_ covered 0.86434 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+25ASUB12_ covered 0.86326 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+MAFF_301653_ covered 0.86142 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3649_NAK_375_ covered 0.86944 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+JGAR_100719_1_ covered 0.86202 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BL_2_ covered 0.86443 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y29_ covered 0.84794 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22038_95_ covered 0.85395 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+80519_93_ covered 0.85825 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+DM1_ covered 0.91083 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BC1_ covered 0.84567 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BSRLOP2CAB_ covered 0.85441 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+22LXZD03_04_ covered 0.85817 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Y62_ covered 0.84704 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PP1_ covered 0.84938 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1950_8_ covered 0.82931 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BD255_ covered 0.90759 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK650_ covered 0.86303 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_0590_ covered 0.82142 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4067_NAK_257_ covered 0.83989 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+SR5_ covered 0.91244 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+A1_ covered 0.82732 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK683_ covered 0.86299 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3707_NAK_377_ covered 0.85091 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_4066_NAK_259_ covered 0.86536 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_3074_ covered 0.90896 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+1Aia_d_ covered 0.85624 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BSROG1CAUL_A_ covered 0.86048 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFIA1009_ covered 0.85440 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+BS1113_ covered 0.85693 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NAK_250_ covered 0.85567 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+IPO_3711_NAK_381_ covered 0.86935 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+PD_8611_ covered 0.83157 of the LMG_21371_ (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+Printing Summary Statistics.
+Creating SNP alignment.
+Creating SNP stats file. 
+SNP alignment complete.
+Reconstructing phylogeny using FastTree
+export OMP_NUM_THREADS=1; FastTree -quiet -nt -gtr < /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree_all_snp_alignment.fna > /data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree_all.fasttree 2>>/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/pectobacterium_brasiliense_fastree.error 
+
+Tree phylogeny complete.

@@ -1,0 +1,2 @@
+Reference	Length	Non-Repeat	Repeat size
+Y3_	4740143	4713131	27012

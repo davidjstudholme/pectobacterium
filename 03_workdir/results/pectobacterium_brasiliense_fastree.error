@@ -1,0 +1,6 @@
+Smartmatch is experimental at /data/djs217/miniconda3/envs/phame_env/bin/../lib/misc_funcs.pm line 26.
+mv: cannot stat '/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/*.snps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/*.gaps': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/*_snp_INDEL.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/*_gaps.txt': No such file or directory
+mv: cannot stat '/data/djs217/PROJECTS/44_Pectobacterium/03_workdir/results/*.coords': No such file or directory

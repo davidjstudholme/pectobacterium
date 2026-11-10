@@ -1,0 +1,4 @@
+
+CFIA1001_ size:	4765951
+Repeats segment #:	106
+Repeats total length:	17442 (0.37%)

@@ -1,0 +1,4 @@
+
+Y3_ size:	4740143
+Repeats segment #:	107
+Repeats total length:	27332 (0.58%)
