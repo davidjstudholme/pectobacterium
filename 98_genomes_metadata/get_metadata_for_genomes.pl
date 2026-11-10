@@ -39,14 +39,15 @@ my @assemblies;
 foreach my $assembly_accession (sort keys %assembly_accessions) {
     warn "Assembly '$assembly_accession'\n";
     my $cmd = "esearch -db assembly -query $assembly_accession | efetch -format docsum | \
-       	    xtract -pattern DocumentSummary -element $elements_string";
+       	      xtract -pattern DocumentSummary -element $elements_string";
     warn "$cmd\n";
     open my $fh, "-|", $cmd or die "Cannot run $cmd: $!";
+    sleep 1;
     while (my $readline = <$fh>) {
 	chomp $readline;
 	my %metadata;
 	my @fields = split /\t/, $readline, -1;
-
+	
 	if (@fields != @elements) {
 	    warn "WARNING: Field count mismatch for $assembly_accession\n";
 	    warn "Expected: " . scalar(@elements) . ", got: " . scalar(@fields) . "\n";
@@ -68,7 +69,9 @@ foreach my $metadata_ref (@assemblies) {
     my $cmd = "esearch -db biosample -query $$metadata_ref{'BioSampleAccn'} | \
        	      	   efetch -format xml | \
     		   xtract -pattern Attribute -if '\@attribute_name' -equals \"strain\" -element .";
+    warn "$cmd";
     my $result = `$cmd`;
+    sleep 1;
     chomp $result;
     #warn "\t$result\n";
     if ($result =~ m/Attribute\s+\"(.+)\"/) {
@@ -82,6 +85,7 @@ foreach my $metadata_ref (@assemblies) {
 	    efetch -format xml | \ 
 	    xtract -pattern Attribute -if '\@attribute_name' -equals \"pathovar\" -element .";
     $result = `$cmd`;
+    sleep 1;
     chomp $result;
     #warn "\t$result\n";
     if ($result =~ m/Attribute\s+\"(.+)\"/) {
@@ -94,7 +98,9 @@ foreach my $metadata_ref (@assemblies) {
     $cmd = "esearch -db biosample -query $$metadata_ref{'BioSampleAccn'} | \
     	   efetch -format docsum | \
     	   xtract -pattern Owner -element Name";
+    warn "$cmd";
     $result = `$cmd`;
+    sleep 1;
     chomp $result;
     my $owner = $result;
     warn "\tOwner=$owner\n";
@@ -104,7 +110,9 @@ foreach my $metadata_ref (@assemblies) {
     $cmd = "esearch -db biosample -query $$metadata_ref{'BioSampleAccn'} | \
            efetch -format docsum | \ 
            xtract -pattern Links -element Link";
+    warn "$cmd";
     $result = `$cmd`;
+    sleep 1;
     chomp $result;
     $result =~ s/\t/ /g; # Remove any internal tab characters that might arise form there being multiple links
     my $link = $result;
@@ -112,7 +120,6 @@ foreach my $metadata_ref (@assemblies) {
     $$metadata_ref{'Link'} = $link;
 
 }
-
 
 ### Print header line
 my @elements_tmp = (@elements, 'Strain', 'Pathovar', 'Owner', 'Link');
