@@ -13,7 +13,7 @@ bowtie2                   2.5.4                h7071971_4    bioconda
 bwa                       0.7.18               he4a0461_1    bioconda
 bzip2                     1.0.8                h4bc722e_7    conda-forge
 c-ares                    1.33.1               heb4867d_0    conda-forge
-ca-certificates           2024.8.30            hbcca054_0    conda-forge
+ca-certificates           2026.4.22            hbd8a1cb_0    conda-forge
 cairo                     1.16.0               hb05425b_5  
 clustalo                  1.2.4                hdbdd923_8    bioconda
 clustalw                  2.1                 h4ac6f70_10    bioconda
@@ -98,7 +98,7 @@ ncbi-vdb                  3.1.1                h4ac6f70_2    bioconda
 ncurses                   6.5                  he02047a_1    conda-forge
 openjdk                   17.0.3               hea3dc9f_3    conda-forge
 openmpi                   4.1.6              hc5af2df_101    conda-forge
-openssl                   3.3.2                hb9d3cd8_0    conda-forge
+openssl                   3.6.2                h35e630c_0    conda-forge
 paml                      4.10.7               h031d066_1    bioconda
 pcre2                     10.43                hcad00b1_0    conda-forge
 perl                      5.32.1          7_hd590300_perl5    conda-forge
@@ -243,6 +243,7 @@ readline                  8.2                  h8228510_1    conda-forge
 rhash                     1.4.4                hd590300_0    conda-forge
 rpsbproc                  0.5.0                h6a68c12_0    bioconda
 samtools                  1.21                 h50ea8bc_0    bioconda
+seqkit                    2.13.0               he881be0_0    bioconda
 setuptools                75.1.0             pyhd8ed1ab_0    conda-forge
 t-coffee                  12.00.7fb08c2        h26a2512_0    bioconda
 tk                        8.6.13          noxft_h4845f30_101    conda-forge

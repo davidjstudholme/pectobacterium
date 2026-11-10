@@ -2,9 +2,9 @@
       workdir = ../03_workdir # directory where contigs/reads files are located and output is stored
 
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
-      reffile = LMG_21371_brasiliense.fasta  # reference filename 
+      reffile = LMG_21371_.fasta  # reference filename 
 
-      project = pectobacterium_project_fastree  # main alignment file name
+      project = pectobacterium_brasiliense_fastree  # main alignment file name
 
       cdsSNPS = 0  # 0:no cds SNPS; 1:cds SNPs
 
@@ -18,7 +18,6 @@
                    # 3:combination F+C; 4:combination F+R; 5:combination C+R; 
                    # 6:combination F+C+R; 7:realignment  *See below 
         reads = 2  # 1: single reads; 2: paired reads; 3: both types present;
-
 
       aligner = bowtie # support bowtie/bwa/minimap2
 
