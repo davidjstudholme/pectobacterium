@@ -21,11 +21,17 @@ while (<$fh>) {
 
 ### Define which elements of assembly metadata will be queried
 my @elements = qw(AssemblyAccession
+		  Synonym/Genbank
+		  Synonym/RefSeq
 		  AssemblyName
 		  Organism
 		  SpeciesTaxid
 		  BioSampleAccn
 		  ContigN50
+		  ScaffoldN50
+		  AssemblyStatus
+		  SequencingTechnology
+		  SubmissionDate
 		  Coverage);
 my @elements_tmp = @elements;
 my $elements_string = shift @elements_tmp;
@@ -42,7 +48,7 @@ foreach my $assembly_accession (sort keys %assembly_accessions) {
        	      xtract -pattern DocumentSummary -element $elements_string";
     warn "$cmd\n";
     open my $fh, "-|", $cmd or die "Cannot run $cmd: $!";
-    sleep 1;
+    sleep 0.1;
     while (my $readline = <$fh>) {
 	chomp $readline;
 	my %metadata;
@@ -71,7 +77,7 @@ foreach my $metadata_ref (@assemblies) {
     		   xtract -pattern Attribute -if '\@attribute_name' -equals \"strain\" -element .";
     warn "$cmd";
     my $result = `$cmd`;
-    sleep 1;
+    sleep 0.1;
     chomp $result;
     #warn "\t$result\n";
     if ($result =~ m/Attribute\s+\"(.+)\"/) {
@@ -85,7 +91,7 @@ foreach my $metadata_ref (@assemblies) {
 	    efetch -format xml | \ 
 	    xtract -pattern Attribute -if '\@attribute_name' -equals \"pathovar\" -element .";
     $result = `$cmd`;
-    sleep 1;
+    sleep 0.1;
     chomp $result;
     #warn "\t$result\n";
     if ($result =~ m/Attribute\s+\"(.+)\"/) {
@@ -100,7 +106,7 @@ foreach my $metadata_ref (@assemblies) {
     	   xtract -pattern Owner -element Name";
     warn "$cmd";
     $result = `$cmd`;
-    sleep 1;
+    sleep 0.1;
     chomp $result;
     my $owner = $result;
     warn "\tOwner=$owner\n";
@@ -112,7 +118,7 @@ foreach my $metadata_ref (@assemblies) {
            xtract -pattern Links -element Link";
     warn "$cmd";
     $result = `$cmd`;
-    sleep 1;
+    sleep 0.1;
     chomp $result;
     $result =~ s/\t/ /g; # Remove any internal tab characters that might arise form there being multiple links
     my $link = $result;
