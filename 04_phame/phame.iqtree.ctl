@@ -2,7 +2,7 @@
       workdir = ../03_workdir # directory where contigs/reads files are located and output is stored
 
     reference = 1  # 0:pick a random reference; 1:use given reference; 2: use ANI based reference
-      reffile = LMG_21371_.fasta  # reference filename 
+      reffile = GCA_000754695.1_ASM75469v1_genomic.fna  # reference filename 
 
       project = pectobacterium_brasiliense_iqtree  # main alignment file name
 

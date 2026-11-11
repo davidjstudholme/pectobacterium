@@ -1,2 +1,2 @@
-ln -s ../01_genomes/LMG_21371_brasiliense.fasta  .
+ln -s ../01_genomes/GCA_000754695.1_ASM75469v1_genomic.fna  .
 

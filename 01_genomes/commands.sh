@@ -6,7 +6,7 @@ chmod u+x datasets
 ./datasets download genome accession --inputfile assm_accs.txt --include genome --filename genome_assemblies.zip
 unzip genome_assemblies.zip
 ln -s ncbi_dataset/data/GCA_*/GCA_*.fna .
-ln -s ncbi_dataset/data/GCF_*/GCF_*.fna .
+#ln -s ncbi_dataset/data/GCF_*/GCF_*.fna .
 rm README.md
 
 ### Make symlinks to the genome sequence files such that symlinks have informative names and appropriate extensions for input to PhaME:
