@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# Create an iTOL DATASET_HEATMAP showing ANI to two type strains.
+# Create an iTOL heatmap and categorical colour strip from type-strain ANI.
 # Run in the directory containing the ANI CSV and PhaME Newick tree.
 # Usage: Rscript make_itol_ANI_heatmap.R pectobacterium_ANI_matrix.csv PhaME_tree.nwk
 
@@ -7,6 +7,7 @@ args <- commandArgs(trailingOnly = TRUE)
 ani_file <- if (length(args) >= 1) args[1] else "pectobacterium_ANI_matrix.csv"
 tree_file <- if (length(args) >= 2) args[2] else "pectobacterium_brasiliense_fastree_all.fasttree"
 out_file <- if (length(args) >= 3) args[3] else "itol_ANI_type_strains.txt"
+strip_file <- if (length(args) >= 4) args[4] else "itol_ANI_closest_type_strain.txt"
 
 if (!requireNamespace("ape", quietly = TRUE)) {
   stop("Install the ape package first: install.packages('ape')")
@@ -70,11 +71,11 @@ header <- c(
   "DATASET_HEATMAP",
   "SEPARATOR COMMA",
   "DATASET_LABEL,ANI to type strains",
-  "COLOR,#0072B2",
+  "COLOR,#6A3D9A",
   "FIELD_LABELS,P. brasiliense type,P. nicotianae type",
-  "COLOR_MIN,#FFF7EC",
-  "COLOR_MAX,#08519C",
-  "USER_MIN_VALUE,93",
+  "COLOR_MIN,#FDE725",
+  "COLOR_MAX,#440154",
+  "USER_MIN_VALUE,94.5",
   "USER_MAX_VALUE,100",
   "DATA"
 )
@@ -90,3 +91,34 @@ cat("Tree tips:", length(tips), "\n")
 cat("ANI range:", paste(round(range(as.matrix(values[, 2:3])), 4), collapse = " to "), "\n")
 cat("Missing values:", sum(is.na(values[, 2:3])), "\n")
 cat("Type strains:", brasiliense, "and", nicotianae, "\n")
+
+# A separate categorical colour strip: which type-strain genome has higher ANI?
+# This is NOT a species classification.
+delta <- values$ANI_nicotianae - values$ANI_brasiliense
+category <- ifelse(delta > 0, "Higher ANI to proposed P. nicotianae type",
+                   ifelse(delta < 0, "Higher ANI to P. brasiliense type", "Equal ANI"))
+strip_colours <- ifelse(delta > 0, "#CC79A7",
+                        ifelse(delta < 0, "#009E73", "#999999"))
+strip_header <- c(
+  "DATASET_COLORSTRIP",
+  "SEPARATOR COMMA",
+  "DATASET_LABEL,Higher ANI to type strain",
+  "COLOR,#009E73",
+  "STRIP_WIDTH,35",
+  "MARGIN,5",
+  "SHOW_INTERNAL,0",
+  "LEGEND_TITLE,Higher ANI to type strain",
+  "LEGEND_SHAPES,1,1,1",
+  "LEGEND_COLORS,#009E73,#CC79A7,#999999",
+  "LEGEND_LABELS,P. brasiliense,proposed P. nicotianae,equal ANI",
+  "DATA"
+)
+con2 <- file(strip_file, open = "wt")
+writeLines(strip_header, con2)
+write.table(data.frame(ID = tips, colour = strip_colours, label = category),
+            con2, sep = ",", row.names = FALSE, col.names = FALSE, quote = FALSE)
+close(con2)
+cat("Wrote:", strip_file, "\n")
+cat("Higher ANI to P. brasiliense:", sum(delta < 0), "\n")
+cat("Higher ANI to proposed P. nicotianae:", sum(delta > 0), "\n")
+cat("Equal ANI:", sum(delta == 0), "\n")
