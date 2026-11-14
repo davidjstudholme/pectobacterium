@@ -1,0 +1,45 @@
+{
+    "version": "2.8.0",
+    "command_line": "gtdbtk classify_wf --batchfile genomes.tsv --out_dir gtdbtk_results_retry --cpus 12 --pplacer_cpus 1 --scratch_dir /data/djs217/gtdbtk_scratch",
+    "database_version": "r232",
+    "database_path": "/data/djs217/miniconda3/envs/gtdbtk/share/gtdbtk-2.8.0/db",
+    "steps": [
+        {
+            "name": "ANI screen",
+            "output_dir": "gtdbtk_results_retry",
+            "starts_at": "2026-11-14T09:57:52.537188",
+            "ends_at": "2026-11-14T10:04:23.858950",
+            "duration": "0:06:31",
+            "status": "completed",
+            "genome_dir": null,
+            "batchfile": "genomes.tsv",
+            "min_af": 0.5,
+            "output_files": {
+                "bac120": "gtdbtk_results_retry/classify/ani_screen/gtdbtk.bac120.ani_summary.tsv"
+            },
+            "unassigned_hits_file": "gtdbtk_results_retry/classify/ani_screen/gtdbtk.ani_screen_unassigned_hits.tsv.gz"
+        },
+        {
+            "name": "classify",
+            "output_dir": "gtdbtk_results_retry",
+            "starts_at": "2026-11-14T10:04:23.909692",
+            "ends_at": "2026-11-14T10:04:25.449659",
+            "duration": "0:00:01",
+            "status": "completed",
+            "align_dir": null,
+            "genome_dir": null,
+            "batchfile": "genomes.tsv",
+            "scratch_dir": "/data/djs217/gtdbtk_scratch",
+            "debug_option": false,
+            "full_tree": false,
+            "place_species": false,
+            "output_files": {
+                "bac120": [
+                    "gtdbtk_results_retry/classify/gtdbtk.bac120.summary.tsv"
+                ]
+            }
+        }
+    ],
+    "output_dir": "gtdbtk_results_retry",
+    "path": "gtdbtk_results_retry/gtdbtk.json"
+}
