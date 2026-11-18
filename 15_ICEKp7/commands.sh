@@ -13,22 +13,19 @@
 #python3 extract_gbk.py WP_039518852.1 WP_205594531.1
 #python3 extract_gbk.py KHS98812.1 KHS98772.1
 
-# Extract from strain PP1: upstream of tRNA to ACZ-4D_08835, which is downstream of the 17-bp repeat
-python3 extract_gbk.py MHG0286805.1 WP_010281471.1
-
-# Extract region from strain DQ 
-python3 extract_gbk.py WP_039500298.1 WP_406643116.1
-
-# Extract region from strain BC1
-python3 extract_gbk.py WP_039500298.1 WP_039504507.1
+# Extract from strains BC1, BY2, DQ, PP1, PP2, PP5
+python3 extract_gbk.py WP_012885291.1 WP_010281471.1
 
 # Activate the Conda environment
 conda activate clinker_env
 conda list -n clinker_env > clinker_env_packages.txt
 conda env export > clinker_env.yaml
 
-# Align ICEKp7 to PP1
-clinker -p ICEKp7.clinker.html ICEKp7.gb PP1.MHG0286805.1_to_WP_010281471.1.gbk BC1.WP_039500298.1_to_WP_039504507.1.gbk DQ.WP_039500298.1_to_WP_406643116.1.gbk
+# Align ICEKp7 to PP1, BC1 and DQ
+clinker -p ICEKp7.clinker.html ICEKp7.gb PP1.WP_012885291.1_to_WP_010281471.1.gbk BC1.WP_039500298.1_to_WP_039504507.1.gbk DQ.WP_039500298.1_to_WP_406643116.1.gbk
+
+# Align ICEKp7 to all
+clinker -p ICEKp7.all.clinker.html ICEKp7.gb *.gbk
 
 
 
