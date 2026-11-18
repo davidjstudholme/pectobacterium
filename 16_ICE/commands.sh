@@ -22,7 +22,7 @@ python3 extract_gbk.py WP_406640865.1 WP_406640863.1
 
 
 # Align ICEKp7 to all
-clinker -p ICEKp7.all.clinker.html ICEKp7.gb *.gbk
+clinker -p ICE.all.clinker.html *.gbk
 
 
 
