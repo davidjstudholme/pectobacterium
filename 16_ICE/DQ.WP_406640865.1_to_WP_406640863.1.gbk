@@ -1,0 +1,127 @@
+LOCUS       NZ_CP136135.1_WP_406640865.1_to_WP_406640863.1 2949 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region from protein_id WP_406640865.1 to WP_406640863.1.
+ACCESSION   NZ_CP136135.1_WP_406640865.1_to_WP_406640863.1
+VERSION     NZ_CP136135.1_WP_406640865.1_to_WP_406640863.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(1..267)
+                     /gene="iraP"
+                     /locus_tag="RND74_RS13575"
+     CDS             complement(1..267)
+                     /gene="iraP"
+                     /locus_tag="RND74_RS13575"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005974400.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="anti-adapter protein IraP"
+                     /protein_id="WP_406640863.1"
+                     /translation="MNNILSHLLIKLAEKEVGEKALNAKIESLEMLISAIVSILDDSKI
+                     NELNRKIEGVVADASQRQNEHNYLALELLAKNINRITTVSLRE"
+     gene            complement(<661..930)
+                     /locus_tag="RND74_RS13580"
+                     /pseudo=""
+     CDS             complement(<661..930)
+                     /locus_tag="RND74_RS13580"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017802760.1"
+                     /GO_function="GO:0003700 - DNA-binding transcription factor
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006355 - regulation of DNA-templated
+                     transcription [Evidence IEA]"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing C-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product="LysR family transcriptional regulator"
+     gene            1310..1385
+                     /locus_tag="RND74_RS13585"
+     tRNA            1310..1385
+                     /locus_tag="RND74_RS13585"
+                     /product="tRNA-Asn"
+                     /inference="COORDINATES: profile:tRNAscan-SE:2.0.12"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: tRNAscan-SE."
+                     /anticodon=(pos:2988546..2988548,aa:Asn,seq:gtt)
+     gene            1777..2949
+                     /locus_tag="RND74_RS13590"
+     CDS             1777..2949
+                     /locus_tag="RND74_RS13590"
+                     /EC_number="3.1.-.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010298930.1"
+                     /GO_component="GO:0005829 - cytosol [Evidence IEA]"
+                     /GO_function="GO:0016787 - hydrolase activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dienelactone hydrolase family protein"
+                     /protein_id="WP_406640865.1"
+                     /translation="MRHHSIASFIRVTVITALFCLSFSSIATPMNASLKNQQFEGLIRE
+                     PLSLQVTLDNGKPAVLDAFVTRPVSQTKLPVVVITNGTVGTAEFDRWEMNPNRESSTAL
+                     AFARHGYAAVTVLREGYGYSSGGAEYSGGSCKQPLHKLAGEKDTRDMLAALEAIRRQPW
+                     ASPDKAVLAGMSAGGFAVLATSAANPPSVQAIINFDGGRGSIDGKSLCDRSGLIKAFTT
+                     YGLTARIPSLWLYSSNDQSFTPEMGRAFYDAYRSGGGKAEFIEMPAFEKNGHVFMDTAP
+                     EDFWWKTVAGFLAQQHLPVEEVVTLPVTHLTPPADLNNLAGKKAFKKYEAARLYEKAFA
+                     TNKDGAWGTAYWARTGHEAADIAVKNCEKHQSKGAASCTVYAINDEVVAK"
+ORIGIN
+        1 ttattcccgc aatgaaacgg ttgtgattcg attgatgttt tttgccaata gttcgagagc
+       61 taagtaatta tgttcattct gccgctgtga agcatcagca acgacacctt ctatctttct
+      121 atttaactca ttgattttac tgtcatcaag tattgaaaca atagcagaaa tcagcatctc
+      181 taacgattca atcttcgcgt taagcgcttt ttctccaact tctttttctg ccaactttat
+      241 taaaagatga gagaggatat tattcatttg aactccttaa tcaaaaaaat aaccgtcata
+      301 cacccataag gcaacacctg ttcttggtgc acaggattag agaaaacata acgaagatta
+      361 atgtaacact gtgaatggcc tgaccgctag tgtctattat cattttaaga aaatcatatt
+      421 cacacggcag caataaaatg aagttgcaga taaataaacc aaataaataa aaaaactaaa
+      481 aaaccatttt atttttaaga gcaaaaatcc ctgctttgag gaagctagat gatgctatga
+      541 gttgtgatag tcttcacaaa aaaataagaa agagcaccat tttgatcgaa catctgacac
+      601 aaaaatctga tgagtagcca gccatcggga aatggctggc tctatggcta acgcttacgc
+      661 actcattgat tgtcgtgcgc cactcaccgc atcctttgcc tgttcgcact gtgacaatat
+      721 cgtctgtgca tgagaataaa gaattttccc cgcctcggtg ggcgtcacac cacgccggct
+      781 ccgtaccagc agctgttttt cgagttcact ctccagcgtc gcgacctgct ggctcagcgc
+      841 cggttgtgca atatgcaaca actcagcagc ctgtgtcagg ctaccgatat caacgatttt
+      901 cacaaaatac ttgagccgtc taagattcat gtctgcctcc tgagtagtta ccctaaagag
+      961 gtagcaaaaa gcgcgccata ttatgtttct atgcctaaga aaaagtgata cctcattgat
+     1021 aagccacagg taaaataagg aaaagcaatg attctgctaa ccaaaacgcc tgattctgtc
+     1081 tgggaaaccc gtcatcaagc ccataccaac ctgcaccatc ttaaagcaac ccctgctatt
+     1141 ttagggtgca aacccgcccg cgactcagcg tatttcattg ctttccagtg ctcaacttga
+     1201 gcaataattt caatatgttg gttattagtt cggcaatcaa acgcaccaag cgataacagc
+     1261 ctttgacaac ccgaaacgct cccgctatta tccatcgcac ttaaccgatt cctctgtagt
+     1321 tcagtcggta gaacggcgga ctgttaatcc gtatgtcact ggttcgagtc cagtcagagg
+     1381 agccacattt agaaaatccc gcttaaggta acttaagcgg gatttttgtt tttatcatct
+     1441 tattcaatgc cttcgcgtgc aaaaatcttt ccggtacaca ttctgttttc cctctgcatc
+     1501 gggagaatct ggtggtcaga tttggggtct ttccggttcg atgacgaagt gacccccaaa
+     1561 tatctcttag cgactgtctc gtcacagagc gaaactcaca gcgcccaaac gttctgataa
+     1621 ccccttaaaa ctatccgact cacacggcct atgcatttat ttaaaccgca gctcaataga
+     1681 ctttctgttg ccgttgaggc cgaaatgaat acctgatatt catcgacacg cgttgaacga
+     1741 aaaaacctca tcaaacactt gctaaggtta acaaaaatgc gacatcactc tatagccagc
+     1801 ttcatcagag taaccgtcat tactgcattg ttttgtctct ccttttcttc catcgccacc
+     1861 ccaatgaatg cttcactaaa aaaccagcaa ttcgaaggcc taatcaggga accactgtcg
+     1921 ttgcaggtca cgctggataa tggtaagccc gccgtactcg atgccttcgt cacccgacca
+     1981 gtcagccaga caaagctccc tgtggtggtg atcacgaatg gcactgtggg tacggccgaa
+     2041 tttgatcgct gggaaatgaa tccaaaccgc gaatcgtcaa cggcgcttgc ctttgcgcgc
+     2101 cacggttatg ccgcggtgac cgttctacgg gaggggtacg gctattcaag cggtggggcc
+     2161 gaatattcag gtggttcctg taagcaaccg ctgcataagc tggcaggtga aaaagacaca
+     2221 cgagatatgc tggctgcgct tgaggctata aggcgccagc cctgggcctc accggataaa
+     2281 gcagtgctgg caggaatgtc agcgggcggt tttgctgtgc tggcaaccag tgcggctaac
+     2341 cctcccagcg ttcaggctat catcaatttt gacggaggca gaggttccat cgacggtaaa
+     2401 tcactttgtg atagatccgg cctgattaaa gcattcacca cgtatggcct caccgcacgc
+     2461 attccttctc tgtggctcta ttccagcaat gatcaatcgt tcacaccaga aatgggcaga
+     2521 gcattttatg acgcctatcg tagcggtggt ggtaaagcgg aatttatcga aatgcccgct
+     2581 tttgaaaaaa atgggcacgt ctttatggat acagcccctg aggatttctg gtggaaaacc
+     2641 gtggcgggat tccttgcgca gcaacacttg ccagtcgagg aagtcgtaac cttaccggta
+     2701 acacatctta cgccgcccgc agacctgaat aaccttgcag gcaaaaaggc attcaaaaaa
+     2761 tacgaagcgg cacgactgta cgaaaaagcg tttgcgacaa acaaagacgg ggcctggggt
+     2821 acagcatact gggcgcgaac cggccatgag gcggctgaca tcgccgttaa aaactgtgaa
+     2881 aaacaccaga gcaaaggagc cgcgagttgc acggtctatg ccatcaatga tgaggttgtc
+     2941 gcaaagtag
+//
